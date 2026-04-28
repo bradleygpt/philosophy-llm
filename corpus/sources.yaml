@@ -1,0 +1,68 @@
+# Corpus source manifest for the Philosophy LLM project.
+#
+# Each source declares which model variant it belongs to:
+#   - personal:    full corpus including SEP (local use only)
+#   - publishable: SEP-free corpus (distributable / shareable)
+#
+# Acquisition scripts read this file (or its conventions) to determine
+# which sources to download for a given variant.
+#
+# See docs/decisions/0001-corpus-strategy-and-distribution.md for rationale.
+
+sources:
+
+  gutenberg:
+    name: "Project Gutenberg Philosophy Texts"
+    type: primary_texts
+    license: public-domain
+    variants: [personal, publishable]
+    acquisition_script: scripts/acquire_gutenberg.py
+    notes: |
+      Curated list of public domain philosophy primary sources.
+      Plato, Aristotle, Hume, Kant, Mill, Nietzsche, Descartes,
+      Spinoza, Locke, Berkeley, Hobbes, Rousseau, Schopenhauer,
+      Marcus Aurelius, Epictetus, Bacon, James, Russell.
+      Direct file downloads from gutenberg.org.
+
+  arxiv_philosophy:
+    name: "arXiv Philosophy Papers"
+    type: papers
+    license: cc-or-similar
+    variants: [personal, publishable]
+    acquisition_script: scripts/acquire_arxiv.py
+    notes: |
+      Recent papers from arXiv philosophy categories.
+      Categories: physics.hist-ph, cs.CY, cs.AI (filtered for
+      philosophy/alignment relevance).
+      Bulk metadata + full-text PDF download via arXiv API.
+
+  iep:
+    name: "Internet Encyclopedia of Philosophy"
+    type: encyclopedia
+    license: open-access-attribution
+    base_url: "https://iep.utm.edu/"
+    variants: [personal, publishable]
+    acquisition_script: scripts/acquire_iep.py
+    crawl_delay_seconds: 3
+    notes: |
+      Open-access philosophical encyclopedia, ~890 entries.
+      Crawled with attribution preserved.
+      Polite 3-second delay between requests.
+      Indexed via 26 A-Z letter pages.
+
+  sep:
+    name: "Stanford Encyclopedia of Philosophy"
+    type: encyclopedia
+    license: stanford-restricted
+    base_url: "https://plato.stanford.edu/"
+    variants: [personal]
+    acquisition_script: scripts/acquire_sep.py
+    crawl_delay_seconds: 5
+    notes: |
+      Stanford Encyclopedia of Philosophy. Personal variant only.
+      Authors retain copyright; Stanford holds exclusive online
+      publication license. Crawling for indexing is explicitly
+      permitted under SEP terms of use.
+      Polite 5-second delay between requests (slower than IEP).
+      See docs/decisions/0001-corpus-strategy-and-distribution.md
+      for full analysis.
