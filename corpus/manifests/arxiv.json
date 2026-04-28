@@ -1,0 +1,1449 @@
+{
+  "source": "arxiv",
+  "generated_at": "2026-04-28T19:15:36.174566+00:00",
+  "file_count": 240,
+  "total_bytes": 18529464,
+  "total_mb": 17.67,
+  "files": [
+    {
+      "filename": "arxiv_2601_16246v1.txt",
+      "size_bytes": 104270,
+      "size_chars_approx": 104270,
+      "sha256": "64c5e612c7213208ad3606a131ee999471d51e46610cc679dde9bbd0bf5c39c0"
+    },
+    {
+      "filename": "arxiv_2601_16678v1.txt",
+      "size_bytes": 18215,
+      "size_chars_approx": 18215,
+      "sha256": "b949188408d06d089afa2d2f7c8ad7268c278a14011502d8732347ebf1ad14cc"
+    },
+    {
+      "filename": "arxiv_2601_20488v1.txt",
+      "size_bytes": 25496,
+      "size_chars_approx": 25496,
+      "sha256": "ce19c81cf1bda68d8dcbf798e08698d1cf2a3c56be6065b77b9f7a8091f7f70b"
+    },
+    {
+      "filename": "arxiv_2601_22133v1.txt",
+      "size_bytes": 108200,
+      "size_chars_approx": 108200,
+      "sha256": "ae55848932c09338e6004a1ca2f241c2f591f20c491d725a15f3b57c58058992"
+    },
+    {
+      "filename": "arxiv_2601_22188v1.txt",
+      "size_bytes": 59886,
+      "size_chars_approx": 59886,
+      "sha256": "622585f04fe48f28a2129352999e3b8340abe45669e5e0ed342691daf58651ff"
+    },
+    {
+      "filename": "arxiv_2602_01043v1.txt",
+      "size_bytes": 43636,
+      "size_chars_approx": 43636,
+      "sha256": "25dd0a28202571bc4489fa2add144e12a49ba049fbb77656d695ba460f22c71e"
+    },
+    {
+      "filename": "arxiv_2602_01302v1.txt",
+      "size_bytes": 48029,
+      "size_chars_approx": 48029,
+      "sha256": "8228237bb830d031aeb398aceb15213598c9a64a3cc8334e0956aedd8345a544"
+    },
+    {
+      "filename": "arxiv_2602_02667v1.txt",
+      "size_bytes": 158203,
+      "size_chars_approx": 158203,
+      "sha256": "1e3186003854c99998dda25db3a12c3a0cd7b01525cad2bec8f8d46ad67927eb"
+    },
+    {
+      "filename": "arxiv_2602_03244v1.txt",
+      "size_bytes": 48326,
+      "size_chars_approx": 48326,
+      "sha256": "dfb7f5bb1257d033a981052fd932a877890bd87be3a81aae952fd174d6730318"
+    },
+    {
+      "filename": "arxiv_2602_04484v1.txt",
+      "size_bytes": 58343,
+      "size_chars_approx": 58343,
+      "sha256": "5960f3b304c85c31349407782b2f4606b2e22676e1c65c831333376392609250"
+    },
+    {
+      "filename": "arxiv_2602_05063v1.txt",
+      "size_bytes": 47613,
+      "size_chars_approx": 47613,
+      "sha256": "046b93b1fd242d1a4bb29b03823ea921939e26215c7ec605b3ae74f57923c13a"
+    },
+    {
+      "filename": "arxiv_2602_06058v1.txt",
+      "size_bytes": 35422,
+      "size_chars_approx": 35422,
+      "sha256": "a783705a68ede8a7c244c819bd300d9c8f2ded16f43d739a641b4d568b3257e0"
+    },
+    {
+      "filename": "arxiv_2602_07053v1.txt",
+      "size_bytes": 15666,
+      "size_chars_approx": 15666,
+      "sha256": "42628e516aa0914dc0ec3a310831ccb5b9cdbbb77b6c510d46a14c6af71a895f"
+    },
+    {
+      "filename": "arxiv_2602_07402v1.txt",
+      "size_bytes": 82329,
+      "size_chars_approx": 82329,
+      "sha256": "c357bb1d3ee4524f5c2cfd938a0362b554acf97ae8df8479784fb5d06e2b3eca"
+    },
+    {
+      "filename": "arxiv_2602_08931v1.txt",
+      "size_bytes": 54964,
+      "size_chars_approx": 54964,
+      "sha256": "94e2a3f3f17b12eb2e7704902764376527d3c6c25bf0d93ec11652dd837da517"
+    },
+    {
+      "filename": "arxiv_2602_09033v1.txt",
+      "size_bytes": 72731,
+      "size_chars_approx": 72731,
+      "sha256": "8ec2176ff0301eb1810a2d9efd76d908f21c0ac4168ce7a33df28d963a2d5c9b"
+    },
+    {
+      "filename": "arxiv_2602_09380v1.txt",
+      "size_bytes": 88258,
+      "size_chars_approx": 88258,
+      "sha256": "b16bf1864106b9a43269d4a5c683f0dc7fa3fdcec1cb34ba2d40d4414028a64b"
+    },
+    {
+      "filename": "arxiv_2602_09397v1.txt",
+      "size_bytes": 94119,
+      "size_chars_approx": 94119,
+      "sha256": "93479212290108e3053d35b86cf824dda0dfbfbe2abe9b2a1d1c2469402921d8"
+    },
+    {
+      "filename": "arxiv_2602_10181v1.txt",
+      "size_bytes": 85838,
+      "size_chars_approx": 85838,
+      "sha256": "6a2f4bb859a0b3eb90ea0f95ae4ad4b02c82679208e76fc4ac7139dea947753d"
+    },
+    {
+      "filename": "arxiv_2602_10569v1.txt",
+      "size_bytes": 96458,
+      "size_chars_approx": 96458,
+      "sha256": "634346f321726e5e889014db0ae1041df3f752bfeb9d5277da18dda04f4d41e3"
+    },
+    {
+      "filename": "arxiv_2602_10738v1.txt",
+      "size_bytes": 96547,
+      "size_chars_approx": 96547,
+      "sha256": "24e2c317481ea950b3bbd0d2b4fb458d6ddae5ec5831b322ebd265b4d50b84b1"
+    },
+    {
+      "filename": "arxiv_2602_11225v1.txt",
+      "size_bytes": 28115,
+      "size_chars_approx": 28115,
+      "sha256": "ac1f43362217529f8f269d419d7b65a6f00848825525dd2fdf15d7cc2b6af3c6"
+    },
+    {
+      "filename": "arxiv_2602_13520v3.txt",
+      "size_bytes": 52970,
+      "size_chars_approx": 52970,
+      "sha256": "0ebb1d9fd96e0a2a736bb8ea969abb41e191ff327e632bfdc35eb6bf21dd4840"
+    },
+    {
+      "filename": "arxiv_2602_13708v1.txt",
+      "size_bytes": 75496,
+      "size_chars_approx": 75496,
+      "sha256": "a04ad36e539e0ae502d0143b73b9b52e628be0be1252f6f43fc74ab64964e5bf"
+    },
+    {
+      "filename": "arxiv_2602_14059v1.txt",
+      "size_bytes": 43138,
+      "size_chars_approx": 43138,
+      "sha256": "5277d745ce8c4226a7f7e1ff5014326002aa6f09acb76bfa97b8fa20736dea6c"
+    },
+    {
+      "filename": "arxiv_2602_14601v1.txt",
+      "size_bytes": 66203,
+      "size_chars_approx": 66203,
+      "sha256": "360ffd0e4c3cbafbb5494478108898cf36126a5f778d4893463dab5d5a882b6d"
+    },
+    {
+      "filename": "arxiv_2602_15051v1.txt",
+      "size_bytes": 406005,
+      "size_chars_approx": 406005,
+      "sha256": "a8643a833e1d8226743394f6c83c2764a8b86f10aa57f0ddf4d1b4d74ab25f4b"
+    },
+    {
+      "filename": "arxiv_2602_16495v1.txt",
+      "size_bytes": 162247,
+      "size_chars_approx": 162247,
+      "sha256": "8a79fef8bfea6bb10b13c4397d31d7f2cec0e4ffefd2e56fac48be68912a17dd"
+    },
+    {
+      "filename": "arxiv_2602_16985v1.txt",
+      "size_bytes": 93276,
+      "size_chars_approx": 93276,
+      "sha256": "e8f3153f51fdfa9eabedee09ac405d0f983da490011383a2b4663d8cb0d88cab"
+    },
+    {
+      "filename": "arxiv_2602_17150v1.txt",
+      "size_bytes": 105102,
+      "size_chars_approx": 105102,
+      "sha256": "86aed501cd2b1e72b7bb2b604ef95b69c4c9753981d40824ce5813974ab1a1fd"
+    },
+    {
+      "filename": "arxiv_2602_18115v1.txt",
+      "size_bytes": 29219,
+      "size_chars_approx": 29219,
+      "sha256": "4925966a2f9749eb3e2f835fff27d400eaaf56f49e7af8b21b9c11e56b7a5caf"
+    },
+    {
+      "filename": "arxiv_2602_18334v1.txt",
+      "size_bytes": 57195,
+      "size_chars_approx": 57195,
+      "sha256": "b87a38cc36efd9d525f9946cbfb17503f36b125488e24cd6a27bf32178cb1adf"
+    },
+    {
+      "filename": "arxiv_2602_18475v1.txt",
+      "size_bytes": 94643,
+      "size_chars_approx": 94643,
+      "sha256": "59111513ed993302c396fa305597a1b9a0485eeb21824da4fd9d177e0ebbd287"
+    },
+    {
+      "filename": "arxiv_2602_18641v1.txt",
+      "size_bytes": 37893,
+      "size_chars_approx": 37893,
+      "sha256": "afa988cd04ab9b9e05258dfbf529d4bef8ceb4e7206206470ce381bfc991c26b"
+    },
+    {
+      "filename": "arxiv_2602_19194v2.txt",
+      "size_bytes": 24807,
+      "size_chars_approx": 24807,
+      "sha256": "5a7bfd4708609fda89e2e3aa4ae7fdd8fd2eb35138c71467bae5d9b0abe771e5"
+    },
+    {
+      "filename": "arxiv_2602_19364v1.txt",
+      "size_bytes": 104567,
+      "size_chars_approx": 104567,
+      "sha256": "3ca3c637cb9d4af6143476b9e6713db3ab7b2f75354b9310008f067cf75ccafd"
+    },
+    {
+      "filename": "arxiv_2602_19365v1.txt",
+      "size_bytes": 59262,
+      "size_chars_approx": 59262,
+      "sha256": "2ab5fb60a9baa9296116ba30a446cb26a3f210cb116863fa9a3268f7b14c58ca"
+    },
+    {
+      "filename": "arxiv_2602_20331v1.txt",
+      "size_bytes": 17140,
+      "size_chars_approx": 17140,
+      "sha256": "47098bce99ab674b5733a4a2fafdb254dc2bbf05b682f616fb9359933283d173"
+    },
+    {
+      "filename": "arxiv_2602_21324v2.txt",
+      "size_bytes": 103868,
+      "size_chars_approx": 103868,
+      "sha256": "b5681e48228797f9a8852a3e4ceb15c3ab0a2ed79a660015d7366498035a48bb"
+    },
+    {
+      "filename": "arxiv_2602_22792v1.txt",
+      "size_bytes": 52867,
+      "size_chars_approx": 52867,
+      "sha256": "92ccef33e22f6c7059e68a31313839642c4574548f30ce442e007da2159fc0b4"
+    },
+    {
+      "filename": "arxiv_2602_23491v1.txt",
+      "size_bytes": 191788,
+      "size_chars_approx": 191788,
+      "sha256": "7f56ebcf8c5488dde4eba95d3c7ce04540b6c9a9204300913108b53404726df7"
+    },
+    {
+      "filename": "arxiv_2603_01027v1.txt",
+      "size_bytes": 44080,
+      "size_chars_approx": 44080,
+      "sha256": "1eb410dee2d951adb67c3e24e7d2a5a5463c42fe81c3e8f608310ff3aff16a35"
+    },
+    {
+      "filename": "arxiv_2603_01280v1.txt",
+      "size_bytes": 59791,
+      "size_chars_approx": 59791,
+      "sha256": "75002a6dd3fcd602fcb90daf1b56e5f646f339b80fced4f6e578899f57d3efd3"
+    },
+    {
+      "filename": "arxiv_2603_01440v1.txt",
+      "size_bytes": 37401,
+      "size_chars_approx": 37401,
+      "sha256": "23bd958b94b981af429fa73bfcc2d1afa554ef2a4538c117aa8dca943045a638"
+    },
+    {
+      "filename": "arxiv_2603_02399v1.txt",
+      "size_bytes": 124604,
+      "size_chars_approx": 124604,
+      "sha256": "7413a69b8b604aa90bed8c90909eac42a2e0ff56bdddb9cf1540ca2ca92c2826"
+    },
+    {
+      "filename": "arxiv_2603_02821v1.txt",
+      "size_bytes": 36691,
+      "size_chars_approx": 36691,
+      "sha256": "aa173963e4393019e7dda0e6a8ad8d5be854c98a99b38334142363e1bf67a33b"
+    },
+    {
+      "filename": "arxiv_2603_02978v2.txt",
+      "size_bytes": 72744,
+      "size_chars_approx": 72744,
+      "sha256": "8412f20cec7d6113a00ddd5a29afaf708c888e99cd32c578641bd32efb1d913f"
+    },
+    {
+      "filename": "arxiv_2603_03478v1.txt",
+      "size_bytes": 26269,
+      "size_chars_approx": 26269,
+      "sha256": "465b38d152738f8805a0d3ad2d6bf2e88a09f5186c9902b784119edeedd59e29"
+    },
+    {
+      "filename": "arxiv_2603_04159v1.txt",
+      "size_bytes": 68584,
+      "size_chars_approx": 68584,
+      "sha256": "53c009df8e73817ff1060ef68eef434d8c43b802f79ccf0b0dbeb8c29b1fed5d"
+    },
+    {
+      "filename": "arxiv_2603_07674v1.txt",
+      "size_bytes": 124182,
+      "size_chars_approx": 124182,
+      "sha256": "1bfcb13cc6092df02c61e97ae71d261a05bebcbfa481c2c5ea90fae95f887895"
+    },
+    {
+      "filename": "arxiv_2603_07684v1.txt",
+      "size_bytes": 77868,
+      "size_chars_approx": 77868,
+      "sha256": "08149e8d239cc919bf041bc827e56334065ad43d993e14cc8bd5033de14aafb7"
+    },
+    {
+      "filename": "arxiv_2603_09626v1.txt",
+      "size_bytes": 62414,
+      "size_chars_approx": 62414,
+      "sha256": "bf25bc9887748864c8f9a9f1ad188de0d1a69f5a124d434d38607864b45371f5"
+    },
+    {
+      "filename": "arxiv_2603_09699v1.txt",
+      "size_bytes": 103458,
+      "size_chars_approx": 103458,
+      "sha256": "84ab2043d2ee5589bea9e0980858854322609da48a662085c95a1bfdb4d8d9ad"
+    },
+    {
+      "filename": "arxiv_2603_09818v1.txt",
+      "size_bytes": 81867,
+      "size_chars_approx": 81867,
+      "sha256": "c36c92fef7cbfee083dc14a2277e9104a09f986913b167b83dc5a7d38647a7df"
+    },
+    {
+      "filename": "arxiv_2603_09901v1.txt",
+      "size_bytes": 69761,
+      "size_chars_approx": 69761,
+      "sha256": "5e2ca8f6746f5a6ce9cb0160aeda1628e0df09fcb7288cb8314b8b957cadb017"
+    },
+    {
+      "filename": "arxiv_2603_10601v1.txt",
+      "size_bytes": 36089,
+      "size_chars_approx": 36089,
+      "sha256": "4985a0cb83dbfac59939d12d9b3b7939f9b6959835c9dac2c65ef731dcc868be"
+    },
+    {
+      "filename": "arxiv_2603_11571v1.txt",
+      "size_bytes": 43312,
+      "size_chars_approx": 43312,
+      "sha256": "546b704e252880c2862f148cfd7a366ba07677dc9e2ccbb7a329415b8f180c74"
+    },
+    {
+      "filename": "arxiv_2603_15638v2.txt",
+      "size_bytes": 58024,
+      "size_chars_approx": 58024,
+      "sha256": "88c6193c6f0e857de42a455fcf2972ce581dea8429e56cc3757c231c72dc1d7a"
+    },
+    {
+      "filename": "arxiv_2603_16902v1.txt",
+      "size_bytes": 41876,
+      "size_chars_approx": 41876,
+      "sha256": "e3776a41ef3751803633a90579c54cbc6492d076db4af37e01b64530ffce42b8"
+    },
+    {
+      "filename": "arxiv_2603_16907v1.txt",
+      "size_bytes": 48912,
+      "size_chars_approx": 48912,
+      "sha256": "6bea834b9b088c452a30955ff99af94bba82b656a8cf8931c0236388e183221b"
+    },
+    {
+      "filename": "arxiv_2603_18100v1.txt",
+      "size_bytes": 19366,
+      "size_chars_approx": 19366,
+      "sha256": "9e4326d8eb87d2bfee25e822036fcbfbb05cec05edc656ebac8ed2042a10ef4c"
+    },
+    {
+      "filename": "arxiv_2603_19323v3.txt",
+      "size_bytes": 77000,
+      "size_chars_approx": 77000,
+      "sha256": "0e023e672d6a13bde71f233d618007b080f6e8af008df8cb8f1c374446755232"
+    },
+    {
+      "filename": "arxiv_2603_19518v1.txt",
+      "size_bytes": 37846,
+      "size_chars_approx": 37846,
+      "sha256": "99a1eca51a75a2621b6c888f01b8a03f4251572e2aa771204479aac50ab5634f"
+    },
+    {
+      "filename": "arxiv_2603_22905v1.txt",
+      "size_bytes": 78103,
+      "size_chars_approx": 78103,
+      "sha256": "5131ede143e4c48feed72d928bd0b16172c4110f7ca5a70bea4112253128df74"
+    },
+    {
+      "filename": "arxiv_2603_22906v1.txt",
+      "size_bytes": 64104,
+      "size_chars_approx": 64104,
+      "sha256": "31527eb9497bed65b57368e8319c5e70d144b37d446a4c2eba086f8c09a11b76"
+    },
+    {
+      "filename": "arxiv_2603_23410v2.txt",
+      "size_bytes": 66599,
+      "size_chars_approx": 66599,
+      "sha256": "37d9e75d901d5a2f5cb5447d954a0d1f502959e7a4856c710130a6a58d9ac89a"
+    },
+    {
+      "filename": "arxiv_2603_23563v1.txt",
+      "size_bytes": 125457,
+      "size_chars_approx": 125457,
+      "sha256": "d3055a61f31786a8618014e6e8383de1e77d464ade0bd8e3b64ad4a348c9a134"
+    },
+    {
+      "filename": "arxiv_2603_24608v1.txt",
+      "size_bytes": 77159,
+      "size_chars_approx": 77159,
+      "sha256": "ceed59e9c0046a01cb1ab1c050e49b6defa1233290b9c6557f0303949f64a5ce"
+    },
+    {
+      "filename": "arxiv_2603_25409v1.txt",
+      "size_bytes": 99078,
+      "size_chars_approx": 99078,
+      "sha256": "b7670a9db3e394fb130d02f29f9719dcf8f4b09ce43cd7971bd35c4b9042e052"
+    },
+    {
+      "filename": "arxiv_2603_26230v1.txt",
+      "size_bytes": 73143,
+      "size_chars_approx": 73143,
+      "sha256": "2d8d46363aba6d7855a08f04c508968d7ad65c2c3f6347c89f653aae61b7834f"
+    },
+    {
+      "filename": "arxiv_2603_26590v1.txt",
+      "size_bytes": 12187,
+      "size_chars_approx": 12187,
+      "sha256": "018dc4e351f2f0ba45c10fdb0addbf996d82d8295c92e28972f5af76df197a94"
+    },
+    {
+      "filename": "arxiv_2603_27041v1.txt",
+      "size_bytes": 47600,
+      "size_chars_approx": 47600,
+      "sha256": "052af65a74aa94a41d400726b39e37db8728382d82e7f04f825ba9795d8821b9"
+    },
+    {
+      "filename": "arxiv_2603_28538v1.txt",
+      "size_bytes": 113135,
+      "size_chars_approx": 113135,
+      "sha256": "80e337a1939e1cdd2da93c0c682269a482a426f40f607b7e154cd954a4178a75"
+    },
+    {
+      "filename": "arxiv_2603_28837v1.txt",
+      "size_bytes": 38863,
+      "size_chars_approx": 38863,
+      "sha256": "9e03ddcbf9033baecefa53491b00c4d8a58777f3f8d6709445ea8c66980dd190"
+    },
+    {
+      "filename": "arxiv_2603_28983v1.txt",
+      "size_bytes": 57858,
+      "size_chars_approx": 57858,
+      "sha256": "422df8b7f83394c76ef9772ca22bb0c31b4ec3c9f9e30ab0e8604352e2a0485a"
+    },
+    {
+      "filename": "arxiv_2604_00139v1.txt",
+      "size_bytes": 28124,
+      "size_chars_approx": 28124,
+      "sha256": "2f03f47c07d9c82726656fb8288179435a9b454be034da19bbb2537893e42a1a"
+    },
+    {
+      "filename": "arxiv_2604_00311v1.txt",
+      "size_bytes": 40577,
+      "size_chars_approx": 40577,
+      "sha256": "a372e830fbfc330bc2d62e25aa830a1ef7cff45475a2f836ff35c49693acf8d9"
+    },
+    {
+      "filename": "arxiv_2604_01095v1.txt",
+      "size_bytes": 84785,
+      "size_chars_approx": 84785,
+      "sha256": "0d7dfddd120141c2caea04c7857b99b2df4100619fa947288da5f0509c23709d"
+    },
+    {
+      "filename": "arxiv_2604_01233v2.txt",
+      "size_bytes": 337773,
+      "size_chars_approx": 337773,
+      "sha256": "05e383a6ce2f2712626e3034c5530faac87da09e907ed83e9bd683767425cb5d"
+    },
+    {
+      "filename": "arxiv_2604_02026v1.txt",
+      "size_bytes": 48953,
+      "size_chars_approx": 48953,
+      "sha256": "5247dbc9766b951755db7297a98555d5fd6edf486bb8f7e6316a7a24c879b7e2"
+    },
+    {
+      "filename": "arxiv_2604_02197v1.txt",
+      "size_bytes": 70795,
+      "size_chars_approx": 70795,
+      "sha256": "b3c2e197c20794751f4aa2eab74c1ec52f29b549103e2223a275724209e791d2"
+    },
+    {
+      "filename": "arxiv_2604_02521v1.txt",
+      "size_bytes": 31134,
+      "size_chars_approx": 31134,
+      "sha256": "4594cc6f06eeaec74c98d45c832c4ed4d2d08f1daaeab0d648fe2774c5930282"
+    },
+    {
+      "filename": "arxiv_2604_03835v1.txt",
+      "size_bytes": 25442,
+      "size_chars_approx": 25442,
+      "sha256": "9382de1142ba51d41c4d0e90de56809426cf4174d5d876b25f2e454066012604"
+    },
+    {
+      "filename": "arxiv_2604_05004v3.txt",
+      "size_bytes": 48078,
+      "size_chars_approx": 48078,
+      "sha256": "d93d6f23e4a86b0ca250e637221573a5d6859d3389ceb2b6e27fbcb13d75cdd6"
+    },
+    {
+      "filename": "arxiv_2604_09826v1.txt",
+      "size_bytes": 35312,
+      "size_chars_approx": 35312,
+      "sha256": "a0f414791a9c01c43631fa8bb7e4c0f407b0400e8f96451e5c2104c591b04a2b"
+    },
+    {
+      "filename": "arxiv_2604_11823v1.txt",
+      "size_bytes": 67978,
+      "size_chars_approx": 67978,
+      "sha256": "a379beaa462408ebbbc892a36e36d8aa6bc5525eea514e4e2a3226c988775592"
+    },
+    {
+      "filename": "arxiv_2604_11826v1.txt",
+      "size_bytes": 38851,
+      "size_chars_approx": 38851,
+      "sha256": "feceac93268dbc44a4481c2e2c895b3bad8ae59238767129cd170aa976b0e762"
+    },
+    {
+      "filename": "arxiv_2604_12094v1.txt",
+      "size_bytes": 82373,
+      "size_chars_approx": 82373,
+      "sha256": "648db99b3b345886f2f75b91152645703fa860cc727682ac38da599d92c1b790"
+    },
+    {
+      "filename": "arxiv_2604_12897v1.txt",
+      "size_bytes": 17125,
+      "size_chars_approx": 17125,
+      "sha256": "3a3d3d46994a98faef9b4c38d3cb09498d7dfa8f23ab8800c2eb3dfa8e82d463"
+    },
+    {
+      "filename": "arxiv_2604_13135v1.txt",
+      "size_bytes": 11873,
+      "size_chars_approx": 11873,
+      "sha256": "116977097d37d5687e6d9692c9fd16d8412acfcedbfee82939b2e4226d8a7aad"
+    },
+    {
+      "filename": "arxiv_2604_14234v1.txt",
+      "size_bytes": 100444,
+      "size_chars_approx": 100444,
+      "sha256": "7a67769ab935818b2ea1790f1154689195bfcc7208d96e67fe2f1d26f880d02b"
+    },
+    {
+      "filename": "arxiv_2604_14319v2.txt",
+      "size_bytes": 136375,
+      "size_chars_approx": 136375,
+      "sha256": "db176e9cc6582197de038bab315b0fae100e63a38e80aa0f2d0a513a2a223687"
+    },
+    {
+      "filename": "arxiv_2604_15404v1.txt",
+      "size_bytes": 35742,
+      "size_chars_approx": 35742,
+      "sha256": "1c5d81c23b32196b0dc28ed6ab4692def82231562b9e0fd1ca1c567bff80ea5b"
+    },
+    {
+      "filename": "arxiv_2604_17545v1.txt",
+      "size_bytes": 5936,
+      "size_chars_approx": 5936,
+      "sha256": "f0184cc17f109f7bac6b2e193acbe70686ea36806977716e4417b2611aab7c9e"
+    },
+    {
+      "filename": "arxiv_2604_17815v2.txt",
+      "size_bytes": 249662,
+      "size_chars_approx": 249662,
+      "sha256": "4ca509751c8f339ed1e155d49cf8080c5735e08865a3af55414e0c314b500972"
+    },
+    {
+      "filename": "arxiv_2604_17836v1.txt",
+      "size_bytes": 62878,
+      "size_chars_approx": 62878,
+      "sha256": "df74d501c7ebc857e7b5cdddf598ae6ffb7d2cfbc2139411a18f35c9e85c151a"
+    },
+    {
+      "filename": "arxiv_2604_17839v1.txt",
+      "size_bytes": 98775,
+      "size_chars_approx": 98775,
+      "sha256": "4ece211cdb947b8c905f0a7ea045e4fe5445d40677d1ffca56bc848ceb2b9555"
+    },
+    {
+      "filename": "arxiv_2604_18038v1.txt",
+      "size_bytes": 39437,
+      "size_chars_approx": 39437,
+      "sha256": "b1b18281ccdf4b7fc587dde7c68bc80095ec894f725beb58d8da0221c9cc72c1"
+    },
+    {
+      "filename": "arxiv_2604_18041v1.txt",
+      "size_bytes": 76986,
+      "size_chars_approx": 76986,
+      "sha256": "4d25c4ac533477e5b4a61a14258608fa2fd144bb2b1d669f7f856c4999fecde0"
+    },
+    {
+      "filename": "arxiv_2604_18087v1.txt",
+      "size_bytes": 26853,
+      "size_chars_approx": 26853,
+      "sha256": "168ce514cc147b579a97cc2a966e7147a7dcae9feff45daaab34098a864c2675"
+    },
+    {
+      "filename": "arxiv_2604_18151v1.txt",
+      "size_bytes": 18316,
+      "size_chars_approx": 18316,
+      "sha256": "e4042b3564723b096dc4224d22af3405ec8f422fa3a8b90cb2f7fab46e182b50"
+    },
+    {
+      "filename": "arxiv_2604_18180v1.txt",
+      "size_bytes": 13266,
+      "size_chars_approx": 13266,
+      "sha256": "83245e6ea758f1f6a821e93be7a8adae3c5af2f03efd57df1eda48c16f61b29a"
+    },
+    {
+      "filename": "arxiv_2604_18193v1.txt",
+      "size_bytes": 37384,
+      "size_chars_approx": 37384,
+      "sha256": "d49367a40e64cbc99d56815237c7fa46d79de019f43912abe7c7d2c903578949"
+    },
+    {
+      "filename": "arxiv_2604_18380v1.txt",
+      "size_bytes": 38129,
+      "size_chars_approx": 38129,
+      "sha256": "60c1fdca3009c2ea14d0022b8bab71ce04c0613bed3eb069eb6144c07ce337a5"
+    },
+    {
+      "filename": "arxiv_2604_18502v1.txt",
+      "size_bytes": 75354,
+      "size_chars_approx": 75354,
+      "sha256": "470b7fe0d77a08fd5a9f9aec4319c131041a6828178ea9ba2ee9434382e3501e"
+    },
+    {
+      "filename": "arxiv_2604_18656v1.txt",
+      "size_bytes": 53377,
+      "size_chars_approx": 53377,
+      "sha256": "864a96064f0905692d0f4744640cea8e8e2e22f42aa60dabfd6b35aa74899092"
+    },
+    {
+      "filename": "arxiv_2604_18737v1.txt",
+      "size_bytes": 56910,
+      "size_chars_approx": 56910,
+      "sha256": "dbfaac38619f97b5ec72ee0205d81c9573de60459e0e4fa3f86a72dabe18453e"
+    },
+    {
+      "filename": "arxiv_2604_18893v1.txt",
+      "size_bytes": 81281,
+      "size_chars_approx": 81281,
+      "sha256": "16f38f61276f59bfc999d9fde19ea2c1546b469103cd5c606d665f2b990525b9"
+    },
+    {
+      "filename": "arxiv_2604_18925v1.txt",
+      "size_bytes": 44844,
+      "size_chars_approx": 44844,
+      "sha256": "7eddd2d335ba78a755dfc9d19a190dc53d1bea7896a99f250db1b48a24f65a15"
+    },
+    {
+      "filename": "arxiv_2604_18959v1.txt",
+      "size_bytes": 43222,
+      "size_chars_approx": 43222,
+      "sha256": "084cea4283baa15d4d50d29c297df98fb3ce7e9cd8f7ad625ae6e7069705fba2"
+    },
+    {
+      "filename": "arxiv_2604_19112v2.txt",
+      "size_bytes": 87261,
+      "size_chars_approx": 87261,
+      "sha256": "0a0bd365ec4ffb983dd07d7981c64b1a127503913b940a657eaebf1cd7ae9fa9"
+    },
+    {
+      "filename": "arxiv_2604_19142v1.txt",
+      "size_bytes": 49519,
+      "size_chars_approx": 49519,
+      "sha256": "00a36e629996c45b682ac82c487959339b3ba22774f42d33cf7580cae65bb8ec"
+    },
+    {
+      "filename": "arxiv_2604_19204v1.txt",
+      "size_bytes": 28682,
+      "size_chars_approx": 28682,
+      "sha256": "ee3e0db4b45b5799e9e7b2e1d68c0f97ff73ffa3477c139dcd67a1aa577b88bb"
+    },
+    {
+      "filename": "arxiv_2604_19285v1.txt",
+      "size_bytes": 88282,
+      "size_chars_approx": 88282,
+      "sha256": "8d7fad2efb69edfb776ba9b1fb58381c77a8f6a8010b2badb4853e7adde76ce8"
+    },
+    {
+      "filename": "arxiv_2604_19424v1.txt",
+      "size_bytes": 37534,
+      "size_chars_approx": 37534,
+      "sha256": "dcd9b5c62f625f1c9dbe4d6b512e4fc12da4ce085834648a9097072a1107a771"
+    },
+    {
+      "filename": "arxiv_2604_19429v1.txt",
+      "size_bytes": 107810,
+      "size_chars_approx": 107810,
+      "sha256": "47394a089ff6cb44847b1611c6e4837cf7ae5237c1ddb59d4aa30182dbf0cfc2"
+    },
+    {
+      "filename": "arxiv_2604_19468v1.txt",
+      "size_bytes": 26963,
+      "size_chars_approx": 26963,
+      "sha256": "af4bb164bd2c649cfd0ed4fa1276bc9d71bb447c55594986ddbc96cd625c803e"
+    },
+    {
+      "filename": "arxiv_2604_19489v1.txt",
+      "size_bytes": 92030,
+      "size_chars_approx": 92030,
+      "sha256": "4455af3f0c323a2e35e215ea9549045e689a79907f22cc1ebdf07c4f8acd07c8"
+    },
+    {
+      "filename": "arxiv_2604_19507v2.txt",
+      "size_bytes": 98524,
+      "size_chars_approx": 98524,
+      "sha256": "725740fc6e11dd7e4d237cf283bda236b5dc3c361d1fab281a7102640425f387"
+    },
+    {
+      "filename": "arxiv_2604_19548v1.txt",
+      "size_bytes": 62737,
+      "size_chars_approx": 62737,
+      "sha256": "da091163b897ca303218528fed54e8e54987dc8472a218a2de921db0d8927497"
+    },
+    {
+      "filename": "arxiv_2604_19699v1.txt",
+      "size_bytes": 70255,
+      "size_chars_approx": 70255,
+      "sha256": "dc36d1731c872ee80055f8cc4ea0e5d87dedfe8cff07d0fe31d8e52fa86ea42f"
+    },
+    {
+      "filename": "arxiv_2604_19711v1.txt",
+      "size_bytes": 63222,
+      "size_chars_approx": 63222,
+      "sha256": "0abf914b8ba72619e0350eef88a820d4d8a7e04a98cf51192c8fb32551060e0b"
+    },
+    {
+      "filename": "arxiv_2604_19833v1.txt",
+      "size_bytes": 24224,
+      "size_chars_approx": 24224,
+      "sha256": "7c641096202411a59da3bcaf51dc4cbe4549f2defd9eaa471456caccae56040a"
+    },
+    {
+      "filename": "arxiv_2604_19903v1.txt",
+      "size_bytes": 81353,
+      "size_chars_approx": 81353,
+      "sha256": "b9f06b324ce8a462015057769ec7b37e9dc58d4a1f7d063b108fb30fe7b955b5"
+    },
+    {
+      "filename": "arxiv_2604_19914v1.txt",
+      "size_bytes": 139807,
+      "size_chars_approx": 139807,
+      "sha256": "c99adbd721030d83593e102e5b5f0bb76f6cc2b1bb262de502e5339a763c2d54"
+    },
+    {
+      "filename": "arxiv_2604_19925v1.txt",
+      "size_bytes": 177324,
+      "size_chars_approx": 177324,
+      "sha256": "a35e28bab339bd5f3839429be0accaa68dbd48f0beeefe61ae988c7292dd179e"
+    },
+    {
+      "filename": "arxiv_2604_19961v1.txt",
+      "size_bytes": 95599,
+      "size_chars_approx": 95599,
+      "sha256": "2e84af49084dc3074dd6d5751ae02a0de3b347a5580f637b4de9b406318a00d7"
+    },
+    {
+      "filename": "arxiv_2604_19984v1.txt",
+      "size_bytes": 131706,
+      "size_chars_approx": 131706,
+      "sha256": "4ab0f33df1770eaa6d672993c3d13d30352016db9665820d0fb0787f79e102eb"
+    },
+    {
+      "filename": "arxiv_2604_20011v1.txt",
+      "size_bytes": 95764,
+      "size_chars_approx": 95764,
+      "sha256": "ee5e7934d9f8653c7db506a4d9161d55698dd3020d6adbf5d94772d0c56db814"
+    },
+    {
+      "filename": "arxiv_2604_20048v1.txt",
+      "size_bytes": 77010,
+      "size_chars_approx": 77010,
+      "sha256": "0d891853440b658749b8937c53c79d7771b35cb43075236b92dfca3157e38d79"
+    },
+    {
+      "filename": "arxiv_2604_20071v1.txt",
+      "size_bytes": 41104,
+      "size_chars_approx": 41104,
+      "sha256": "ae5ead9caf0d975681098596051fd79f713ef4cee50a5faa581b9f914a05e6f1"
+    },
+    {
+      "filename": "arxiv_2604_20127v1.txt",
+      "size_bytes": 31106,
+      "size_chars_approx": 31106,
+      "sha256": "f80740f322c4306473d04d1d04095d5aace6d13f0120d3a006d2c03f088ba62b"
+    },
+    {
+      "filename": "arxiv_2604_20511v1.txt",
+      "size_bytes": 91950,
+      "size_chars_approx": 91950,
+      "sha256": "5eacdc5edeb055330b9cd3282a52d47088afe3e59b84ae5f91b0b84abf0a5329"
+    },
+    {
+      "filename": "arxiv_2604_20528v1.txt",
+      "size_bytes": 91135,
+      "size_chars_approx": 91135,
+      "sha256": "12ab2390bb99615db6c1c2684062bea604395ade70a67a778e86b976706b78b1"
+    },
+    {
+      "filename": "arxiv_2604_20669v1.txt",
+      "size_bytes": 33448,
+      "size_chars_approx": 33448,
+      "sha256": "3f159df942d968e6d4c68fd1eb040d439fa9105a628df6820ab26f192d5f7807"
+    },
+    {
+      "filename": "arxiv_2604_20779v1.txt",
+      "size_bytes": 112942,
+      "size_chars_approx": 112942,
+      "sha256": "ac8f3c70b120e40601ceb81712eb6e1f793da73887442d13f86974c31ab22254"
+    },
+    {
+      "filename": "arxiv_2604_20805v1.txt",
+      "size_bytes": 85648,
+      "size_chars_approx": 85648,
+      "sha256": "bd67f773847e6a578ff7bb787c0895dff9e983b9a46fa29fcbfedf28e8c379d9"
+    },
+    {
+      "filename": "arxiv_2604_20895v1.txt",
+      "size_bytes": 33697,
+      "size_chars_approx": 33697,
+      "sha256": "7d4338567758c030531a6aaec45173b560a7fa2c903d73f7da1902deb6d6ec20"
+    },
+    {
+      "filename": "arxiv_2604_20972v1.txt",
+      "size_bytes": 59616,
+      "size_chars_approx": 59616,
+      "sha256": "1a53321c020c344c8ee26dd26502846e6d50f4483c7899c77ed8f6a1ec2ee7b9"
+    },
+    {
+      "filename": "arxiv_2604_20982v1.txt",
+      "size_bytes": 131311,
+      "size_chars_approx": 131311,
+      "sha256": "27f834986e0c2417d0580f946462d339d3b772da4dbe26be1a51f5084f9c9983"
+    },
+    {
+      "filename": "arxiv_2604_21043v1.txt",
+      "size_bytes": 99867,
+      "size_chars_approx": 99867,
+      "sha256": "d77fea750dd385429baeea592e573a190d6f5562b69166f7dd99382d8c3f038d"
+    },
+    {
+      "filename": "arxiv_2604_21055v1.txt",
+      "size_bytes": 93253,
+      "size_chars_approx": 93253,
+      "sha256": "97634742aad8f65c878c19b273a604092ffdd47850a386bfebc9ebea813978ac"
+    },
+    {
+      "filename": "arxiv_2604_21152v1.txt",
+      "size_bytes": 99573,
+      "size_chars_approx": 99573,
+      "sha256": "983c256a706dd21e9a56eba5f3801ea7d921dcff49ba7b19f0d440a33425a825"
+    },
+    {
+      "filename": "arxiv_2604_21295v1.txt",
+      "size_bytes": 55077,
+      "size_chars_approx": 55077,
+      "sha256": "dd292dba52944377052bc002ac05a2d6371b21f9f2b9c5a01f1635d98024e331"
+    },
+    {
+      "filename": "arxiv_2604_21313v1.txt",
+      "size_bytes": 79515,
+      "size_chars_approx": 79515,
+      "sha256": "2775b28a97bfb7c1fa37bf1105a17fe2356843ee0541657540532c71edddd0f9"
+    },
+    {
+      "filename": "arxiv_2604_21370v1.txt",
+      "size_bytes": 42820,
+      "size_chars_approx": 42820,
+      "sha256": "6ca9b08cd08cba374057e1e8251cac9f8d8fccd330a6ff559b27787b0e9677dd"
+    },
+    {
+      "filename": "arxiv_2604_21373v1.txt",
+      "size_bytes": 79781,
+      "size_chars_approx": 79781,
+      "sha256": "3a11fb2760cf9af77048a14955f9d2d0076c4f8e802450677fca561887811f35"
+    },
+    {
+      "filename": "arxiv_2604_21404v1.txt",
+      "size_bytes": 37281,
+      "size_chars_approx": 37281,
+      "sha256": "d66927e452001c8ae082beae98f47328c6567f30c2987eca0e906ae37616caf0"
+    },
+    {
+      "filename": "arxiv_2604_21412v1.txt",
+      "size_bytes": 59180,
+      "size_chars_approx": 59180,
+      "sha256": "e44c8f6d91df1abcc6a213aa149f8a241775df2d51127c7178d658355ab23668"
+    },
+    {
+      "filename": "arxiv_2604_21457v1.txt",
+      "size_bytes": 71619,
+      "size_chars_approx": 71619,
+      "sha256": "ae68305ad709a6ce8a9a5d795ff274cc633b28f19ead854328de5d0d86242776"
+    },
+    {
+      "filename": "arxiv_2604_21496v1.txt",
+      "size_bytes": 63128,
+      "size_chars_approx": 63128,
+      "sha256": "accea4ab84cf0bebf8ec05dbe1e85833c66cf52d25b36b6da11e2ec271b3753d"
+    },
+    {
+      "filename": "arxiv_2604_21604v1.txt",
+      "size_bytes": 785462,
+      "size_chars_approx": 785462,
+      "sha256": "2dca6c6fe348650db82ac762137166425ebefc72e6cf57aaea63405918f50a02"
+    },
+    {
+      "filename": "arxiv_2604_21637v1.txt",
+      "size_bytes": 117814,
+      "size_chars_approx": 117814,
+      "sha256": "2e0b2fb99300ec4df6078e37a0815221fbda692864bc26c2ccdfc5070c8abea1"
+    },
+    {
+      "filename": "arxiv_2604_21751v1.txt",
+      "size_bytes": 91268,
+      "size_chars_approx": 91268,
+      "sha256": "400d1de2eb5476a70ec911ae6924200f8a9918972a64ccf57198c0b83b9e8e71"
+    },
+    {
+      "filename": "arxiv_2604_21769v1.txt",
+      "size_bytes": 88636,
+      "size_chars_approx": 88636,
+      "sha256": "8ce872afc040d6ecd80cbf89b904847266f92c2dbc6d9cf2a631e7f22011e0a9"
+    },
+    {
+      "filename": "arxiv_2604_21805v1.txt",
+      "size_bytes": 91615,
+      "size_chars_approx": 91615,
+      "sha256": "283417b16a4706f62ffe4248557f4806ae72bcaac8eddb2735e04a72b07e28f1"
+    },
+    {
+      "filename": "arxiv_2604_21864v1.txt",
+      "size_bytes": 211253,
+      "size_chars_approx": 211253,
+      "sha256": "b2082e2ad49be0910ca8585017a97a2ba687c1eb7021d59a6e9defd7db7e3204"
+    },
+    {
+      "filename": "arxiv_2604_21897v1.txt",
+      "size_bytes": 76901,
+      "size_chars_approx": 76901,
+      "sha256": "421da05995e13818d548ae3b2c061aca127e3698a1c5cd44ff93bdf4e8c5a163"
+    },
+    {
+      "filename": "arxiv_2604_21898v1.txt",
+      "size_bytes": 46409,
+      "size_chars_approx": 46409,
+      "sha256": "8102ef880842acc728c953706d6efe07813e1d79e8edd346f18ab95ffdf8e3b6"
+    },
+    {
+      "filename": "arxiv_2604_21953v1.txt",
+      "size_bytes": 44726,
+      "size_chars_approx": 44726,
+      "sha256": "3da7cf5b28fa5ea65b83e0c6d6c3a81efbfa373a0baa3f7141d1148479a6d8f7"
+    },
+    {
+      "filename": "arxiv_2604_21964v1.txt",
+      "size_bytes": 165537,
+      "size_chars_approx": 165537,
+      "sha256": "9ba130b2c782a126b319fb1f2de63644c750b5c3b6eb8bebf010ec2aadf339c3"
+    },
+    {
+      "filename": "arxiv_2604_22025v1.txt",
+      "size_bytes": 100069,
+      "size_chars_approx": 100069,
+      "sha256": "94d0c7e79638b797823bbf3f32941a5630dc767279048e5645967b55545a708d"
+    },
+    {
+      "filename": "arxiv_2604_22026v1.txt",
+      "size_bytes": 104409,
+      "size_chars_approx": 104409,
+      "sha256": "399277258f97ca11608b6d51dec950e39e0f76925a1afcab07ae40a3efad9605"
+    },
+    {
+      "filename": "arxiv_2604_22030v1.txt",
+      "size_bytes": 78981,
+      "size_chars_approx": 78981,
+      "sha256": "18859d54c0f7ef2463a45b480d0c17554f591a19ab3a44d2c69e64497ac820a4"
+    },
+    {
+      "filename": "arxiv_2604_22103v1.txt",
+      "size_bytes": 35225,
+      "size_chars_approx": 35225,
+      "sha256": "729f076f2ea49355aa74753c522296c180e524eb4702e2bd57f4a8c65ddd9e8c"
+    },
+    {
+      "filename": "arxiv_2604_22142v1.txt",
+      "size_bytes": 98875,
+      "size_chars_approx": 98875,
+      "sha256": "82e31be189b56d75e1571030867f425f37a7b532738c037ec620695935e05df4"
+    },
+    {
+      "filename": "arxiv_2604_22143v1.txt",
+      "size_bytes": 76346,
+      "size_chars_approx": 76346,
+      "sha256": "a98a815ec9d100fd26e3b77b46a1a4c8227002186025fa4238386ca8d4481556"
+    },
+    {
+      "filename": "arxiv_2604_22153v1.txt",
+      "size_bytes": 53463,
+      "size_chars_approx": 53463,
+      "sha256": "f713ef634e0afedd87020a01930d29254a03c9a3f64ea2d15c74c19acda3b415"
+    },
+    {
+      "filename": "arxiv_2604_22227v2.txt",
+      "size_bytes": 104012,
+      "size_chars_approx": 104012,
+      "sha256": "11fde2fac165f82e96295f2e6325ed9095e383b8331502457e3b09ab1cd88449"
+    },
+    {
+      "filename": "arxiv_2604_22322v1.txt",
+      "size_bytes": 49905,
+      "size_chars_approx": 49905,
+      "sha256": "ebaf96ca5cd316cd3e661f0a4a427b3477bb8f4004b953a0797a84520c1d2160"
+    },
+    {
+      "filename": "arxiv_2604_22417v1.txt",
+      "size_bytes": 32841,
+      "size_chars_approx": 32841,
+      "sha256": "663f31c2505b20297cc4ce9468ab7fa5c1f0e86ca5fc398b196b0f49b3b90ab7"
+    },
+    {
+      "filename": "arxiv_2604_22564v1.txt",
+      "size_bytes": 26465,
+      "size_chars_approx": 26465,
+      "sha256": "e14c2e580e3eb241e7d95eb1d723a95a6fc6fea1f7364b737381598b0ee0f29b"
+    },
+    {
+      "filename": "arxiv_2604_22679v1.txt",
+      "size_bytes": 77901,
+      "size_chars_approx": 77901,
+      "sha256": "685ef6b102342333af368d770becf9e1fa2516a0076efc78300f98124ec8e09c"
+    },
+    {
+      "filename": "arxiv_2604_22697v1.txt",
+      "size_bytes": 108758,
+      "size_chars_approx": 108758,
+      "sha256": "8f292b99c285cf47a1548325dc1c251b32ac641884567d55aeb36d94bdf49495"
+    },
+    {
+      "filename": "arxiv_2604_22750v1.txt",
+      "size_bytes": 75596,
+      "size_chars_approx": 75596,
+      "sha256": "0b1fd24df35ba7212ffc405a6711c3d7549e9867d4b2d4a46a442a22a6fccbfc"
+    },
+    {
+      "filename": "arxiv_2604_22966v1.txt",
+      "size_bytes": 22083,
+      "size_chars_approx": 22083,
+      "sha256": "3d916fe40c3f7ede1800b5dc30d14055b03ebd58885ad7da290d4d5e3ce45895"
+    },
+    {
+      "filename": "arxiv_2604_22971v1.txt",
+      "size_bytes": 46906,
+      "size_chars_approx": 46906,
+      "sha256": "6fd6d5888ee789f8df6809bdee08db4bdce5d63e2dd499338f2b0c65645e054f"
+    },
+    {
+      "filename": "arxiv_2604_23040v1.txt",
+      "size_bytes": 163513,
+      "size_chars_approx": 163513,
+      "sha256": "5310e506106670a49f284d3dcf96962e15fa2473abd47e902ec658cb3b60bea0"
+    },
+    {
+      "filename": "arxiv_2604_23065v1.txt",
+      "size_bytes": 64252,
+      "size_chars_approx": 64252,
+      "sha256": "43805e5de8d05a4eaacd638f02b0a15a19d6f0a9dcf2dc28db76fa037294d525"
+    },
+    {
+      "filename": "arxiv_2604_23136v1.txt",
+      "size_bytes": 82330,
+      "size_chars_approx": 82330,
+      "sha256": "21553a486359d4583b932112492a200b6467fb97571cac32c099dd57b9248726"
+    },
+    {
+      "filename": "arxiv_2604_23166v1.txt",
+      "size_bytes": 66040,
+      "size_chars_approx": 66040,
+      "sha256": "6bb5c304e61588e90fb00a768a63ec31d7a5a4647608ffe64f83136b1df40be5"
+    },
+    {
+      "filename": "arxiv_2604_23183v1.txt",
+      "size_bytes": 386798,
+      "size_chars_approx": 386798,
+      "sha256": "7df7b4f70802182c0db64a2f52f43d8d0e5b0cc86dff8f241e0b8e0417e6d216"
+    },
+    {
+      "filename": "arxiv_2604_23255v1.txt",
+      "size_bytes": 83037,
+      "size_chars_approx": 83037,
+      "sha256": "b94ba2c12452eb73aad032016db4dedfeb3d097328370fc647a03b0e74af9042"
+    },
+    {
+      "filename": "arxiv_2604_23445v1.txt",
+      "size_bytes": 98950,
+      "size_chars_approx": 98950,
+      "sha256": "a58ed255b4f458c9f59e8654b8e38937009349bd1ce3ee19dcf6bbff2026c7ec"
+    },
+    {
+      "filename": "arxiv_2604_23486v1.txt",
+      "size_bytes": 81140,
+      "size_chars_approx": 81140,
+      "sha256": "cc674078819790575e0ca7c223566faf46fe2bb507bd412a3d3470e5824e00a2"
+    },
+    {
+      "filename": "arxiv_2604_23538v1.txt",
+      "size_bytes": 126337,
+      "size_chars_approx": 126337,
+      "sha256": "41d90efb1c054c729577c64942d21717e6bba80bdda970d2ac30a213d66b708c"
+    },
+    {
+      "filename": "arxiv_2604_23575v1.txt",
+      "size_bytes": 79650,
+      "size_chars_approx": 79650,
+      "sha256": "256d6cdf4dde19aa5ba070bd849e6a87d15014ad18b66cfd4c1fbefe4e068b11"
+    },
+    {
+      "filename": "arxiv_2604_23601v1.txt",
+      "size_bytes": 82648,
+      "size_chars_approx": 82648,
+      "sha256": "d5fd4bb039f6dd3355b9f31d24fdd4b1293827888f0b2bcac69e750813c27aeb"
+    },
+    {
+      "filename": "arxiv_2604_23638v1.txt",
+      "size_bytes": 51528,
+      "size_chars_approx": 51528,
+      "sha256": "b568786bdb321ffdcf1d528de4b8ec90f1bb048469e3c5e448252855fc568263"
+    },
+    {
+      "filename": "arxiv_2604_23703v1.txt",
+      "size_bytes": 46949,
+      "size_chars_approx": 46949,
+      "sha256": "f55cbbc54961046ebc52c1f94a239d4ab2ddf76ba26a990f03b19351153191ff"
+    },
+    {
+      "filename": "arxiv_2604_24015v1.txt",
+      "size_bytes": 67492,
+      "size_chars_approx": 67492,
+      "sha256": "e75fc22fa5069fa4d13fc2c000614ba00fb3f97ed24da552e3d417cdf08c696d"
+    },
+    {
+      "filename": "arxiv_2604_24076v1.txt",
+      "size_bytes": 42403,
+      "size_chars_approx": 42403,
+      "sha256": "a572664b3d7c3bd24f71a5ecd2c8504c58103d617e17ee7ee62cbe8fa9a8af61"
+    },
+    {
+      "filename": "arxiv_2604_24082v1.txt",
+      "size_bytes": 133275,
+      "size_chars_approx": 133275,
+      "sha256": "d7f3d0a7db813608ea24ffa56fe1b528bef3cf9d9bcdbed1b37d6c832e36b9a6"
+    },
+    {
+      "filename": "arxiv_2604_24083v1.txt",
+      "size_bytes": 25544,
+      "size_chars_approx": 25544,
+      "sha256": "2023d43cda193874d8380847fc3668f871a229ca2f3f80c14968840240db8df3"
+    },
+    {
+      "filename": "arxiv_2604_24086v1.txt",
+      "size_bytes": 47038,
+      "size_chars_approx": 47038,
+      "sha256": "3e5c9c5525416f408e99d4a5e28d1c4a7fac6201d99c76044ccf90958d20f5d1"
+    },
+    {
+      "filename": "arxiv_2604_24102v1.txt",
+      "size_bytes": 84400,
+      "size_chars_approx": 84400,
+      "sha256": "c8b5068ca9df4c8cbad8ea2b7b3e07d6ed5797373ada0a06458b963a95421462"
+    },
+    {
+      "filename": "arxiv_2604_24110v1.txt",
+      "size_bytes": 53183,
+      "size_chars_approx": 53183,
+      "sha256": "1efec52a4275bb320a63de6bee1371e5a2eee7e1bd8df2d7a8924f17b948770f"
+    },
+    {
+      "filename": "arxiv_2604_24127v1.txt",
+      "size_bytes": 67887,
+      "size_chars_approx": 67887,
+      "sha256": "be0d13f5843f3b2ac36d7e02f3ede75246c41f2a8037a010e10f24eaa45e0535"
+    },
+    {
+      "filename": "arxiv_2604_24153v1.txt",
+      "size_bytes": 26271,
+      "size_chars_approx": 26271,
+      "sha256": "b7f213154b4efca8f3ebf2ca27fb281347640d49a41b12c38e6f159c96ea11ad"
+    },
+    {
+      "filename": "arxiv_2604_24155v1.txt",
+      "size_bytes": 76538,
+      "size_chars_approx": 76538,
+      "sha256": "68405b1fd5be9450050e3926677233108273ce076d18ad95eb7edd751b050996"
+    },
+    {
+      "filename": "arxiv_2604_24156v1.txt",
+      "size_bytes": 37523,
+      "size_chars_approx": 37523,
+      "sha256": "a20293937c9b91c29c3861cbf616fa97ffe594ed49337f06048c210b3ecbca78"
+    },
+    {
+      "filename": "arxiv_2604_24158v1.txt",
+      "size_bytes": 25686,
+      "size_chars_approx": 25686,
+      "sha256": "7cd38b4dc2cfc2fbe6b9e94385e474e0f34d6f008f9742ca43ea6976ea1caa5b"
+    },
+    {
+      "filename": "arxiv_2604_24160v1.txt",
+      "size_bytes": 99459,
+      "size_chars_approx": 99459,
+      "sha256": "5f914fbf2f45a02aa2eef90ed891d9e2863f853a3ab6285c1e468e8a6de0c963"
+    },
+    {
+      "filename": "arxiv_2604_24170v1.txt",
+      "size_bytes": 78941,
+      "size_chars_approx": 78941,
+      "sha256": "3f0f7474d1b30a25e2d36ef96dfd800bed647557d7de3d46ea77967d8e904c8c"
+    },
+    {
+      "filename": "arxiv_2604_24176v1.txt",
+      "size_bytes": 49262,
+      "size_chars_approx": 49262,
+      "sha256": "08986b1dfb3333bafc902097bcc4e5b8442dce1e49a0a1fa8f3813bba1f6374b"
+    },
+    {
+      "filename": "arxiv_2604_24178v1.txt",
+      "size_bytes": 0,
+      "size_chars_approx": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "filename": "arxiv_2604_24186v1.txt",
+      "size_bytes": 69004,
+      "size_chars_approx": 69004,
+      "sha256": "5b0e9e411cd2d5024640f14be2b467e6750ce7151847c3adf7f37ab26fa55f23"
+    },
+    {
+      "filename": "arxiv_2604_24278v1.txt",
+      "size_bytes": 31763,
+      "size_chars_approx": 31763,
+      "sha256": "098001c76b131d432ecb93b20fa0fbc7c56bd7588d7c4f5436bcd42e7ad68354"
+    },
+    {
+      "filename": "arxiv_2604_24326v1.txt",
+      "size_bytes": 58632,
+      "size_chars_approx": 58632,
+      "sha256": "48bcbbbde9ef4560f2b0fcd392828e601bd5571161f941be4e7ddea78bd9742e"
+    },
+    {
+      "filename": "arxiv_2604_24346v1.txt",
+      "size_bytes": 59836,
+      "size_chars_approx": 59836,
+      "sha256": "da32e4b76d5bb53ba5c7f72d3671a3eca933e1c50570ba7916f63d6d174900b5"
+    },
+    {
+      "filename": "arxiv_2604_24351v1.txt",
+      "size_bytes": 49405,
+      "size_chars_approx": 49405,
+      "sha256": "728cca7dbd0f2ca3f77eb7c7e7205efa14d6748fb662f2c1854994c744ac1907"
+    },
+    {
+      "filename": "arxiv_2604_24371v1.txt",
+      "size_bytes": 48296,
+      "size_chars_approx": 48296,
+      "sha256": "bf7e8a2f62bf349be74a1d513a7f4b044279daf026662a310a891d9c0895fd75"
+    },
+    {
+      "filename": "arxiv_2604_24379v1.txt",
+      "size_bytes": 54982,
+      "size_chars_approx": 54982,
+      "sha256": "d8d714ea9ea8fad9eed4ba23e163304991abeb93222c8d48977456b3739fb86e"
+    },
+    {
+      "filename": "arxiv_2604_24395v1.txt",
+      "size_bytes": 73388,
+      "size_chars_approx": 73388,
+      "sha256": "efc531ae831b86a2e9f89e3bd86a2c1acbfe6cb64721d2e8307ca2229d1ae4a3"
+    },
+    {
+      "filename": "arxiv_2604_24432v1.txt",
+      "size_bytes": 90045,
+      "size_chars_approx": 90045,
+      "sha256": "840db39c6833e61fd85452a71800a5d1d313dcb281d87d6bebce601e88e119e3"
+    },
+    {
+      "filename": "arxiv_2604_24473v1.txt",
+      "size_bytes": 112485,
+      "size_chars_approx": 112485,
+      "sha256": "3a0ebf31f5b5fae9c561132b2b7d2ba443f21414b22466a936059d803c35d9f7"
+    },
+    {
+      "filename": "arxiv_2604_24492v1.txt",
+      "size_bytes": 45947,
+      "size_chars_approx": 45947,
+      "sha256": "13a5bffe2c5982c72d84aa9ac2cf8ab2633f04e39acf6bc228d0ca86bf6dda91"
+    },
+    {
+      "filename": "arxiv_2604_24503v1.txt",
+      "size_bytes": 48648,
+      "size_chars_approx": 48648,
+      "sha256": "47e6b7a9ceac102ea9983cfd74ffc99260a204ff1a11e4d3b3fe207511dae409"
+    },
+    {
+      "filename": "arxiv_2604_24512v1.txt",
+      "size_bytes": 49114,
+      "size_chars_approx": 49114,
+      "sha256": "a92fdcad842102b2bbb43bcd287cb745ce8c9e1248214753f0aadd479125486b"
+    },
+    {
+      "filename": "arxiv_2604_24519v1.txt",
+      "size_bytes": 124614,
+      "size_chars_approx": 124614,
+      "sha256": "22349539f9ad0c692dce7e25f5f13c895cd95013570bb3e8dceb73fdc1396f7d"
+    },
+    {
+      "filename": "arxiv_2604_24525v1.txt",
+      "size_bytes": 63836,
+      "size_chars_approx": 63836,
+      "sha256": "de9d8927c431631517add3a6020a1cbf2c588faafa387435809e3f5f4444b587"
+    },
+    {
+      "filename": "arxiv_2604_24542v1.txt",
+      "size_bytes": 124261,
+      "size_chars_approx": 124261,
+      "sha256": "214a32635e44d5902735760dc49bd96316efce6065c13a2668b0383e1db55527"
+    },
+    {
+      "filename": "arxiv_2604_24544v1.txt",
+      "size_bytes": 69688,
+      "size_chars_approx": 69688,
+      "sha256": "94fc74c7c35542dd97ac76062b82b7f79a12bc5224737312c78e543924eb8453"
+    },
+    {
+      "filename": "arxiv_2604_24562v1.txt",
+      "size_bytes": 59135,
+      "size_chars_approx": 59135,
+      "sha256": "40c00329eadcbbfbf1c1a90c8d9d03f284780d163efb113420d8bdb2c04fb2a8"
+    },
+    {
+      "filename": "arxiv_2604_24572v1.txt",
+      "size_bytes": 52208,
+      "size_chars_approx": 52208,
+      "sha256": "94601de8ae2b8186b2b1fc076e881651a161c641a33ccb28eb0d666939d95297"
+    },
+    {
+      "filename": "arxiv_2604_24576v1.txt",
+      "size_bytes": 33058,
+      "size_chars_approx": 33058,
+      "sha256": "c881f35920be2ee1b785434db6ab7a02125c8d5a5f7ffabc7d456107ced76eb3"
+    },
+    {
+      "filename": "arxiv_2604_24589v1.txt",
+      "size_bytes": 102640,
+      "size_chars_approx": 102640,
+      "sha256": "3afdc447bd9ac266cd1b835a26ce829f0904da0ff29142f2ca04089b9d3bd88a"
+    },
+    {
+      "filename": "arxiv_2604_24597v1.txt",
+      "size_bytes": 79176,
+      "size_chars_approx": 79176,
+      "sha256": "69050f2dda9bafa2b26f995419e669aef6b7c36ea770027388e965b37cadfb1c"
+    },
+    {
+      "filename": "arxiv_2604_24618v1.txt",
+      "size_bytes": 279775,
+      "size_chars_approx": 279775,
+      "sha256": "98e40c91a40714f17891183a79c792b865575bcb8575ff31717ab0f4cb582090"
+    },
+    {
+      "filename": "arxiv_2604_24623v1.txt",
+      "size_bytes": 69351,
+      "size_chars_approx": 69351,
+      "sha256": "e9ebe6778010fb182b3fe10f33bd7b1b1655d5df66750eaa528da76346763692"
+    },
+    {
+      "filename": "arxiv_2604_24637v1.txt",
+      "size_bytes": 59909,
+      "size_chars_approx": 59909,
+      "sha256": "4ea36d1efd9905d0c09ded5ad1b0b6abcfda44df5e1c460cf7605f973eb2fc5e"
+    },
+    {
+      "filename": "arxiv_2604_24643v1.txt",
+      "size_bytes": 39013,
+      "size_chars_approx": 39013,
+      "sha256": "905431a60332b3f8d4d295bf6ca84fa3bab55eae3e25382640290b4a27c73b4d"
+    },
+    {
+      "filename": "arxiv_2604_24647v1.txt",
+      "size_bytes": 89251,
+      "size_chars_approx": 89251,
+      "sha256": "2874560e20d807bf36cf854b949ac0e0425641cb73eb60e45faa3478b1b63183"
+    },
+    {
+      "filename": "arxiv_2604_24662v1.txt",
+      "size_bytes": 77653,
+      "size_chars_approx": 77653,
+      "sha256": "1aa8a0d35c557e2faa42f6ca72418b0cd77db1bb7d544bf0f3b0f995e6c69fd0"
+    },
+    {
+      "filename": "arxiv_2604_24665v1.txt",
+      "size_bytes": 75950,
+      "size_chars_approx": 75950,
+      "sha256": "30aa4037cace5977b3218caeb76df1f28218ec54d0281e1b8bbdcfe4b3071cd4"
+    },
+    {
+      "filename": "arxiv_2604_24668v1.txt",
+      "size_bytes": 38623,
+      "size_chars_approx": 38623,
+      "sha256": "5aca016f643a7e49f5a3024c17726f806e69aa1c8fe14ffc1f54646388c4f611"
+    },
+    {
+      "filename": "arxiv_2604_24686v1.txt",
+      "size_bytes": 112632,
+      "size_chars_approx": 112632,
+      "sha256": "1cec26b586b41eb5c7d394d54d427712c55b76acf3cb43767c8e182a2b7a2346"
+    },
+    {
+      "filename": "arxiv_2604_24700v1.txt",
+      "size_bytes": 123886,
+      "size_chars_approx": 123886,
+      "sha256": "38307430bd4484eb63acd3d71d8c4af466d2bbac8d296282fedebb127fcf89b9"
+    },
+    {
+      "filename": "arxiv_2604_24710v1.txt",
+      "size_bytes": 45436,
+      "size_chars_approx": 45436,
+      "sha256": "947da3de9637f47600cf87495da93c79c774c587c3a76d63efa3bb101acc47c0"
+    },
+    {
+      "filename": "arxiv_2604_24758v1.txt",
+      "size_bytes": 31518,
+      "size_chars_approx": 31518,
+      "sha256": "2dbe8d8ffdd68ecbaef19adc5f31c26927e35ad083031dc487c79adb37107a44"
+    }
+  ]
+}
