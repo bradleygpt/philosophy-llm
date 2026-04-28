@@ -1,0 +1,231 @@
+{
+  "source": "gutenberg",
+  "generated_at": "2026-04-28T18:34:37.816198+00:00",
+  "file_count": 37,
+  "total_bytes": 19747775,
+  "total_mb": 18.83,
+  "files": [
+    {
+      "filename": "aristotle_metaphysics.txt",
+      "size_bytes": 810109,
+      "size_chars_approx": 810109,
+      "sha256": "c44cfac06fef61cd100ec1e95e46d3c8641e4395e35c32b35a74319b0fab6f53"
+    },
+    {
+      "filename": "aristotle_nicomachean_ethics.txt",
+      "size_bytes": 683729,
+      "size_chars_approx": 683729,
+      "sha256": "14daab99327f00e6e77225e464842d25c3dbe4e39399d929d28cc8a8b9fa1c31"
+    },
+    {
+      "filename": "aristotle_poetics.txt",
+      "size_bytes": 130897,
+      "size_chars_approx": 130897,
+      "sha256": "dc6ca0e845e886e7ff0895eb4c2fd8d5752c915fbb2c418c9ed72b8a5c190a53"
+    },
+    {
+      "filename": "aristotle_politics.txt",
+      "size_bytes": 614520,
+      "size_chars_approx": 614520,
+      "sha256": "f5c939835527f54fb376365ea216585d4342816d6c76038685c720d1ed47987f"
+    },
+    {
+      "filename": "bacon_novum_organum.txt",
+      "size_bytes": 525134,
+      "size_chars_approx": 525134,
+      "sha256": "8eaf942bea05368d0f503db34dfb1aaa37c2944584da7c3f820ce526cb37c5a6"
+    },
+    {
+      "filename": "berkeley_principles.txt",
+      "size_bytes": 240034,
+      "size_chars_approx": 240034,
+      "sha256": "ce8400e04b56269d1463d3561b52d17a1270bedf465a6d854516c965be9eae10"
+    },
+    {
+      "filename": "descartes_discourse.txt",
+      "size_bytes": 153001,
+      "size_chars_approx": 153001,
+      "sha256": "0c260f6acb4b7351ee4c10a20bc78f717fd43402f730b35a5d36eb69fd190243"
+    },
+    {
+      "filename": "descartes_meditations.txt",
+      "size_bytes": 164797,
+      "size_chars_approx": 164797,
+      "sha256": "3e8ab40b12ecdf045c73f98c598f118b520b680ecef9d9beff9eeddfb1b156d6"
+    },
+    {
+      "filename": "epictetus_enchiridion.txt",
+      "size_bytes": 93447,
+      "size_chars_approx": 93447,
+      "sha256": "e9be2a592eaa07ca1dcace70806d2c32856df7f977793f7f42db2c2a630f838e"
+    },
+    {
+      "filename": "hobbes_leviathan.txt",
+      "size_bytes": 1277945,
+      "size_chars_approx": 1277945,
+      "sha256": "f368bfe013193356d198b229918c6d2b178b511912aca334b5e2872e4abd6f8e"
+    },
+    {
+      "filename": "hume_enquiry.txt",
+      "size_bytes": 1387615,
+      "size_chars_approx": 1387615,
+      "sha256": "d83f5b709b381bd43675a715ddbfb31db943148764d3f860679673983a5c8b25"
+    },
+    {
+      "filename": "hume_treatise.txt",
+      "size_bytes": 379920,
+      "size_chars_approx": 379920,
+      "sha256": "2eadffc6ddfdbfa1f379e72509615fcfa3bf7b336371576c052fc3019234fbf1"
+    },
+    {
+      "filename": "james_pragmatism.txt",
+      "size_bytes": 479461,
+      "size_chars_approx": 479461,
+      "sha256": "5a44138cf0f5fecca57f81f0f4c0051e85e9fe900a66a2579a44ab98f4af1f2a"
+    },
+    {
+      "filename": "kant_critique_pure_reason.txt",
+      "size_bytes": 1336455,
+      "size_chars_approx": 1336455,
+      "sha256": "ff291f8a8e8ac00e2fb71005dcd318a6b464b7042a69194e1541685378515d4b"
+    },
+    {
+      "filename": "kant_metaphysic_morals.txt",
+      "size_bytes": 404359,
+      "size_chars_approx": 404359,
+      "sha256": "60d08d6c82883a458f10474d575add00897307dd8ef8b101f01870a4c9b6fd39"
+    },
+    {
+      "filename": "kant_practical_reason.txt",
+      "size_bytes": 101564,
+      "size_chars_approx": 101564,
+      "sha256": "20c33839c58018506c467ae5f62b25f15645a4653a67ad3bc4fe0a2a0e814e7f"
+    },
+    {
+      "filename": "locke_essay_v1.txt",
+      "size_bytes": 884511,
+      "size_chars_approx": 884511,
+      "sha256": "a6718ed91593e6a5b2e0d9e9c51dad14a4f34eeff42e01e4a9ada07aa081a04a"
+    },
+    {
+      "filename": "locke_essay_v2.txt",
+      "size_bytes": 750667,
+      "size_chars_approx": 750667,
+      "sha256": "eed8ccc6854d292ca7e00f57bd9ee3945f8ef4a533ec7f3cc01c7c285937c042"
+    },
+    {
+      "filename": "locke_second_treatise.txt",
+      "size_bytes": 344510,
+      "size_chars_approx": 344510,
+      "sha256": "5752816394f2abe7ed766a35b1a376c55d106dcc428aeec6c5b96691a0c179b8"
+    },
+    {
+      "filename": "marcus_aurelius_meditations.txt",
+      "size_bytes": 432544,
+      "size_chars_approx": 432544,
+      "sha256": "9463a734bafe4766c0a59742293249058c57fc901c25a2b1c80fc0e9779cd2e7"
+    },
+    {
+      "filename": "mill_on_liberty.txt",
+      "size_bytes": 336268,
+      "size_chars_approx": 336268,
+      "sha256": "bea29a9f7958995d8a64d38a918fe26fa3e1ba0d0d3d53d2d7c27ab6167b0fc9"
+    },
+    {
+      "filename": "mill_utilitarianism.txt",
+      "size_bytes": 186441,
+      "size_chars_approx": 186441,
+      "sha256": "6e6366ed4433f9fbe831ef571498c757b2fd135496c516c35dfa3fbd539a76e0"
+    },
+    {
+      "filename": "nietzsche_beyond_good_evil.txt",
+      "size_bytes": 415486,
+      "size_chars_approx": 415486,
+      "sha256": "c9ebbbfe216bcb0d90451346bf313bacada0cd68e5506d3adb161f9b6014a83f"
+    },
+    {
+      "filename": "nietzsche_genealogy_morals.txt",
+      "size_bytes": 462831,
+      "size_chars_approx": 462831,
+      "sha256": "86eb46aea8d406454557f34e4629d5b64bfbb2c150ea0503b94c93884b36d06d"
+    },
+    {
+      "filename": "nietzsche_zarathustra.txt",
+      "size_bytes": 698930,
+      "size_chars_approx": 698930,
+      "sha256": "02068ce51e14ff878136c406452db778fb7326a01e014b47b49736285f60b2d3"
+    },
+    {
+      "filename": "plato_apology.txt",
+      "size_bytes": 109300,
+      "size_chars_approx": 109300,
+      "sha256": "4d4a0fa4c0cd99d4c4bb7db29482fed941a82f21449f2679b194dd93998d8563"
+    },
+    {
+      "filename": "plato_crito.txt",
+      "size_bytes": 148568,
+      "size_chars_approx": 148568,
+      "sha256": "c9dc02e91f5c96054713a2361bffe24aee0bf0eeb359c63b2e048c1d00389d0b"
+    },
+    {
+      "filename": "plato_meno.txt",
+      "size_bytes": 1387168,
+      "size_chars_approx": 1387168,
+      "sha256": "b0f219521df2ee42a4c2e6e0c10566f8b9ef5cae0d7ae96a27824c36a76f7bc5"
+    },
+    {
+      "filename": "plato_phaedo.txt",
+      "size_bytes": 261905,
+      "size_chars_approx": 261905,
+      "sha256": "5d31273a7a01e9911d3f1414b4a5fe6e85da95ace3e64315f09e485b24021055"
+    },
+    {
+      "filename": "plato_phaedrus.txt",
+      "size_bytes": 405065,
+      "size_chars_approx": 405065,
+      "sha256": "d1c8cbc97f2cb92b16ade70786c24863bad35ced246c78f0306ecea19a00485f"
+    },
+    {
+      "filename": "plato_republic.txt",
+      "size_bytes": 1269089,
+      "size_chars_approx": 1269089,
+      "sha256": "38405ccb8a084dc825e9c6d1868c58e41a083721b7378c8e7e2102e013a0171e"
+    },
+    {
+      "filename": "plato_symposium.txt",
+      "size_bytes": 57215,
+      "size_chars_approx": 57215,
+      "sha256": "dc4a2031de0ec1d36eb35f473f06a3aef9781643d5a40a318f1845e58720f0b6"
+    },
+    {
+      "filename": "rousseau_social_contract.txt",
+      "size_bytes": 754621,
+      "size_chars_approx": 754621,
+      "sha256": "8539d5a3a247c2ab85baa978223fc04c739235e7bab40310baf49ad4662d20ac"
+    },
+    {
+      "filename": "russell_mysticism_logic.txt",
+      "size_bytes": 68696,
+      "size_chars_approx": 68696,
+      "sha256": "224eb2d4c98dd2c3ecc1de6aeb34b5953ab5087d3da423c627ca6b280d2433b3"
+    },
+    {
+      "filename": "russell_problems.txt",
+      "size_bytes": 273899,
+      "size_chars_approx": 273899,
+      "sha256": "58c6f1b6727345444baad532e323acc478837e34a8d5ba2f3ad63caa2d810e78"
+    },
+    {
+      "filename": "schopenhauer_world_will_v1.txt",
+      "size_bytes": 1175257,
+      "size_chars_approx": 1175257,
+      "sha256": "cac5cd88fad1f892b3831514b424f999ffe8aab04694ff4c7c15d285e14192fa"
+    },
+    {
+      "filename": "spinoza_ethics.txt",
+      "size_bytes": 541817,
+      "size_chars_approx": 541817,
+      "sha256": "eb94a699352ade28e049e5deb839f6b49c1a3bb28be7a1787cf39d7a376f833e"
+    }
+  ]
+}
