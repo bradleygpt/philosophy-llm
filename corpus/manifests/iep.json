@@ -1,0 +1,5343 @@
+{
+  "source": "iep",
+  "generated_at": "2026-04-28T20:47:38.219024+00:00",
+  "file_count": 889,
+  "total_bytes": 59304971,
+  "total_mb": 56.56,
+  "files": [
+    {
+      "filename": "iep_2d-seman.txt",
+      "size_bytes": 92790,
+      "size_chars_approx": 92790,
+      "sha256": "9f32f5b8839cf63577811e79380f9204bd749aeffbc97b2f126b9084ea355ce0"
+    },
+    {
+      "filename": "iep__p_601.txt",
+      "size_bytes": 1378,
+      "size_chars_approx": 1378,
+      "sha256": "5539dac130d16a2c4e4b6cdc2c09b6ba9a1ca59f9c835e65d22f067639ca29d9"
+    },
+    {
+      "filename": "iep_a-ethics.txt",
+      "size_bytes": 56765,
+      "size_chars_approx": 56765,
+      "sha256": "8963f9553f6cd4b50625220e63702cb2535b652a17ff342c631ae5f3c3d58eef"
+    },
+    {
+      "filename": "iep_abelard-logic.txt",
+      "size_bytes": 54090,
+      "size_chars_approx": 54090,
+      "sha256": "53bc89059d5204d796190652c89981ce10447b11e4312f1b577cd24aa5f8b204"
+    },
+    {
+      "filename": "iep_abelard.txt",
+      "size_bytes": 59814,
+      "size_chars_approx": 59814,
+      "sha256": "c9fd9a43aa5bbf3edf841a9c0487e3732672bc19c1d9a7ed834be53202598f04"
+    },
+    {
+      "filename": "iep_abortion.txt",
+      "size_bytes": 49869,
+      "size_chars_approx": 49869,
+      "sha256": "853a92088467bf067bd14f75a798a8434c7cffde874616208c437399819dd0f6"
+    },
+    {
+      "filename": "iep_abstractionism.txt",
+      "size_bytes": 96683,
+      "size_chars_approx": 96683,
+      "sha256": "18531a835edb4692824a5b04d56f1f34e1f0a737d2f01d492b489fba2012a8df"
+    },
+    {
+      "filename": "iep_addamsj.txt",
+      "size_bytes": 46994,
+      "size_chars_approx": 46994,
+      "sha256": "8e43f313ce78eeede4bbc0c08a519a1f725f26819dbd08768da4e89488725e20"
+    },
+    {
+      "filename": "iep_adorno.txt",
+      "size_bytes": 81384,
+      "size_chars_approx": 81384,
+      "sha256": "3f24cb69663998b0f606c0675bc0d431126d15153295fec0d7e0a5aee11e58df"
+    },
+    {
+      "filename": "iep_advaita-vedanta.txt",
+      "size_bytes": 27819,
+      "size_chars_approx": 27819,
+      "sha256": "bfdef972299b89af08c3a61159188147d47ce44c521bc2b971921acdd6d23100"
+    },
+    {
+      "filename": "iep_aesop.txt",
+      "size_bytes": 47736,
+      "size_chars_approx": 47736,
+      "sha256": "056d9e9472640c4b9df0eb12f43b3a32091ce493ca27c4ba3b820143370fd01f"
+    },
+    {
+      "filename": "iep_aesthetic-attitude.txt",
+      "size_bytes": 57784,
+      "size_chars_approx": 57784,
+      "sha256": "a2e9b71ec0627499bb3f3b78b829cc9bdbf222958bd9876ca69fba85edfdb65b"
+    },
+    {
+      "filename": "iep_aesthetic-formalism.txt",
+      "size_bytes": 88791,
+      "size_chars_approx": 88791,
+      "sha256": "a7ccbac9421e2c8eaee8d82265a2c83c3de15381041fe6085f54108a1421d8bd"
+    },
+    {
+      "filename": "iep_aesthetic-taste.txt",
+      "size_bytes": 74701,
+      "size_chars_approx": 74701,
+      "sha256": "1e6775f68fb177ab2ea95cc2cefcda804f5be050094b7cebea7b1545b9932bdc"
+    },
+    {
+      "filename": "iep_aesthetics-in-continental-phil.txt",
+      "size_bytes": 98220,
+      "size_chars_approx": 98220,
+      "sha256": "a5920f6d474e2669cec55b9be19a38c720183c53c19b546cfa78986bcb0c058c"
+    },
+    {
+      "filename": "iep_aesthetics-of-classical-music.txt",
+      "size_bytes": 101541,
+      "size_chars_approx": 101541,
+      "sha256": "643ac21a3bd2e155122b43a19ce3a28e36166c4bb9e2a2666a4f65a42bdaf37f"
+    },
+    {
+      "filename": "iep_aesthetics-of-popular-music.txt",
+      "size_bytes": 68584,
+      "size_chars_approx": 68584,
+      "sha256": "a77a04cae1ae8aa7b9d8f9755ddf5ba3222aee5e74b80cdad2267419b41af6a3"
+    },
+    {
+      "filename": "iep_aesthetics.txt",
+      "size_bytes": 55074,
+      "size_chars_approx": 55074,
+      "sha256": "980b325fee3fd0f310c41a800e65d4001e13ccf1475cc31558adc6562f8d1392"
+    },
+    {
+      "filename": "iep_african-diaspora.txt",
+      "size_bytes": 39589,
+      "size_chars_approx": 39589,
+      "sha256": "13eab18816203e2cf7f005ae80a48028c4e00413626a254f0404f1d7ceef89ac"
+    },
+    {
+      "filename": "iep_african-meaning-of-life.txt",
+      "size_bytes": 63623,
+      "size_chars_approx": 63623,
+      "sha256": "61e1f884559b8452d23d0f813cd006e9e1c6e75ba756c54785fcc91361250c95"
+    },
+    {
+      "filename": "iep_african-predicament.txt",
+      "size_bytes": 56530,
+      "size_chars_approx": 56530,
+      "sha256": "29bd83fd022329f68c1f6bec14a6ad3fb6d149d3fe4c344e1167d6bd5ee014d4"
+    },
+    {
+      "filename": "iep_african-sage.txt",
+      "size_bytes": 113964,
+      "size_chars_approx": 113964,
+      "sha256": "678e0b6b6227e10cfd5edac4625488dbc1d46184f0ddcc9dda04341351ca4f39"
+    },
+    {
+      "filename": "iep_agamben.txt",
+      "size_bytes": 47117,
+      "size_chars_approx": 47117,
+      "sha256": "8bdc65c3f9e2780f94d4e0bafb70d3dd3366bc4f579eae853186d4df302c46c3"
+    },
+    {
+      "filename": "iep_agnes-arnauld.txt",
+      "size_bytes": 39314,
+      "size_chars_approx": 39314,
+      "sha256": "14a47c04e534c30fc74d0305fe39378901b2b6ba565d343165e060cb73d9aac8"
+    },
+    {
+      "filename": "iep_aim-of-belief.txt",
+      "size_bytes": 89666,
+      "size_chars_approx": 89666,
+      "sha256": "70b12aca03c4c123424b0e9058b475e1a7455f7ce951edf21682385dc0ab9076"
+    },
+    {
+      "filename": "iep_al-ghazali.txt",
+      "size_bytes": 87980,
+      "size_chars_approx": 87980,
+      "sha256": "0fe44a6a34f885fdb9b51460ff81523ba835d1b4cc841396f7321288ad9b0058"
+    },
+    {
+      "filename": "iep_albert-camus.txt",
+      "size_bytes": 82831,
+      "size_chars_approx": 82831,
+      "sha256": "edf507fcaaa32e31173e6225b3261cb70f5353065005b60d6365e54e8f935490"
+    },
+    {
+      "filename": "iep_alexander-polyhistor.txt",
+      "size_bytes": 14844,
+      "size_chars_approx": 14844,
+      "sha256": "fe62de848e435de70caed24ca6442d35143822f6b7cbf2bd37822ecd8b137b3a"
+    },
+    {
+      "filename": "iep_altruism-and-group-selection.txt",
+      "size_bytes": 39965,
+      "size_chars_approx": 39965,
+      "sha256": "f14a59a33f5472f6fa1afd005836f67fa85c491dd56683cb7ff2b4d51bdff555"
+    },
+    {
+      "filename": "iep_am-trans.txt",
+      "size_bytes": 32122,
+      "size_chars_approx": 32122,
+      "sha256": "62612e6deb91939ff369763fee08bc84ef7f7e80d22d4d237155c04237e5e84b"
+    },
+    {
+      "filename": "iep_american-enlightenment-thought.txt",
+      "size_bytes": 35168,
+      "size_chars_approx": 35168,
+      "sha256": "8f47fe7163c00503424f8326a08fc7199f006f5ad2e8c3c28951262f3631cd86"
+    },
+    {
+      "filename": "iep_american-philosophy.txt",
+      "size_bytes": 55344,
+      "size_chars_approx": 55344,
+      "sha256": "78ba9428b28909adb769cc1324c8a25972226a9ec876849490d0066a5946cd8d"
+    },
+    {
+      "filename": "iep_american-wilderness-philosophy.txt",
+      "size_bytes": 56351,
+      "size_chars_approx": 56351,
+      "sha256": "b32f68bae0cb13e46e0c970f0d4f935be68728c5fdea09ba937eb6ac46103624"
+    },
+    {
+      "filename": "iep_amme-le-fevre-dacier.txt",
+      "size_bytes": 34009,
+      "size_chars_approx": 34009,
+      "sha256": "88dba9bbb1c7b4e3825cd79dbbe7895a2106cf3f2c227181bbdedfc3bac56fac"
+    },
+    {
+      "filename": "iep_analytic-philosophy.txt",
+      "size_bytes": 95130,
+      "size_chars_approx": 95130,
+      "sha256": "8c2138ae9ea63b02923c4ca6cfc1d83829ce90852af2253847bab297886bf06a"
+    },
+    {
+      "filename": "iep_anaxagoras.txt",
+      "size_bytes": 32468,
+      "size_chars_approx": 32468,
+      "sha256": "36dc6aa70b2726fa15d1bae31a32eb086cdf7f1359e2da8876e0aef7cc6ad519"
+    },
+    {
+      "filename": "iep_anaxarchus.txt",
+      "size_bytes": 18385,
+      "size_chars_approx": 18385,
+      "sha256": "d17b2f4b95dd7ae0da590b831b32d7c465b02798bfb3f117daadbf1be69f4111"
+    },
+    {
+      "filename": "iep_anaximander.txt",
+      "size_bytes": 39114,
+      "size_chars_approx": 39114,
+      "sha256": "77265ad4cef7388a69348b34356c363d1d8fa0983020200c6523023ff573d9f9"
+    },
+    {
+      "filename": "iep_anaximenes.txt",
+      "size_bytes": 8595,
+      "size_chars_approx": 8595,
+      "sha256": "6088e29c22e4095751d0136b94bfad5970094dce8a16f32b03102935b81f1fad"
+    },
+    {
+      "filename": "iep_ancient-aesthetics.txt",
+      "size_bytes": 52923,
+      "size_chars_approx": 52923,
+      "sha256": "adcf09eb5261d32dcc71f81aea7c1e30e3a7dabeaa5d51eca08d2fd36624fb3d"
+    },
+    {
+      "filename": "iep_ancient-greek-philosophy.txt",
+      "size_bytes": 122525,
+      "size_chars_approx": 122525,
+      "sha256": "896b4272a3414a51bd0c39b6c82fd97eef9de9316999c7438a2beb7dd95556d5"
+    },
+    {
+      "filename": "iep_ancient-greek-skepticism.txt",
+      "size_bytes": 78086,
+      "size_chars_approx": 78086,
+      "sha256": "9aaeefa601bca1cf6f45334093820d51287719fdd99b29d46b3a2071d34a9d00"
+    },
+    {
+      "filename": "iep_angelique-arnauld.txt",
+      "size_bytes": 36306,
+      "size_chars_approx": 36306,
+      "sha256": "a73a7605bb55df3b257c9ff2759f079aa255a43f6f6d66f37e95cb8cbbd4980c"
+    },
+    {
+      "filename": "iep_angelique-de-saint-jean-arnauld-dandilly.txt",
+      "size_bytes": 35993,
+      "size_chars_approx": 35993,
+      "sha256": "fcbca4e46ebb61f9eda0752fcc2432d6dc5825a78d1039be54918fa06a2d9f32"
+    },
+    {
+      "filename": "iep_animal-mind.txt",
+      "size_bytes": 93527,
+      "size_chars_approx": 93527,
+      "sha256": "ee7cfc716a23c61a8b047b3e9585d718f36d4a4185a6dc13fbc67e808ecf83f5"
+    },
+    {
+      "filename": "iep_animals-and-ethics.txt",
+      "size_bytes": 58644,
+      "size_chars_approx": 58644,
+      "sha256": "3cbb1950e544746a86ee362256d05c18d165700c00b07f6242b47bb8c1ec334f"
+    },
+    {
+      "filename": "iep_animism.txt",
+      "size_bytes": 42537,
+      "size_chars_approx": 42537,
+      "sha256": "cf07df7e519e48f9cbd44053afb8883bd2441fa7bfef139f2769cfa13aafc340"
+    },
+    {
+      "filename": "iep_anscombe.txt",
+      "size_bytes": 48242,
+      "size_chars_approx": 48242,
+      "sha256": "88df6d679f8b243c0d118880426e56dab4939ae97190d55015d4df28a9c3a2d2"
+    },
+    {
+      "filename": "iep_anselm-of-centerbury.txt",
+      "size_bytes": 172858,
+      "size_chars_approx": 172858,
+      "sha256": "fc265d076ed62e73b702b91ef3488db7d14313c71f0d9dc7e8105dfb5cd6386e"
+    },
+    {
+      "filename": "iep_anselm-ontological-argument.txt",
+      "size_bytes": 42268,
+      "size_chars_approx": 42268,
+      "sha256": "7c964fce062812eb0b49d5cd3aaf4ea3e09837bf9e27c9b5e4ad764dbcbb37f9"
+    },
+    {
+      "filename": "iep_anti-natalism.txt",
+      "size_bytes": 70704,
+      "size_chars_approx": 70704,
+      "sha256": "f3b083dd4f519f97de2dffaa3d6c02f0081ba0633007ef875694e0cf29f1aba1"
+    },
+    {
+      "filename": "iep_antisthenes.txt",
+      "size_bytes": 11596,
+      "size_chars_approx": 11596,
+      "sha256": "4e28730f69f1599e8cedb6f400c4f4d0c814532c2a1bdc40f1475e920bce065d"
+    },
+    {
+      "filename": "iep_antoine-arnauld.txt",
+      "size_bytes": 120110,
+      "size_chars_approx": 120110,
+      "sha256": "84d825865886064022b49ec9d4a94ab4e30605002b0b71aaa70cbc603fe2acb7"
+    },
+    {
+      "filename": "iep_apology.txt",
+      "size_bytes": 37960,
+      "size_chars_approx": 37960,
+      "sha256": "3342914a9bf248da8228f5582b31175377b8fa41f9ce5c6d645e6843e64a8e89"
+    },
+    {
+      "filename": "iep_app-math-physics.txt",
+      "size_bytes": 65040,
+      "size_chars_approx": 65040,
+      "sha256": "07547a5d7d92163415ab3e3bc67382f60cb05e4cb42deb390c137d251a6c60bd"
+    },
+    {
+      "filename": "iep_applied-ethics.txt",
+      "size_bytes": 95852,
+      "size_chars_approx": 95852,
+      "sha256": "03dbf08b1c43ea3964c52b94671f5a039e3c808fef0c5d9c925b9d1982569b71"
+    },
+    {
+      "filename": "iep_apriori.txt",
+      "size_bytes": 37900,
+      "size_chars_approx": 37900,
+      "sha256": "604bbb62c59aac326c8c206dd1b2e05eb03cf7cf8423909d77e4a29726f477c2"
+    },
+    {
+      "filename": "iep_argument.txt",
+      "size_bytes": 29162,
+      "size_chars_approx": 29162,
+      "sha256": "229cfc59170e731c3eebb7ed52ea9089f75366fdee3bde17a6f857a9ba193fca"
+    },
+    {
+      "filename": "iep_aristippus.txt",
+      "size_bytes": 7579,
+      "size_chars_approx": 7579,
+      "sha256": "97244e03190c4d636bcc5d644d0932930c4b432c2576e5467057b9e17ddc564b"
+    },
+    {
+      "filename": "iep_aristotle-biology.txt",
+      "size_bytes": 51685,
+      "size_chars_approx": 51685,
+      "sha256": "a35a6f029eb4c4a1f3d806709f6aa5457f6349a6cbbfa4dc2e19d035dd66983d"
+    },
+    {
+      "filename": "iep_aristotle-epistemology.txt",
+      "size_bytes": 82094,
+      "size_chars_approx": 82094,
+      "sha256": "d09bbaf59987e1f7a9ccb2666cbd7ea0e857a2db1ecf93bb203b7683882348c0"
+    },
+    {
+      "filename": "iep_aristotle-ethics.txt",
+      "size_bytes": 47960,
+      "size_chars_approx": 47960,
+      "sha256": "c3ac64d0dc7fe454e15b3a7081a1e25d3d7d39bc5af125a3f7926ce11947a9ac"
+    },
+    {
+      "filename": "iep_aristotle-logic.txt",
+      "size_bytes": 105716,
+      "size_chars_approx": 105716,
+      "sha256": "7a7c6ac920740596a21458ecaedfc4f7fd75e90f3ce48ffddee6b6ec8e6ef2bc"
+    },
+    {
+      "filename": "iep_aristotle-metaphysics.txt",
+      "size_bytes": 54323,
+      "size_chars_approx": 54323,
+      "sha256": "37bab59ecb83bf6c753519e6d08e8ff41389affbd6dbcacd3ceb54c18fa89913"
+    },
+    {
+      "filename": "iep_aristotle-motion.txt",
+      "size_bytes": 38410,
+      "size_chars_approx": 38410,
+      "sha256": "ad0b956134548efd66c16428488331e997318d38b55147f97e0726253b76c368"
+    },
+    {
+      "filename": "iep_aristotle-poetics.txt",
+      "size_bytes": 46573,
+      "size_chars_approx": 46573,
+      "sha256": "c43f77ee83d9e0406344cf99357bfb1d016617ec8a24acfd6b234bff8580dc9c"
+    },
+    {
+      "filename": "iep_aristotle-politics.txt",
+      "size_bytes": 134770,
+      "size_chars_approx": 134770,
+      "sha256": "e0df619cd4c2d4082241c737314e0243cda776f1a39fce005b11f3e6adcccda6"
+    },
+    {
+      "filename": "iep_aristotle.txt",
+      "size_bytes": 116929,
+      "size_chars_approx": 116929,
+      "sha256": "290565f4ffbb812cb470d3313ef357a3ad7e5e5cc68b53b22cead5679650266e"
+    },
+    {
+      "filename": "iep_arithmetic-and-geometry.txt",
+      "size_bytes": 106722,
+      "size_chars_approx": 106722,
+      "sha256": "da02e2c802abb75ac26d94af6b9e392108297aa7276b6ca2b59c442ed8360c91"
+    },
+    {
+      "filename": "iep_arrow-of-time.txt",
+      "size_bytes": 187952,
+      "size_chars_approx": 187952,
+      "sha256": "d027274377d4914716566bc121b4f0f9c346552c57102b002ca6b54d49506f75"
+    },
+    {
+      "filename": "iep_art-and-emotion.txt",
+      "size_bytes": 93685,
+      "size_chars_approx": 93685,
+      "sha256": "b857b59c3fcb39cc622f101b83a2cbcb5800659c34c0fe921f088f8feae8effc"
+    },
+    {
+      "filename": "iep_art-and-epistemology.txt",
+      "size_bytes": 25020,
+      "size_chars_approx": 25020,
+      "sha256": "e560752a08c72095439f825bd21d88037f3c9b4bcea98627f5aa4850e3dbc161"
+    },
+    {
+      "filename": "iep_art-and-interpretation.txt",
+      "size_bytes": 63629,
+      "size_chars_approx": 63629,
+      "sha256": "3470bbb59d4e83190d6b4192fcce97a667038763d14a85dbdc2e1f6429197d3e"
+    },
+    {
+      "filename": "iep_artificial-intelligence.txt",
+      "size_bytes": 63930,
+      "size_chars_approx": 63930,
+      "sha256": "97aa0f56c98a32c3c3d91f8516047d6562481035cc67a29a83f37495cd2f8390"
+    },
+    {
+      "filename": "iep_artistic-medium.txt",
+      "size_bytes": 108642,
+      "size_chars_approx": 108642,
+      "sha256": "81387c11783e04273d6c3a6efd1202e328e5053d548adb698e524e6f9f4c03ff"
+    },
+    {
+      "filename": "iep_associationism-in-philosophy-of-mind.txt",
+      "size_bytes": 106306,
+      "size_chars_approx": 106306,
+      "sha256": "3650e58ae614276e55529332502bb5474680dad486671af6a8c7ecce646d4f6d"
+    },
+    {
+      "filename": "iep_atheism.txt",
+      "size_bytes": 77542,
+      "size_chars_approx": 77542,
+      "sha256": "d542e24b751746a82fbc86e1eaf3c24a279c4bc0724114160d3f6908c2ba8869"
+    },
+    {
+      "filename": "iep_augustine-political-and-social-philosophy.txt",
+      "size_bytes": 37227,
+      "size_chars_approx": 37227,
+      "sha256": "7c83b2dcac513df6a3bd453e28c22a3a579c6b83a7e81d0426899f167c2015fa"
+    },
+    {
+      "filename": "iep_autism.txt",
+      "size_bytes": 46989,
+      "size_chars_approx": 46989,
+      "sha256": "e9b32589c47b5d944ca86514fe35e1cc29a2781aa505e2c2d684ad58d79e91f2"
+    },
+    {
+      "filename": "iep_autonomy.txt",
+      "size_bytes": 56087,
+      "size_chars_approx": 56087,
+      "sha256": "5c239223dbd5fcd092c128dcbb35a6a54e51fecc85cf518f0d43a066eb2c1142"
+    },
+    {
+      "filename": "iep_avicenna-ibn-sina.txt",
+      "size_bytes": 35891,
+      "size_chars_approx": 35891,
+      "sha256": "3b3c52c73fdef7c295201f04f13d377b0bba1bdc9526f16c37bd90af2e9cdb78"
+    },
+    {
+      "filename": "iep_axiology-of-theismi.txt",
+      "size_bytes": 50458,
+      "size_chars_approx": 50458,
+      "sha256": "57d5713397d1f18fb7535853803dd85263419b6636eab56efa14ea2727960aa4"
+    },
+    {
+      "filename": "iep_aztec-philosophy.txt",
+      "size_bytes": 76791,
+      "size_chars_approx": 76791,
+      "sha256": "2136466000a635ed41eb2cca5eb8bb8e0938d932ece79794343dda73df2bc405"
+    },
+    {
+      "filename": "iep_bakhtin-circle.txt",
+      "size_bytes": 60902,
+      "size_chars_approx": 60902,
+      "sha256": "e8c830d917f50b56bdd668be467345163065e99e42d5cd02a9a503ccbf3e0983"
+    },
+    {
+      "filename": "iep_behaviorism.txt",
+      "size_bytes": 71633,
+      "size_chars_approx": 71633,
+      "sha256": "364b73c6d70b6bf0c0f8e4ec2b430bd5d0796e6a991a976453bb6e5b00402ca2"
+    },
+    {
+      "filename": "iep_being-in-structural-systematic-philosophy.txt",
+      "size_bytes": 87141,
+      "size_chars_approx": 87141,
+      "sha256": "ef4cdcfb7961be03d0c83decb3b5e164b6480e0ca5788d68c3d1c3d7ad8c7bbb"
+    },
+    {
+      "filename": "iep_benacerraf-problem-of-mathematical-truth-and-knowledge.txt",
+      "size_bytes": 114799,
+      "size_chars_approx": 114799,
+      "sha256": "4fff6f7f8b7753063381f1c2fcd2132846546446d6301508dff7607a67b54af7"
+    },
+    {
+      "filename": "iep_bergson.txt",
+      "size_bytes": 67474,
+      "size_chars_approx": 67474,
+      "sha256": "952edc1a715f23f5a1f2e176893f96efa02ba5f43837a6686bca5f8425dd8001"
+    },
+    {
+      "filename": "iep_berlin-circle.txt",
+      "size_bytes": 1396,
+      "size_chars_approx": 1396,
+      "sha256": "ccf06e181585e3f6ad590f14b6b7532add6c446adb7f42ad7a2f4d0644204844"
+    },
+    {
+      "filename": "iep_bernard-bolzano-mathematics.txt",
+      "size_bytes": 48536,
+      "size_chars_approx": 48536,
+      "sha256": "0dcab830c340e076be09dde3d690438d967dc6bc74c3d896bbfc0f27f48b58ba"
+    },
+    {
+      "filename": "iep_bhagavad-gita.txt",
+      "size_bytes": 124163,
+      "size_chars_approx": 124163,
+      "sha256": "be7fc2f1a9909ff4937b813d1282eb22a14ece0456ca467a142bee64b55e82f4"
+    },
+    {
+      "filename": "iep_bhartrihari.txt",
+      "size_bytes": 34681,
+      "size_chars_approx": 34681,
+      "sha256": "501bada501a3ce8ca1228528b3cb1adb9122ab6accce3c752146ae1da97a527c"
+    },
+    {
+      "filename": "iep_bhedabheda-vedanta.txt",
+      "size_bytes": 32765,
+      "size_chars_approx": 32765,
+      "sha256": "cf7e612c548c9b012e4c0ff670d25cfbfd2720d75f20c495b477640bbcffc055"
+    },
+    {
+      "filename": "iep_bioethics.txt",
+      "size_bytes": 83931,
+      "size_chars_approx": 83931,
+      "sha256": "1dc98b04839070f7e7a3b6d0f230d5cf201dc91647a92b2598a746967fed8f43"
+    },
+    {
+      "filename": "iep_blame-and-praise.txt",
+      "size_bytes": 52092,
+      "size_chars_approx": 52092,
+      "sha256": "77ce0eb21ebe19a0e092e32374ce0976562780bf1612ff10329545e4786b01b6"
+    },
+    {
+      "filename": "iep_bodily-awareness.txt",
+      "size_bytes": 116775,
+      "size_chars_approx": 116775,
+      "sha256": "fe894cbf0e02e8dab735b31241dc00293c18fcb50ba6bd8c44de83a40faa1531"
+    },
+    {
+      "filename": "iep_boethius.txt",
+      "size_bytes": 69975,
+      "size_chars_approx": 69975,
+      "sha256": "7b7b5a025284d7353500ffd26646ed5381a3f80ab034367e53a56dfda71d7519"
+    },
+    {
+      "filename": "iep_bonaventure.txt",
+      "size_bytes": 125336,
+      "size_chars_approx": 125336,
+      "sha256": "a29e9c0a33cbd8b654eec7e060c31141a0517510be36818a43696c447d8c690f"
+    },
+    {
+      "filename": "iep_boredom.txt",
+      "size_bytes": 43405,
+      "size_chars_approx": 43405,
+      "sha256": "f7d4ab41072cfc33c99454e3e1eb00cf08fe98cfc19101e6d9ad59f77837af39"
+    },
+    {
+      "filename": "iep_brain-in-a-vat-argument.txt",
+      "size_bytes": 34329,
+      "size_chars_approx": 34329,
+      "sha256": "926968d95b36dc89eaed9a3427d8a45b73f391c203ce25d4d8437dc1145bb276"
+    },
+    {
+      "filename": "iep_brentano.txt",
+      "size_bytes": 104607,
+      "size_chars_approx": 104607,
+      "sha256": "00b53c1c4987088d79f7cffc0ad20255862c5672b96aa3ee17142d6494f5bd92"
+    },
+    {
+      "filename": "iep_british-empiricism.txt",
+      "size_bytes": 129839,
+      "size_chars_approx": 129839,
+      "sha256": "25648b97badd860f163fbd16e521ad6b823de6013bff181351e9fd1d1f79ceb3"
+    },
+    {
+      "filename": "iep_buddha.txt",
+      "size_bytes": 94101,
+      "size_chars_approx": 94101,
+      "sha256": "13408e9ce623fba4a7a88d5f3f792ea53df131058fdea44b528e930dc1450b6d"
+    },
+    {
+      "filename": "iep_cambridge-platonists.txt",
+      "size_bytes": 98413,
+      "size_chars_approx": 98413,
+      "sha256": "34e177dac6958f5d4d7b97460e7883ea73564c3a7db97bbef9a8a235e219bdeb"
+    },
+    {
+      "filename": "iep_care-ethics.txt",
+      "size_bytes": 70300,
+      "size_chars_approx": 70300,
+      "sha256": "8b92619742a25cf6f1f6f9b7d6757b61f57a98b0b36ac1be9c938bb0dbb365f2"
+    },
+    {
+      "filename": "iep_catharine-trotter-cockburn.txt",
+      "size_bytes": 51011,
+      "size_chars_approx": 51011,
+      "sha256": "16a447e51e4e161f20268b19cb40d3432745577f95103d4e7c388bb097c05db8"
+    },
+    {
+      "filename": "iep_causation.txt",
+      "size_bytes": 117796,
+      "size_chars_approx": 117796,
+      "sha256": "0dfb814946a0a1482d1247f5e2f0d1d5e189caaaaa5e88cbbb0d2e43319e8139"
+    },
+    {
+      "filename": "iep_certainty.txt",
+      "size_bytes": 91744,
+      "size_chars_approx": 91744,
+      "sha256": "8bda5aa54364afbdfb016eb74a2f4b0972601e6f6a274eaca031b59fa4da2d6d"
+    },
+    {
+      "filename": "iep_chengyi.txt",
+      "size_bytes": 31853,
+      "size_chars_approx": 31853,
+      "sha256": "7579a0ab4b59804e871e12e80ea005e5b36a7918f10d1288d47c5321d7c05b56"
+    },
+    {
+      "filename": "iep_chinese-philosophy-overview-of-history.txt",
+      "size_bytes": 61234,
+      "size_chars_approx": 61234,
+      "sha256": "d602ed636bb2fe8167b69f8f6e0b54719611a839da2136b8e53674f532cccdc6"
+    },
+    {
+      "filename": "iep_chinese-philosophy-overview-of-topics.txt",
+      "size_bytes": 146224,
+      "size_chars_approx": 146224,
+      "sha256": "645f30c9d23342cc42510630266cbb5f32e9a20510282ba85d2a768e1d07f0a1"
+    },
+    {
+      "filename": "iep_chinese-room-argument.txt",
+      "size_bytes": 32669,
+      "size_chars_approx": 32669,
+      "sha256": "f09a9740b814c103135d75d8636db08f799cb3c6dbf357644b0b06cf9136e171"
+    },
+    {
+      "filename": "iep_chomsky-philosophy.txt",
+      "size_bytes": 115446,
+      "size_chars_approx": 115446,
+      "sha256": "0c233db4fd1151d879bccad3b6b2b9d6339b6354a29acfcc73f63b740010a018"
+    },
+    {
+      "filename": "iep_christian-philosophy-1930s-french-debate.txt",
+      "size_bytes": 92012,
+      "size_chars_approx": 92012,
+      "sha256": "77424a15be7214ab262e5fc31ab9d06478839834284a4b5bcb8e27fcfd953403"
+    },
+    {
+      "filename": "iep_chrysippus.txt",
+      "size_bytes": 53902,
+      "size_chars_approx": 53902,
+      "sha256": "73eff91491d087ec91bf6336dd482beaef16ffd71bfbf66f98485cf17fbaa07c"
+    },
+    {
+      "filename": "iep_cicero-academic-skepticism.txt",
+      "size_bytes": 37130,
+      "size_chars_approx": 37130,
+      "sha256": "d3a573c5ea98d1ada2caf5c214fd5bc1888e07335944ffb5f8e7acfa8e84e0cd"
+    },
+    {
+      "filename": "iep_cicero-roman-philosopher.txt",
+      "size_bytes": 47460,
+      "size_chars_approx": 47460,
+      "sha256": "851dddd2b40019ccb69b8314cee385ad092cfbc1177f186c9b6ffd0fbce305aa"
+    },
+    {
+      "filename": "iep_cjemg-omgdap-cheng-hao-neo-confucian.txt",
+      "size_bytes": 44763,
+      "size_chars_approx": 44763,
+      "sha256": "94c24f96e51dbe7071fb93d1a6a7c861e59de3e55d5357dc8f2f536b15fa036d"
+    },
+    {
+      "filename": "iep_classical-theory-of-concepts.txt",
+      "size_bytes": 46964,
+      "size_chars_approx": 46964,
+      "sha256": "451b1965b7239816855cd34234c65723dbfc53584baf5170bf6b75ded2f086e7"
+    },
+    {
+      "filename": "iep_classification-in-science.txt",
+      "size_bytes": 61335,
+      "size_chars_approx": 61335,
+      "sha256": "a04ded3acdb45a871b3abaca17d250b62c7e59507243df491b83bc2e2e64dd96"
+    },
+    {
+      "filename": "iep_cloning.txt",
+      "size_bytes": 83799,
+      "size_chars_approx": 83799,
+      "sha256": "aac4b36899271def14c88bd34f6b860d5fed322b97ea9313ccc3883affd5b54a"
+    },
+    {
+      "filename": "iep_cognitive-penetrability-of-perception-and-epistemic-justification.txt",
+      "size_bytes": 94502,
+      "size_chars_approx": 94502,
+      "sha256": "57bfbf715d973f679b302dcf596ab90b1ddd163cc381b7d16f06a77b3913936b"
+    },
+    {
+      "filename": "iep_cognitive-phenomenology.txt",
+      "size_bytes": 48286,
+      "size_chars_approx": 48286,
+      "sha256": "6f8bf0dc517d2843159840094edad09963af79fcade5bd87bb3af84630bdec8b"
+    },
+    {
+      "filename": "iep_cognitive-relativism-truth.txt",
+      "size_bytes": 38331,
+      "size_chars_approx": 38331,
+      "sha256": "34d30b55a0290257010e18d2a01be535cb10411816249425f5696ff06eec91dc"
+    },
+    {
+      "filename": "iep_coherentism-in-epistemology.txt",
+      "size_bytes": 65463,
+      "size_chars_approx": 65463,
+      "sha256": "c9c2bc92c33c85c4bcdd32482456c4d941a1e108190dc1d31e04da42c2bad8e1"
+    },
+    {
+      "filename": "iep_collective-intentionality.txt",
+      "size_bytes": 69353,
+      "size_chars_approx": 69353,
+      "sha256": "edcd27a064b8ad86fd6eee0fa0a5015ffc6c371b9bb4b68e763fe4480b32e587"
+    },
+    {
+      "filename": "iep_collective-moral-responsibility.txt",
+      "size_bytes": 64943,
+      "size_chars_approx": 64943,
+      "sha256": "c02d1f1981013775776bd3fce162ff5ffaf577e17ff649c86842711f0bf007c9"
+    },
+    {
+      "filename": "iep_color.txt",
+      "size_bytes": 63060,
+      "size_chars_approx": 63060,
+      "sha256": "45ce819810651e1358cab67b61ab55f9f48df7ff78b5b35939156a17c87be6cb"
+    },
+    {
+      "filename": "iep_compactness.txt",
+      "size_bytes": 121700,
+      "size_chars_approx": 121700,
+      "sha256": "2f72bfd62902870d9e32808fd5367d75c4fea37b38da9852504dd5d1768a9978"
+    },
+    {
+      "filename": "iep_comparative-philosophy.txt",
+      "size_bytes": 33326,
+      "size_chars_approx": 33326,
+      "sha256": "ffdb80b1347da6d30ec3b1a1fd6ce254f72d6286975697977f3b2a7bf81d45d0"
+    },
+    {
+      "filename": "iep_compositionality-in-language.txt",
+      "size_bytes": 81026,
+      "size_chars_approx": 81026,
+      "sha256": "5b2ad686c85b1a16acdbf00e8756897e328e6f98cee2763e8b4ce712280e038c"
+    },
+    {
+      "filename": "iep_computational-theory-of-mind.txt",
+      "size_bytes": 60134,
+      "size_chars_approx": 60134,
+      "sha256": "3923e5c2a8af66f44c210716035dbbb5e5e968440dd4b4d3da3f2d9a9363d471"
+    },
+    {
+      "filename": "iep_con-meta.txt",
+      "size_bytes": 162222,
+      "size_chars_approx": 162222,
+      "sha256": "1eef8909756f4b4bf9fffe7005e053d455196d6de7109a6fe6e0f5513d360200"
+    },
+    {
+      "filename": "iep_concepts.txt",
+      "size_bytes": 81725,
+      "size_chars_approx": 81725,
+      "sha256": "71d918b424c5302292f660e0c441324e348885f1847fa079bb318f3e7db36102"
+    },
+    {
+      "filename": "iep_conceptual-role-semantics.txt",
+      "size_bytes": 64927,
+      "size_chars_approx": 64927,
+      "sha256": "d6d137e3fb3a248a85390dcf6d77d75865eaa48b398bf647673666d068ed484c"
+    },
+    {
+      "filename": "iep_confirmation-and-induction.txt",
+      "size_bytes": 102904,
+      "size_chars_approx": 102904,
+      "sha256": "3836ac69af5b9b53582ae8cc38b0e0768efe6e8508f3ab390675bd8aa614837e"
+    },
+    {
+      "filename": "iep_confucius.txt",
+      "size_bytes": 33659,
+      "size_chars_approx": 33659,
+      "sha256": "d109fd05b8c66a59fbfedcf4d07bc5e694d1ebcaa9abb50233e2a0ac418bfbcd"
+    },
+    {
+      "filename": "iep_connectionism-cognition.txt",
+      "size_bytes": 75365,
+      "size_chars_approx": 75365,
+      "sha256": "d7bc9665801e3c34e37b267b04707cc31c1bb76be1a65095f884dd07699560e2"
+    },
+    {
+      "filename": "iep_consciousness.txt",
+      "size_bytes": 133561,
+      "size_chars_approx": 133561,
+      "sha256": "b13e145256f0a67112da79666742e383f844a509cc3993ef92bac8ba5aa46288"
+    },
+    {
+      "filename": "iep_consequentialism-utilitarianism.txt",
+      "size_bytes": 64181,
+      "size_chars_approx": 64181,
+      "sha256": "15e4c000c644f1a45b2d39850e346435b46dae44599cd450e1b067d18db17355"
+    },
+    {
+      "filename": "iep_conspiracy-theories.txt",
+      "size_bytes": 58834,
+      "size_chars_approx": 58834,
+      "sha256": "5731deafaa9ead2199d179c6b6c3ddbca0e46826ce81e4b66d3df770b95e851f"
+    },
+    {
+      "filename": "iep_constructive-mathematics.txt",
+      "size_bytes": 60054,
+      "size_chars_approx": 60054,
+      "sha256": "85b5eb4b7312bd3b4c68bdf68c1103c1b6e05c4a98002ac091651a2f1bbb7f2f"
+    },
+    {
+      "filename": "iep_constructivism-in-metaethics.txt",
+      "size_bytes": 94001,
+      "size_chars_approx": 94001,
+      "sha256": "ed61488acc6b68531837da836e839d006e8775c11ca5666afedc70aea03f601e"
+    },
+    {
+      "filename": "iep_constructivism-in-metaphysics.txt",
+      "size_bytes": 107245,
+      "size_chars_approx": 107245,
+      "sha256": "0ab23c957e91306ecafc031e7e2d6701237d2fa25b92127bf8e65b9b5b55ef01"
+    },
+    {
+      "filename": "iep_contextualism-in-epistemology.txt",
+      "size_bytes": 70127,
+      "size_chars_approx": 70127,
+      "sha256": "e9266510a727ea27dfab4292286e0a10695e9e5575bf65ca0ef262a1641100b6"
+    },
+    {
+      "filename": "iep_continental-rationalism.txt",
+      "size_bytes": 100028,
+      "size_chars_approx": 100028,
+      "sha256": "e794b41345ba348277daf869692b0329a2f5f71cc3f08c9de94fc961bc3eefc8"
+    },
+    {
+      "filename": "iep_contrary-to-duty-paradox.txt",
+      "size_bytes": 105273,
+      "size_chars_approx": 105273,
+      "sha256": "195c2066a10c25b10c287ae163d6e811b445dc0982f89f40d483e9631fbf89b8"
+    },
+    {
+      "filename": "iep_cornelius-castoriadis.txt",
+      "size_bytes": 73989,
+      "size_chars_approx": 73989,
+      "sha256": "4198560010ad502c30691d375bfbb7322915ada4c777102339c5cdfbe987fd28"
+    },
+    {
+      "filename": "iep_critias.txt",
+      "size_bytes": 27146,
+      "size_chars_approx": 27146,
+      "sha256": "6471e55be550b7f64eaed9e4828667e64431eb7401a0f92b39d66d302ff4d61c"
+    },
+    {
+      "filename": "iep_critical-theory-frankfurt-school.txt",
+      "size_bytes": 58969,
+      "size_chars_approx": 58969,
+      "sha256": "08901023fe8bf9a6e8e38ab7ba08c04d78a79b8a96e398fb1673240e7cc5501b"
+    },
+    {
+      "filename": "iep_critical-thinking.txt",
+      "size_bytes": 109142,
+      "size_chars_approx": 109142,
+      "sha256": "ac7033a72db1c10cecfe78cdaec87c5b57f27400a8e86dab6b06fc557f91d58a"
+    },
+    {
+      "filename": "iep_cw-migra.txt",
+      "size_bytes": 73443,
+      "size_chars_approx": 73443,
+      "sha256": "468326a0948b315622e6b1ae8f2324fa158b5d9cfc5e4fdd00edc1d96d838d1a"
+    },
+    {
+      "filename": "iep_cynics.txt",
+      "size_bytes": 22375,
+      "size_chars_approx": 22375,
+      "sha256": "bd86b9902e1b5212ddf55506f0cf8663f6c1576aa46cd652f6eaac4fdabdc71b"
+    },
+    {
+      "filename": "iep_cyrenaics.txt",
+      "size_bytes": 30717,
+      "size_chars_approx": 30717,
+      "sha256": "da883fba8156ead36887b2a4aad44f3a94eb96c9cc0bc3d48dc810c2b6a0eb49"
+    },
+    {
+      "filename": "iep_d-lewis.txt",
+      "size_bytes": 109392,
+      "size_chars_approx": 109392,
+      "sha256": "6bac4bdfb1db00b75f1e99a0ccfd6b9a45faad95ccfe06319350b3c0a19e1917"
+    },
+    {
+      "filename": "iep_dai-zhen-tai-chen.txt",
+      "size_bytes": 37196,
+      "size_chars_approx": 37196,
+      "sha256": "697c272a952c9dfe744960d8715dec3ef1cbdea17e20972150cf7858ec0120a1"
+    },
+    {
+      "filename": "iep_daoismdaoist-philosophy.txt",
+      "size_bytes": 61379,
+      "size_chars_approx": 61379,
+      "sha256": "224fa599fd1c554f6d7685a5ededf43bb5495b024b05bdee5953581b2ec3578d"
+    },
+    {
+      "filename": "iep_darwin.txt",
+      "size_bytes": 92099,
+      "size_chars_approx": 92099,
+      "sha256": "653be9bd47efc341866d0cdfd082f59c26fb924ce20183135ced9006bcc7d3a5"
+    },
+    {
+      "filename": "iep_death-penalty-capital-punishment.txt",
+      "size_bytes": 118271,
+      "size_chars_approx": 118271,
+      "sha256": "7ef3914468c1eb7c0cc13671b9f239c5ffff5d528e3829095e33edaa81aa0771"
+    },
+    {
+      "filename": "iep_deconstruction.txt",
+      "size_bytes": 40792,
+      "size_chars_approx": 40792,
+      "sha256": "8e2cb0cc9bcb55975f01f5c2c2afe2728e80f8f9b99592df92fd1f5cb2023d23"
+    },
+    {
+      "filename": "iep_deductive-inductive-arguments.txt",
+      "size_bytes": 79954,
+      "size_chars_approx": 79954,
+      "sha256": "d94d03a1a40e323a3976acc6c646585e30334545c2f4e99f1b9c255a1f839ec2"
+    },
+    {
+      "filename": "iep_deductive-theoretic-conceptions-of-logical-consequence.txt",
+      "size_bytes": 75373,
+      "size_chars_approx": 75373,
+      "sha256": "457697ddfe6cb6319aa18d7995823312c2f2824757966fb17aa78cf75a2ca681"
+    },
+    {
+      "filename": "iep_defeaters-in-epistemology.txt",
+      "size_bytes": 87861,
+      "size_chars_approx": 87861,
+      "sha256": "4e1c2e59d1b1dae42316822c01eee6f6220d33bfb9c284c1e8ca3ba422b59bc1"
+    },
+    {
+      "filename": "iep_definition-of-art.txt",
+      "size_bytes": 116657,
+      "size_chars_approx": 116657,
+      "sha256": "19a742767fcd307aeff43a2ee221e1776758cad318d841953bfb5531395a713f"
+    },
+    {
+      "filename": "iep_demonstratives-and-indexicals.txt",
+      "size_bytes": 116908,
+      "size_chars_approx": 116908,
+      "sha256": "ac680b573d8d2425dbc4ac9b62d27bb0ad35dc904654ee963c2ce81b21cc5f99"
+    },
+    {
+      "filename": "iep_descartes-mind-body-distinction-dualism.txt",
+      "size_bytes": 51212,
+      "size_chars_approx": 51212,
+      "sha256": "269005eb486760d1ec880f140c85632e79b39967406c7630d6337ee737436737"
+    },
+    {
+      "filename": "iep_descartes-scientific-method.txt",
+      "size_bytes": 65998,
+      "size_chars_approx": 65998,
+      "sha256": "7c215b232a1f7f0d96bfb29728b1ec959c81ccac88179d32fdad01d7bcd9f25a"
+    },
+    {
+      "filename": "iep_desert.txt",
+      "size_bytes": 42915,
+      "size_chars_approx": 42915,
+      "sha256": "c25cf0fc258465c563110e04676cb88e7058ddd35039ab20448921d653c28aab"
+    },
+    {
+      "filename": "iep_deshouliereas-antoinette-du-ligier-de-la-garde.txt",
+      "size_bytes": 33946,
+      "size_chars_approx": 33946,
+      "sha256": "751a3b37d2f0da2f485970b55dd14024ef0b3918dc6c681ff15a4c7280013757"
+    },
+    {
+      "filename": "iep_design-arguments-for-existence-of-god.txt",
+      "size_bytes": 59308,
+      "size_chars_approx": 59308,
+      "sha256": "6216c66e6966cfb2c0e2616f599e9aa1026674c8e467bac7dbaf5f0d70fe3d1b"
+    },
+    {
+      "filename": "iep_dialogical-logic.txt",
+      "size_bytes": 46946,
+      "size_chars_approx": 46946,
+      "sha256": "36208039dcb06b509a57ffe4395fe820da1feb38e521daaa57ac9c70ad246691"
+    },
+    {
+      "filename": "iep_dietrich-bonhoeffer.txt",
+      "size_bytes": 20497,
+      "size_chars_approx": 20497,
+      "sha256": "6e9a0aab5a27cf61ea70f28a67f330e9564eac41dd59e7a580f31863de6989ec"
+    },
+    {
+      "filename": "iep_differential-ontology.txt",
+      "size_bytes": 120320,
+      "size_chars_approx": 120320,
+      "sha256": "ded2ad5b556732b79d688e7f85528027e319609a0810393494bf07a2ec89604e"
+    },
+    {
+      "filename": "iep_diogenes-of-apollonia.txt",
+      "size_bytes": 40641,
+      "size_chars_approx": 40641,
+      "sha256": "e433e09b19017e76347e4ac8a37bf7056d5ffa1a1192cdf35f962592619143a3"
+    },
+    {
+      "filename": "iep_diogenes-of-sinope.txt",
+      "size_bytes": 11928,
+      "size_chars_approx": 11928,
+      "sha256": "0f3c3a56c0d341273f538149920fbafdb252e7d81d6d4c2ff2fb6ae11e1fcc0d"
+    },
+    {
+      "filename": "iep_disjunctivism.txt",
+      "size_bytes": 69401,
+      "size_chars_approx": 69401,
+      "sha256": "57b429631d920127068e1f145f73b8a9e0f66d547303d63dba5164d56b845a18"
+    },
+    {
+      "filename": "iep_distributive-justice.txt",
+      "size_bytes": 56306,
+      "size_chars_approx": 56306,
+      "sha256": "476859c1a1ed5fd74d7990dce5ef00c7215c1a872492f3b3b6c86e01ded6160e"
+    },
+    {
+      "filename": "iep_divine-command-theory.txt",
+      "size_bytes": 49610,
+      "size_chars_approx": 49610,
+      "sha256": "a63e0af3cbaede22541d8dee76c54c94f0e174528b6d9e9e8a77f99f423e9151"
+    },
+    {
+      "filename": "iep_divine-hiddenness-argument-against-gods-existence.txt",
+      "size_bytes": 74493,
+      "size_chars_approx": 74493,
+      "sha256": "fdfea130a2441b7fbdc14e0f98c64530ff39f64e065425ebfaa4b462495d0ab8"
+    },
+    {
+      "filename": "iep_divine-immutability.txt",
+      "size_bytes": 63254,
+      "size_chars_approx": 63254,
+      "sha256": "09a5b77cee9bfebef59d021de390ef00751b7208c0531011b49fd22f076e8d8e"
+    },
+    {
+      "filename": "iep_divine-simplicity.txt",
+      "size_bytes": 60691,
+      "size_chars_approx": 60691,
+      "sha256": "c421110e60b2db93f9a2887afb6c3d2bbfa3e5e75b6334a218b6c7b47aafe4ce"
+    },
+    {
+      "filename": "iep_donald-davidson-anomalous-monism.txt",
+      "size_bytes": 46012,
+      "size_chars_approx": 46012,
+      "sha256": "70ba30e5886b0f0b120d7a3425b9a919650f7b5beb295aeee5f8a80216d593b4"
+    },
+    {
+      "filename": "iep_donald-davidson-language.txt",
+      "size_bytes": 56440,
+      "size_chars_approx": 56440,
+      "sha256": "0b4e8beb692c451b5cbf88c3aa57fcdd20d70d91009cc23797a7f1bc70d05054"
+    },
+    {
+      "filename": "iep_donald-davidson-mind-action.txt",
+      "size_bytes": 34375,
+      "size_chars_approx": 34375,
+      "sha256": "48ab28b2b70658fbec41ca2c486e3e3ff1a438c79839bc78ba20e70759377fce"
+    },
+    {
+      "filename": "iep_doxastic-conservatism.txt",
+      "size_bytes": 60427,
+      "size_chars_approx": 60427,
+      "sha256": "c756144c32c0b77215380017c6da96474734e81f6e0e3f5619cf7d6e470cf675"
+    },
+    {
+      "filename": "iep_doxastic-voluntarism.txt",
+      "size_bytes": 49357,
+      "size_chars_approx": 49357,
+      "sha256": "bb5904f57cc6d2f90485c0513ee209e7ea5947123182aa94bffbb657ec2e31ca"
+    },
+    {
+      "filename": "iep_dreaming-philosophy.txt",
+      "size_bytes": 168720,
+      "size_chars_approx": 168720,
+      "sha256": "df5f83ed2361b3e2580bdb331c965ce95e0474b6cba0e73de18784ada92c6d26"
+    },
+    {
+      "filename": "iep_dualism-and-mind.txt",
+      "size_bytes": 71636,
+      "size_chars_approx": 71636,
+      "sha256": "64d5db0585abd935de7defacfc01998dc600cf5ce6786b79643aef31b7591677"
+    },
+    {
+      "filename": "iep_duality-in-logic-and-language.txt",
+      "size_bytes": 95593,
+      "size_chars_approx": 95593,
+      "sha256": "d4d181b677c6cdf75027d3624a63ced17ba1663992fe5e150c9a183a34480182"
+    },
+    {
+      "filename": "iep_dynamic-epistemic-logic.txt",
+      "size_bytes": 59030,
+      "size_chars_approx": 59030,
+      "sha256": "2c605d95810b06e26b12fff707d9cdec0c8007a81c9168a9b7761671f31cfc80"
+    },
+    {
+      "filename": "iep_editor-list.txt",
+      "size_bytes": 3229,
+      "size_chars_approx": 3229,
+      "sha256": "481d7b4d5e2f56a1cbc14de727f21e5e7ac707f5ec5a4c6b2670485a8a084ad0"
+    },
+    {
+      "filename": "iep_edward-caird.txt",
+      "size_bytes": 10516,
+      "size_chars_approx": 10516,
+      "sha256": "fb43ba6da80e4f9153729256a7c36cd9d0c93e464d6f7377796b8aec27f2e7af"
+    },
+    {
+      "filename": "iep_egalitarianism.txt",
+      "size_bytes": 95758,
+      "size_chars_approx": 95758,
+      "sha256": "b5e321a4e2e40e6deb644fa23f05f52ef28ae56605d7536f6267911a81448c4e"
+    },
+    {
+      "filename": "iep_egoism.txt",
+      "size_bytes": 37171,
+      "size_chars_approx": 37171,
+      "sha256": "bb839148b067902f7c476c4b3049ec7ca6a2d2c0e2cd839fdcbe2c7f34944b34"
+    },
+    {
+      "filename": "iep_embodied-cognition.txt",
+      "size_bytes": 51366,
+      "size_chars_approx": 51366,
+      "sha256": "4b114db2224f081309b1b03f9bb876dd9450f4c872cd2a90b4e18446e28fc811"
+    },
+    {
+      "filename": "iep_emergence.txt",
+      "size_bytes": 58975,
+      "size_chars_approx": 58975,
+      "sha256": "0b40d20f0c7d150df44665ee41d00ce05247ff373a1313446fe515c54434b8fa"
+    },
+    {
+      "filename": "iep_emile-durkheim.txt",
+      "size_bytes": 100601,
+      "size_chars_approx": 100601,
+      "sha256": "619b22dd79804b9f19a40e7b5d49f7c73835e1509dc4a687379d5a19c00ae54b"
+    },
+    {
+      "filename": "iep_empathy-sympathy-in-ethics.txt",
+      "size_bytes": 116980,
+      "size_chars_approx": 116980,
+      "sha256": "8a6de6a70099330f4420de8ab8c98b9181827ecc128bdd009a416fbef17a28b1"
+    },
+    {
+      "filename": "iep_empedocles.txt",
+      "size_bytes": 42678,
+      "size_chars_approx": 42678,
+      "sha256": "fc10e4dd1ddcb357a58c6f4915bb102157e4d368cb076864177a6f877f29ac59"
+    },
+    {
+      "filename": "iep_empirical-aesthetics.txt",
+      "size_bytes": 57265,
+      "size_chars_approx": 57265,
+      "sha256": "14d06428543b4c81f1824ddfdcd6296df34e71227288f29d7e8d69705c046d07"
+    },
+    {
+      "filename": "iep_enactivism.txt",
+      "size_bytes": 142810,
+      "size_chars_approx": 142810,
+      "sha256": "0ac512a584c79fc97da40c6291f030888fd7acdf6862a1e855c5fbbee7cb0eab"
+    },
+    {
+      "filename": "iep_envi-eth.txt",
+      "size_bytes": 65468,
+      "size_chars_approx": 65468,
+      "sha256": "fd80e9fefa3f73f3c32f38de11adba4f17abb162e3cf8734e9b875c1fbd7bdee"
+    },
+    {
+      "filename": "iep_enviro-j.txt",
+      "size_bytes": 43266,
+      "size_chars_approx": 43266,
+      "sha256": "fc148ec7a5ed8f254dfc886e3d3b132c145c08f366d3db6cf706b0496e0e0af0"
+    },
+    {
+      "filename": "iep_ep-calc.txt",
+      "size_bytes": 71468,
+      "size_chars_approx": 71468,
+      "sha256": "2d4df55890a754738d948da2f33e0909c4601f14c09291b5cf4e9a37733cc320"
+    },
+    {
+      "filename": "iep_ep-circ.txt",
+      "size_bytes": 48944,
+      "size_chars_approx": 48944,
+      "sha256": "664eac9392ff531426b7b9939f0ffc6911edb63511c12a3fea99fd426bec0f0d"
+    },
+    {
+      "filename": "iep_ep-en.txt",
+      "size_bytes": 84307,
+      "size_chars_approx": 84307,
+      "sha256": "2f3188fa59ecfa8f955608d06d247fe69aaeb3e1a6a54338de1e070eb4e25620"
+    },
+    {
+      "filename": "iep_ep-moda.txt",
+      "size_bytes": 59539,
+      "size_chars_approx": 59539,
+      "sha256": "a3532b82fcf55c9ba6f53225ed032130052ecc4638b4e4d769ecb8a5a4b19707"
+    },
+    {
+      "filename": "iep_ep-testi.txt",
+      "size_bytes": 102845,
+      "size_chars_approx": 102845,
+      "sha256": "11c1012e7200f0213c7f4a1824c07ce70bc2172e44d6b0d0d7462ea6fbb3e949"
+    },
+    {
+      "filename": "iep_epi-just.txt",
+      "size_bytes": 130435,
+      "size_chars_approx": 130435,
+      "sha256": "e0385c6b0a2d501d2d3c0883b25a5661a098b61cd4649e97a0f3ea1b4eca5bb9"
+    },
+    {
+      "filename": "iep_epi-luck.txt",
+      "size_bytes": 118615,
+      "size_chars_approx": 118615,
+      "sha256": "960d85b506acc075d0920b5c61dd89fc808ddd58735744ab2a19c35e87c309d0"
+    },
+    {
+      "filename": "iep_epictetu.txt",
+      "size_bytes": 74290,
+      "size_chars_approx": 74290,
+      "sha256": "895d693eba6bfebd66e932a5f91fcf91438ad178565c48d1c1dd46d848f66443"
+    },
+    {
+      "filename": "iep_epicur.txt",
+      "size_bytes": 39413,
+      "size_chars_approx": 39413,
+      "sha256": "376c3f3e41bd5d28712ec12f0c73a65ab2f562e6dc9b51a68216da5d85985797"
+    },
+    {
+      "filename": "iep_epipheno.txt",
+      "size_bytes": 62645,
+      "size_chars_approx": 62645,
+      "sha256": "68518cbeac38f35184f61f20a75f31fb7df9e05c21870c53ce064d4701c2f115"
+    },
+    {
+      "filename": "iep_epis-clo.txt",
+      "size_bytes": 79252,
+      "size_chars_approx": 79252,
+      "sha256": "4c6e16a4049484eb68490b70140b99910ce91f63f802443aac9bae422d97804a"
+    },
+    {
+      "filename": "iep_epis-mem.txt",
+      "size_bytes": 86616,
+      "size_chars_approx": 86616,
+      "sha256": "9f0789a236b328185be5b1f34fd2886a3e3211b2217f62147eb0feb73580ad6b"
+    },
+    {
+      "filename": "iep_epis-per.txt",
+      "size_bytes": 45572,
+      "size_chars_approx": 45572,
+      "sha256": "ccd7a3d8c56048b030761a1dfec678aa84dfe9310d9427a1eef20364ac88df0c"
+    },
+    {
+      "filename": "iep_epis-rel.txt",
+      "size_bytes": 72821,
+      "size_chars_approx": 72821,
+      "sha256": "48d6e9dda2820a966843891b7de2cfd47954ee455f8a2d0c24c01f6651851e0b"
+    },
+    {
+      "filename": "iep_epistemic-conditions-of-moral-responsibility.txt",
+      "size_bytes": 112694,
+      "size_chars_approx": 112694,
+      "sha256": "017b578a772de18c5c7425053aa60cb88de93c9c065c44e12b68a4d48adfac1a"
+    },
+    {
+      "filename": "iep_epistemic-consequentialism.txt",
+      "size_bytes": 90184,
+      "size_chars_approx": 90184,
+      "sha256": "62d3f90af85e45c60d26247d0cda0c247c434284b0384090c7b23f47a0bbe14f"
+    },
+    {
+      "filename": "iep_epistemic-injustice.txt",
+      "size_bytes": 62747,
+      "size_chars_approx": 62747,
+      "sha256": "d8b9ed3feaaa35ae3e32f0b53d6683df73f312368b07667724bbeb7a7f70152c"
+    },
+    {
+      "filename": "iep_epistemic-value.txt",
+      "size_bytes": 116955,
+      "size_chars_approx": 116955,
+      "sha256": "a52dd418eef6a3daf75372cf0551fa174872500fda31dfef8fe602b57d0f4d5c"
+    },
+    {
+      "filename": "iep_epistemo.txt",
+      "size_bytes": 47170,
+      "size_chars_approx": 47170,
+      "sha256": "f8dd05c834074c6d8cba9151992ee3731dc2e2010379246e8b5dfa797e85135e"
+    },
+    {
+      "filename": "iep_erasmus.txt",
+      "size_bytes": 37814,
+      "size_chars_approx": 37814,
+      "sha256": "9ab056060dbb8fa7c1c6aa238aa6ce57ec9831286193539859a88f9a11221f22"
+    },
+    {
+      "filename": "iep_ernst-cassirer.txt",
+      "size_bytes": 72703,
+      "size_chars_approx": 72703,
+      "sha256": "141acafb7fa5881f987767cfa26b0ede8503e227b4297d5add5482032646f620"
+    },
+    {
+      "filename": "iep_eternalism.txt",
+      "size_bytes": 83051,
+      "size_chars_approx": 83051,
+      "sha256": "f04ef7af15b6fff530898b56603cbe237db644f773e99371fb34f9e2fa7b6aa1"
+    },
+    {
+      "filename": "iep_eth-expr.txt",
+      "size_bytes": 91093,
+      "size_chars_approx": 91093,
+      "sha256": "7f71ad5f7fd414ca43ead942e6e694324cb5b909d036eb5a4afa7cee32715da6"
+    },
+    {
+      "filename": "iep_eth-phen.txt",
+      "size_bytes": 66283,
+      "size_chars_approx": 66283,
+      "sha256": "37c86a2cd820e67d3550453b560274260551217742811bf930f2c4a9383e0c01"
+    },
+    {
+      "filename": "iep_eth-self.txt",
+      "size_bytes": 48992,
+      "size_chars_approx": 48992,
+      "sha256": "2ebd7dc5f3d2d2a42dd5ce0bfbc783a60c8e0cdaa66d6fa94fa7a870830a2c3d"
+    },
+    {
+      "filename": "iep_ethical-criticism-of-art.txt",
+      "size_bytes": 68340,
+      "size_chars_approx": 68340,
+      "sha256": "60dc9c3b9f4480858406098076bea875387c24db0785e5ad630350ecbcd068af"
+    },
+    {
+      "filename": "iep_ethics-and-contrastivism.txt",
+      "size_bytes": 62842,
+      "size_chars_approx": 62842,
+      "sha256": "a3bf1f0921e56e636fe07a7660f7fdaacd0fd613f2cf7f1edaf091e4e37737a8"
+    },
+    {
+      "filename": "iep_ethics-of-artificial-intelligence.txt",
+      "size_bytes": 87159,
+      "size_chars_approx": 87159,
+      "sha256": "10f49f257e5e061530759d3c05dc00b4ecc6fd88d9d03244f07593a50330b665"
+    },
+    {
+      "filename": "iep_ethics-of-economic-sanctions.txt",
+      "size_bytes": 71541,
+      "size_chars_approx": 71541,
+      "sha256": "5c7d45259302ba95f8d79b78b05dd58d41f2015d1f0802f76552240e1840ccb7"
+    },
+    {
+      "filename": "iep_ethno-ep.txt",
+      "size_bytes": 69327,
+      "size_chars_approx": 69327,
+      "sha256": "597523e269781f195fa2db40e1e74223d6d5b7d3e717ac0a20907779bdedb575"
+    },
+    {
+      "filename": "iep_events.txt",
+      "size_bytes": 64040,
+      "size_chars_approx": 64040,
+      "sha256": "3c3dcaf6f2e7317b531b3540ce1db4baeb9553a18fbaea1e5db542be65918108"
+    },
+    {
+      "filename": "iep_everett.txt",
+      "size_bytes": 112258,
+      "size_chars_approx": 112258,
+      "sha256": "40125a7ff9481946099bd9f930482cedc39e763575507305712f512ad6374b76"
+    },
+    {
+      "filename": "iep_evidence.txt",
+      "size_bytes": 87517,
+      "size_chars_approx": 87517,
+      "sha256": "123f1bc1022a3112c08eac9d691a330ecb1cf7e45eebfc04c659b5a4365212db"
+    },
+    {
+      "filename": "iep_evidentialism.txt",
+      "size_bytes": 53865,
+      "size_chars_approx": 53865,
+      "sha256": "503cf6bea748af2762f55b57bdb15a4c571fbbb0fd5a8404bbf477fae9a5cec1"
+    },
+    {
+      "filename": "iep_evil-evi.txt",
+      "size_bytes": 92716,
+      "size_chars_approx": 92716,
+      "sha256": "44c145c6349dcdbeaf176d059521c1b0f46510aa4dc5cb1a4b6e0b7fe0677d26"
+    },
+    {
+      "filename": "iep_evil-log.txt",
+      "size_bytes": 62277,
+      "size_chars_approx": 62277,
+      "sha256": "49ac67d6b017c554e376f7f9cced52730dde641dda3fbf9e46fb847442db2eb9"
+    },
+    {
+      "filename": "iep_evil-new.txt",
+      "size_bytes": 48290,
+      "size_chars_approx": 48290,
+      "sha256": "c45815f2fbec8a1c1c7ffabe97bae0ca2d37bf0b3bbb797ca08c593ec9ac4caa"
+    },
+    {
+      "filename": "iep_evo-epis.txt",
+      "size_bytes": 82499,
+      "size_chars_approx": 82499,
+      "sha256": "78c83ed826a5f0094e3325ce4530f981f75ec8a8034f9726cf8df1d336aa2ebe"
+    },
+    {
+      "filename": "iep_evol-eth.txt",
+      "size_bytes": 22315,
+      "size_chars_approx": 22315,
+      "sha256": "29cfd33f21cadd1d06be120fb57ed64d9ef1f1437c8726c459833ff5766c950c"
+    },
+    {
+      "filename": "iep_evol-psy.txt",
+      "size_bytes": 95977,
+      "size_chars_approx": 95977,
+      "sha256": "c10e278e4d9ba28f349af1b52d3980478cb231408eb6e4b5a9b4755e6b87fa01"
+    },
+    {
+      "filename": "iep_existenc.txt",
+      "size_bytes": 56130,
+      "size_chars_approx": 56130,
+      "sha256": "0d0287783dce14c2f6824ba31f8c6a496f1ab4daff930e2a83a1df58377d6077"
+    },
+    {
+      "filename": "iep_existent.txt",
+      "size_bytes": 95937,
+      "size_chars_approx": 95937,
+      "sha256": "bdef25faf91411342fafb8f74f5f88373c60800d3240fa05074e31793dd5ab66"
+    },
+    {
+      "filename": "iep_experience-machine.txt",
+      "size_bytes": 56972,
+      "size_chars_approx": 56972,
+      "sha256": "3e6783604505e9502107e222c2537b37de76cf69afe2ea445a6f80c5849ec49a"
+    },
+    {
+      "filename": "iep_explanat.txt",
+      "size_bytes": 49763,
+      "size_chars_approx": 49763,
+      "sha256": "9ebcf0560493c8efdf009dcb8a5d2e761703945a8d531ab20b32cf5489a9b4ae"
+    },
+    {
+      "filename": "iep_explicat.txt",
+      "size_bytes": 96041,
+      "size_chars_approx": 96041,
+      "sha256": "d4ee58a8fbf7f302d25267e8bbae4e17bb63d7e9de7cb9041d43906b5810ee26"
+    },
+    {
+      "filename": "iep_f-h-bradley-logic.txt",
+      "size_bytes": 84517,
+      "size_chars_approx": 84517,
+      "sha256": "a2973e6bf55c7218ec561180a8b65804a2d28f2221808d6bced794a53c6576cd"
+    },
+    {
+      "filename": "iep_faith-contemporary-perspectives.txt",
+      "size_bytes": 82169,
+      "size_chars_approx": 82169,
+      "sha256": "cbd3ca7c73a7bccc91a34be34e59e4c09ff3194d681b2da307221b0d3944a10a"
+    },
+    {
+      "filename": "iep_faith-re.txt",
+      "size_bytes": 102816,
+      "size_chars_approx": 102816,
+      "sha256": "63b57661dbac40dd0ac9ac77edf87c73ba631897cb792e95c40cf5f998ca0563"
+    },
+    {
+      "filename": "iep_fallacy.txt",
+      "size_bytes": 132328,
+      "size_chars_approx": 132328,
+      "sha256": "616210f405e66dff45e227806c6fff6ab8f5c231858e389710bbaa61b5cc5569"
+    },
+    {
+      "filename": "iep_fallibil.txt",
+      "size_bytes": 92162,
+      "size_chars_approx": 92162,
+      "sha256": "1948dcfe25853a114edc174d1213dd3041e6bac54755d20117bd9674a76f5c08"
+    },
+    {
+      "filename": "iep_fanon.txt",
+      "size_bytes": 29331,
+      "size_chars_approx": 29331,
+      "sha256": "11f604a8407bf3ea10a70f786f59453ccf24328c1e43aea99734a17882ca3089"
+    },
+    {
+      "filename": "iep_fazang.txt",
+      "size_bytes": 23306,
+      "size_chars_approx": 23306,
+      "sha256": "495cedf396794a93a9a25e983ad7f2b72a4a00c0e4a3ddba0484016507e25daa"
+    },
+    {
+      "filename": "iep_fedorov.txt",
+      "size_bytes": 14893,
+      "size_chars_approx": 14893,
+      "sha256": "a95cb4011901acb2d7553ff3a86fd74ab047f133942e7c735e3273cfcfe2ffe3"
+    },
+    {
+      "filename": "iep_fem-e-n.txt",
+      "size_bytes": 59259,
+      "size_chars_approx": 59259,
+      "sha256": "71e698125af6abfb77fb76d6cebef610d2f88a6b2f7a2e825543d98a769f14cf"
+    },
+    {
+      "filename": "iep_fem-epis.txt",
+      "size_bytes": 40525,
+      "size_chars_approx": 40525,
+      "sha256": "117108e5d5f68254f40c3030b66c70527d5baa9fd3bb460e854b657134a3152b"
+    },
+    {
+      "filename": "iep_fem-prag.txt",
+      "size_bytes": 51160,
+      "size_chars_approx": 51160,
+      "sha256": "76ab0743ca16b86c25dc97496ef6ea5165c07772cae3f7eb6b92104bf26a2259"
+    },
+    {
+      "filename": "iep_fem-race.txt",
+      "size_bytes": 59607,
+      "size_chars_approx": 59607,
+      "sha256": "aeb0209c766a4749d5ceff9c707763e30c63dec6cde668bfa3e6f892c085cfbd"
+    },
+    {
+      "filename": "iep_fem-stan.txt",
+      "size_bytes": 50572,
+      "size_chars_approx": 50572,
+      "sha256": "20ad098cd2b9d247b2e84b819b59526ae52db2eb0b8bd2986e6f196da0b12f5f"
+    },
+    {
+      "filename": "iep_feng.txt",
+      "size_bytes": 24247,
+      "size_chars_approx": 24247,
+      "sha256": "75d6550d041d0995ab1abc231cf469e4d14d83b33c993c86c227b970bb394227"
+    },
+    {
+      "filename": "iep_ferrier.txt",
+      "size_bytes": 48235,
+      "size_chars_approx": 48235,
+      "sha256": "ffbeec41709a5e72736d6cedf6df8a6a67b2cbe8c5dd43e7b3f82cf6e6ba53b3"
+    },
+    {
+      "filename": "iep_fichtejg.txt",
+      "size_bytes": 38285,
+      "size_chars_approx": 38285,
+      "sha256": "af993979ebe8dd21779a6865ed15e8c354e5a4359ff8b15448385c52a119961f"
+    },
+    {
+      "filename": "iep_ficino.txt",
+      "size_bytes": 51370,
+      "size_chars_approx": 51370,
+      "sha256": "026526e791247cb3562bba0a2ecc7ec1de972a530f17cfb606726888e32292fc"
+    },
+    {
+      "filename": "iep_fict-par.txt",
+      "size_bytes": 34846,
+      "size_chars_approx": 34846,
+      "sha256": "d7665830d8b2e8fb33a3dd3d14d54643f5e6c0c050b46d118d5aa4da2510a3a2"
+    },
+    {
+      "filename": "iep_fil-obli.txt",
+      "size_bytes": 59061,
+      "size_chars_approx": 59061,
+      "sha256": "3bd154b030e9fefee6c16f63a39cbd735124c029c77d1a6c3c9c4d676fb96baa"
+    },
+    {
+      "filename": "iep_filmcont.txt",
+      "size_bytes": 79249,
+      "size_chars_approx": 79249,
+      "sha256": "715f1960664f224bcf6e92f3d4658cd9a1c15a74d2d2c8d977a583b259d2740e"
+    },
+    {
+      "filename": "iep_fine-k.txt",
+      "size_bytes": 86299,
+      "size_chars_approx": 86299,
+      "sha256": "2608a39160080a68f13531d38c931d89b833f10f92abc04eea173efeb48144f8"
+    },
+    {
+      "filename": "iep_fodor.txt",
+      "size_bytes": 87186,
+      "size_chars_approx": 87186,
+      "sha256": "5dad4c749bbea2433f4de04a3dbca326f604d7a2424b8d0e838c4fcda244bb31"
+    },
+    {
+      "filename": "iep_fomath.txt",
+      "size_bytes": 192647,
+      "size_chars_approx": 192647,
+      "sha256": "10d6de10b35a5189c445a5877d2e1a63dd9d7c8fac861dd888a0da6bad6550b7"
+    },
+    {
+      "filename": "iep_foreknow.txt",
+      "size_bytes": 77708,
+      "size_chars_approx": 77708,
+      "sha256": "8a0127a818848ce2f4e73672824f6aa6529d25b2ea1dfe86d9c91a5ce3a00b52"
+    },
+    {
+      "filename": "iep_fouc-eth.txt",
+      "size_bytes": 64520,
+      "size_chars_approx": 64520,
+      "sha256": "0ea254f047e96fbc4093e643288352631553dbe32c08b619b81785ce33f3f0d4"
+    },
+    {
+      "filename": "iep_fouc-pol.txt",
+      "size_bytes": 51104,
+      "size_chars_approx": 51104,
+      "sha256": "ae48f30fe089c72e050d03bfeaf6bb6c4fa9aa892983fda5dc0ff6d6ae51ba3e"
+    },
+    {
+      "filename": "iep_foucault.txt",
+      "size_bytes": 44848,
+      "size_chars_approx": 44848,
+      "sha256": "310a04387193e61a2fef9e60d2022bdfad8727ccb8d75c08829a0cb380bc3df9"
+    },
+    {
+      "filename": "iep_foucfem.txt",
+      "size_bytes": 55193,
+      "size_chars_approx": 55193,
+      "sha256": "320d6da1b557e21ac6c2cb564509ba5ca736d7bb7c03ae738989348caada0033"
+    },
+    {
+      "filename": "iep_foundationalism-in-epistemology.txt",
+      "size_bytes": 67607,
+      "size_chars_approx": 67607,
+      "sha256": "bd761f4e52384e21718624d1c9245d89d4742e8cbe6870a345a75512d4c57f9d"
+    },
+    {
+      "filename": "iep_francis-bacon.txt",
+      "size_bytes": 47992,
+      "size_chars_approx": 47992,
+      "sha256": "e881db8938f70e1c242e0fcfa960134f0b558154c0948041a56c6a2cb1de630b"
+    },
+    {
+      "filename": "iep_freewi-m.txt",
+      "size_bytes": 51900,
+      "size_chars_approx": 51900,
+      "sha256": "7193e2a0050aa39f079d0bf7bb922058c9010338cdcd499dc01a90a297c40584"
+    },
+    {
+      "filename": "iep_freewill.txt",
+      "size_bytes": 62511,
+      "size_chars_approx": 62511,
+      "sha256": "24087547547c99cb8f4d9d8561259a0ce2063f89ca8e5faebb6d6079266ad5a0"
+    },
+    {
+      "filename": "iep_freg-lan.txt",
+      "size_bytes": 123421,
+      "size_chars_approx": 123421,
+      "sha256": "0ca475f120c22aba1b6dce1c9ed1d668cc1e6bf4851cdf8c5fecd921673041d2"
+    },
+    {
+      "filename": "iep_frege.txt",
+      "size_bytes": 70744,
+      "size_chars_approx": 70744,
+      "sha256": "0c723b8bb984ecb6bfb37fc33536f16c74202038b431e77efd79047fe56a543a"
+    },
+    {
+      "filename": "iep_freire.txt",
+      "size_bytes": 77792,
+      "size_chars_approx": 77792,
+      "sha256": "0a6466a562ca05fc3989036f55952fbe1bbe1ec9e8b2d69b5598510ac5647275"
+    },
+    {
+      "filename": "iep_freud-r.txt",
+      "size_bytes": 104273,
+      "size_chars_approx": 104273,
+      "sha256": "98575903e4894549096a456fdebf0e9cbe4bf6c8db6920643a2172b29328aa9e"
+    },
+    {
+      "filename": "iep_freud.txt",
+      "size_bytes": 46656,
+      "size_chars_approx": 46656,
+      "sha256": "0657c8a54fad36e266f95bfb63169f3fc44fea8ba51ffc8bf3978508121870df"
+    },
+    {
+      "filename": "iep_func-exp.txt",
+      "size_bytes": 39195,
+      "size_chars_approx": 39195,
+      "sha256": "1da11900080d69bdf645919710e6ba6f7376f5f59acf3bbed526a96b1e9f552d"
+    },
+    {
+      "filename": "iep_functism.txt",
+      "size_bytes": 36434,
+      "size_chars_approx": 36434,
+      "sha256": "55f81572e832f70e99cda37f29f19205cb713740b74a527f3f42b01ae46d1932"
+    },
+    {
+      "filename": "iep_fut-cont.txt",
+      "size_bytes": 71159,
+      "size_chars_approx": 71159,
+      "sha256": "3ff989582078377045bc4449c9282afafcd30bf62111bb2e50c50c0615eff589"
+    },
+    {
+      "filename": "iep_gadamer.txt",
+      "size_bytes": 72069,
+      "size_chars_approx": 72069,
+      "sha256": "98a2528e73cf5c353d0cf3a65e1efa520d8cbcb00ac5f172f584345a50c084bb"
+    },
+    {
+      "filename": "iep_gale-ric.txt",
+      "size_bytes": 82499,
+      "size_chars_approx": 82499,
+      "sha256": "01c678b77f4691933ccc2bb3a7584aa91e7c4053f634fc208c24b0b751a3d68b"
+    },
+    {
+      "filename": "iep_galen.txt",
+      "size_bytes": 34018,
+      "size_chars_approx": 34018,
+      "sha256": "531b959ab686f35192fbdecaee3a6f75175e3fff0eec83aff05c150029f09fab"
+    },
+    {
+      "filename": "iep_game-th.txt",
+      "size_bytes": 117019,
+      "size_chars_approx": 117019,
+      "sha256": "f6ca326ba53cd2c0a5cae20ee91399943b3361a707f5c1e8feb45edb9d1bb5c2"
+    },
+    {
+      "filename": "iep_gau_e1_b8_8dapad.txt",
+      "size_bytes": 25368,
+      "size_chars_approx": 25368,
+      "sha256": "cdefc97136c47147aa0df0b42adddececfd61d5994df5bc4e66539acd208d3e0"
+    },
+    {
+      "filename": "iep_ge-capab.txt",
+      "size_bytes": 58749,
+      "size_chars_approx": 58749,
+      "sha256": "7bb8dd5950567c1667bca7c20054e4438ef69859437a70e23143f29aec04d225"
+    },
+    {
+      "filename": "iep_gehong.txt",
+      "size_bytes": 31211,
+      "size_chars_approx": 31211,
+      "sha256": "8806a4d8fa84ab06fd8928a5ae2a7efeb06e2d9d1fb9d91b323729c053036759"
+    },
+    {
+      "filename": "iep_gender-in-chinese-philosophy.txt",
+      "size_bytes": 50958,
+      "size_chars_approx": 50958,
+      "sha256": "88bb4ebf8eb6ed3bbacba2bab64dfc54b7dd6a90bdea89e6c438867bc59a7f45"
+    },
+    {
+      "filename": "iep_geo-meth.txt",
+      "size_bytes": 53520,
+      "size_chars_approx": 53520,
+      "sha256": "9a75d3067d2784f32a4c856376784faea92ab248c42d1e0491f459ebc3fdfe85"
+    },
+    {
+      "filename": "iep_george-berkeley-british-empiricist.txt",
+      "size_bytes": 56247,
+      "size_chars_approx": 56247,
+      "sha256": "cbb3f0f0cc3d105739fe29f19e857c3cb98d3ee906b7e8e1421bd6d36fd04166"
+    },
+    {
+      "filename": "iep_george-berkeley-philosophy-of-science.txt",
+      "size_bytes": 58296,
+      "size_chars_approx": 58296,
+      "sha256": "81f092b74f9e9ff0020cfa8e77990a8051bf3e5a2b15d44701b88e65b43db54b"
+    },
+    {
+      "filename": "iep_george-orwell.txt",
+      "size_bytes": 85163,
+      "size_chars_approx": 85163,
+      "sha256": "46596546bf3a26d2debe2f23b609d6e3f8175eb9c1fd72fad31890d299615b62"
+    },
+    {
+      "filename": "iep_germidea.txt",
+      "size_bytes": 66222,
+      "size_chars_approx": 66222,
+      "sha256": "ad5ffbc5e428c88b2ecab37ff872c9f92d84c5a4830549d3580db2f6fb6b74bc"
+    },
+    {
+      "filename": "iep_gettier.txt",
+      "size_bytes": 76875,
+      "size_chars_approx": 76875,
+      "sha256": "9b729aea01e4a9c0cb0017c709a7d5072357ff823d70c3c0798f7088ae886802"
+    },
+    {
+      "filename": "iep_geulincx.txt",
+      "size_bytes": 60680,
+      "size_chars_approx": 60680,
+      "sha256": "c2fef1573a689f0989d88d6696b44afe65a795791a0dd9c0602a358dae10fc30"
+    },
+    {
+      "filename": "iep_gewirth.txt",
+      "size_bytes": 72248,
+      "size_chars_approx": 72248,
+      "sha256": "425be6960b1d1de247d9656dce9ab9d8e03aec70c0c0575d9f340cf1b26721eb"
+    },
+    {
+      "filename": "iep_gilles-deleuze.txt",
+      "size_bytes": 100527,
+      "size_chars_approx": 100527,
+      "sha256": "69943b936d2c28cdca0361e7077421d00eae183f79eeb78382a9ebb26055d2bd"
+    },
+    {
+      "filename": "iep_giordano-bruno.txt",
+      "size_bytes": 63481,
+      "size_chars_approx": 63481,
+      "sha256": "aeaf40c12e8471bce14edf1519154a7a747087101d99208178b8a80e02468eea"
+    },
+    {
+      "filename": "iep_girard.txt",
+      "size_bytes": 52825,
+      "size_chars_approx": 52825,
+      "sha256": "bf2b35feb434899de5235598dff65016e517b7c2fc337a6c548a7d5ee87e1f0f"
+    },
+    {
+      "filename": "iep_gnostic.txt",
+      "size_bytes": 66671,
+      "size_chars_approx": 66671,
+      "sha256": "a53eeb19a1619c0f3db51b4043d9d8612705cd9e29a0f5958f7c76041b747539"
+    },
+    {
+      "filename": "iep_god-time.txt",
+      "size_bytes": 69928,
+      "size_chars_approx": 69928,
+      "sha256": "b1a1d2734c23488e8ea7c2382e73e673774cbb29c552deaf2b7122d47376ed3b"
+    },
+    {
+      "filename": "iep_god-west.txt",
+      "size_bytes": 57615,
+      "size_chars_approx": 57615,
+      "sha256": "1eac05801f90ef148f6029e209b0504c08f3eff56aef76ac26856a36b7390b9b"
+    },
+    {
+      "filename": "iep_godwin.txt",
+      "size_bytes": 102639,
+      "size_chars_approx": 102639,
+      "sha256": "531d244a8119a6fde98e22be67f8a05020dee2ef7cf0266b21c32ed224415b6a"
+    },
+    {
+      "filename": "iep_goethe.txt",
+      "size_bytes": 53913,
+      "size_chars_approx": 53913,
+      "sha256": "ef1af37327ab09ffa395944ebd59bb27e21605cd20964d9d6cadbf100cd3415e"
+    },
+    {
+      "filename": "iep_goldrule.txt",
+      "size_bytes": 121512,
+      "size_chars_approx": 121512,
+      "sha256": "f845f5d8b6580e92afe7aacaf2a5f43a31e666bb545afea8daba0750934cd102"
+    },
+    {
+      "filename": "iep_gorgias.txt",
+      "size_bytes": 18293,
+      "size_chars_approx": 18293,
+      "sha256": "3be99e707b5b6d5867d1a37e057fe82fa3bd468cf68a469e550fc39686196114"
+    },
+    {
+      "filename": "iep_gouges.txt",
+      "size_bytes": 58523,
+      "size_chars_approx": 58523,
+      "sha256": "d096a70afdf23d27b061f953a48d9750a1c73a69f9f547e86d1fe6df406f04c5"
+    },
+    {
+      "filename": "iep_gournay.txt",
+      "size_bytes": 43352,
+      "size_chars_approx": 43352,
+      "sha256": "a063ce61cc9498cdebe0a5026606c2041b58729b01cb5eba00d241a00b3fb9cc"
+    },
+    {
+      "filename": "iep_gregoryn.txt",
+      "size_bytes": 55170,
+      "size_chars_approx": 55170,
+      "sha256": "ea27027ea428846fd0f69d16b659ce80903df2391348f4957c24461734c89cf2"
+    },
+    {
+      "filename": "iep_grimke.txt",
+      "size_bytes": 30848,
+      "size_chars_approx": 30848,
+      "sha256": "67f34d6c8541493e2a70926c887d5a92b0d723602ea5b7a262b4b6eed5c638b3"
+    },
+    {
+      "filename": "iep_grotius.txt",
+      "size_bytes": 81101,
+      "size_chars_approx": 81101,
+      "sha256": "3920b9306f2a3208c612c3dea59566f71d26b13f0e7bfc5317467714840ec6de"
+    },
+    {
+      "filename": "iep_guoxiang.txt",
+      "size_bytes": 15988,
+      "size_chars_approx": 15988,
+      "sha256": "96fd4b5a5bcb463a60074903a69597bbaa5ce77a17b9c7b0c0e15d7838e567f1"
+    },
+    {
+      "filename": "iep_h-c-ethi.txt",
+      "size_bytes": 170636,
+      "size_chars_approx": 170636,
+      "sha256": "c9b5c0864046066a12dac105560f4ae8e19856194019f0d2255cfc30ab527e79"
+    },
+    {
+      "filename": "iep_habermas.txt",
+      "size_bytes": 136303,
+      "size_chars_approx": 136303,
+      "sha256": "58b8bd6bcd22af4933cec5f5e436240c5c8f4a6b3397345cfc8b38a6d93d78f1"
+    },
+    {
+      "filename": "iep_hadot.txt",
+      "size_bytes": 61616,
+      "size_chars_approx": 61616,
+      "sha256": "7f15be8be96f725c69abce7b0e171ebb6728e4fd1ebd8be3cac822fd38932a83"
+    },
+    {
+      "filename": "iep_hamann.txt",
+      "size_bytes": 20744,
+      "size_chars_approx": 20744,
+      "sha256": "a4b3c423e51be99693059c1f073ccd66a5219425dcb84acbfca825c4d7d9fb04"
+    },
+    {
+      "filename": "iep_hannah-arendt.txt",
+      "size_bytes": 54425,
+      "size_chars_approx": 54425,
+      "sha256": "cc587e26fb6430195ef601a95a3517e02b47ff4ab4c3af18e2fbd9b4ccc5e645"
+    },
+    {
+      "filename": "iep_hanslick.txt",
+      "size_bytes": 91397,
+      "size_chars_approx": 91397,
+      "sha256": "7c605a2333d47779fff971b1365d2bfa8f522e6b52955c7892eedae30a11ef85"
+    },
+    {
+      "filename": "iep_hard-problem-of-conciousness.txt",
+      "size_bytes": 70175,
+      "size_chars_approx": 70175,
+      "sha256": "514c487766a5794489abc4a9d477d49554034b7a2cca835c3d3b363528d9fd91"
+    },
+    {
+      "filename": "iep_hart-d-t.txt",
+      "size_bytes": 85763,
+      "size_chars_approx": 85763,
+      "sha256": "a77e9925106117f71ba4dfe16c006f35f8cf3e355309ac863cd0fd94fbab065a"
+    },
+    {
+      "filename": "iep_hart-sen.txt",
+      "size_bytes": 45208,
+      "size_chars_approx": 45208,
+      "sha256": "3cbcd067e542dfd89bfd63ee17350f154f9c3c67f0a316997fb261a4ba67b080"
+    },
+    {
+      "filename": "iep_hart-t-a.txt",
+      "size_bytes": 70115,
+      "size_chars_approx": 70115,
+      "sha256": "2de95fcf42f529b132e4ce6e37945c2a240e9f4eea731b451c45960dc4f22b98"
+    },
+    {
+      "filename": "iep_harts-n-m.txt",
+      "size_bytes": 116979,
+      "size_chars_approx": 116979,
+      "sha256": "769c0dcf9242a89702a0fcce946605dfc99aacbc9841525b992f3e642cf93494"
+    },
+    {
+      "filename": "iep_haskell-brooks-curry.txt",
+      "size_bytes": 65342,
+      "size_chars_approx": 65342,
+      "sha256": "50e006577f48c2cbf650fa7f65ebe51ec5c2d51ece5bac6822d94e7d3154a7f8"
+    },
+    {
+      "filename": "iep_hazlitt.txt",
+      "size_bytes": 102834,
+      "size_chars_approx": 102834,
+      "sha256": "eeaa9cd8ee4d46cdd39ef241b84354177aaeee84834e7ef681ee35a4e6013c3d"
+    },
+    {
+      "filename": "iep_hedonism.txt",
+      "size_bytes": 65633,
+      "size_chars_approx": 65633,
+      "sha256": "9855cb8bd9b9f57295f463c5625f924be30df9fae81d6f048df3bc5095f848d2"
+    },
+    {
+      "filename": "iep_hegelsoc.txt",
+      "size_bytes": 113437,
+      "size_chars_approx": 113437,
+      "sha256": "f7f1bb4ec52000dadd85e5c3ca02b3752b87d82c5f5258a39fc68482800afd75"
+    },
+    {
+      "filename": "iep_heidegge.txt",
+      "size_bytes": 62319,
+      "size_chars_approx": 62319,
+      "sha256": "66540a0a924faeb3781b13f556c4372574640fb48c01b2e7209d3076fec0cdff"
+    },
+    {
+      "filename": "iep_hell.txt",
+      "size_bytes": 43215,
+      "size_chars_approx": 43215,
+      "sha256": "83d5f239b538da91734766bc14c7617815d4789d8df3e6af1587df80aeff2092"
+    },
+    {
+      "filename": "iep_hellenistic-astrology.txt",
+      "size_bytes": 141701,
+      "size_chars_approx": 141701,
+      "sha256": "18b3f250a49c8506c81be15e5ca557f780a2074a15230c77c22e0785c50c1211"
+    },
+    {
+      "filename": "iep_hempel.txt",
+      "size_bytes": 22513,
+      "size_chars_approx": 22513,
+      "sha256": "2b9d576849fa094538cebcc1d1ab1e55261a2ca8f1b0df2b1e82afa4f145f003"
+    },
+    {
+      "filename": "iep_heraclit.txt",
+      "size_bytes": 22490,
+      "size_chars_approx": 22490,
+      "sha256": "3f5d35cd7fb7f9c1c93fcdbbe13d9483ad82561ec6cc0d6c7453969f004a27fb"
+    },
+    {
+      "filename": "iep_hick.txt",
+      "size_bytes": 59229,
+      "size_chars_approx": 59229,
+      "sha256": "cffaad42752ed8f44532158621929d510bb37e6746cdac70cc701b1fca2f6c0d"
+    },
+    {
+      "filename": "iep_higher-order-theories-of-consciousness.txt",
+      "size_bytes": 74873,
+      "size_chars_approx": 74873,
+      "sha256": "13260d50dcd0cb94476e6c535695cef6103e3857b46955211ffab29d7ee289ad"
+    },
+    {
+      "filename": "iep_hindu-ph.txt",
+      "size_bytes": 104992,
+      "size_chars_approx": 104992,
+      "sha256": "98bed57a84330930417a7095a4994dad2a21df53f9231ddd11d1754b8ee1ef02"
+    },
+    {
+      "filename": "iep_hipparch.txt",
+      "size_bytes": 10806,
+      "size_chars_approx": 10806,
+      "sha256": "0ca0493d01a0fdf5f95a2718784a10acf1a2fc10d9bdd5b375798dd0d5fed37f"
+    },
+    {
+      "filename": "iep_hippocra.txt",
+      "size_bytes": 23107,
+      "size_chars_approx": 23107,
+      "sha256": "241dcf1689aa512bb8feffda1fef5911e6526b768c31c2def9a5b3a5fe9737e4"
+    },
+    {
+      "filename": "iep_history-of-african-philosophy.txt",
+      "size_bytes": 121321,
+      "size_chars_approx": 121321,
+      "sha256": "aa44f9b96fea270ee9718bee4770bdd3830240f9215fa69f0775bc7edbd56123"
+    },
+    {
+      "filename": "iep_history-of-utilitarianism.txt",
+      "size_bytes": 109730,
+      "size_chars_approx": 109730,
+      "sha256": "fd1a385333b4807d737cc08504fe8b0aa3819f91216850b103283e31023b6fe0"
+    },
+    {
+      "filename": "iep_history.txt",
+      "size_bytes": 79955,
+      "size_chars_approx": 79955,
+      "sha256": "c781820d7785e2f86f9d2447bb4a8d81992d4d36fb5f424f467ab528157f364a"
+    },
+    {
+      "filename": "iep_hobmeth.txt",
+      "size_bytes": 37526,
+      "size_chars_approx": 37526,
+      "sha256": "87567550dbc1b42e96dd4804da25d37b2e0b4835a50672e4381c4ae1f3338c6d"
+    },
+    {
+      "filename": "iep_hobmoral.txt",
+      "size_bytes": 64069,
+      "size_chars_approx": 64069,
+      "sha256": "72feb59cf026ac08b74f6f9cd86d7c90b0b7e92e2ce7a9f68e6932923fc34aaa"
+    },
+    {
+      "filename": "iep_holderli.txt",
+      "size_bytes": 27872,
+      "size_chars_approx": 27872,
+      "sha256": "e31b7d57363f096b07b65a881097330fa6b16e59f07c387384b51ac549a0e6ea"
+    },
+    {
+      "filename": "iep_hstlouis.txt",
+      "size_bytes": 10108,
+      "size_chars_approx": 10108,
+      "sha256": "d77dabc1d80ccbe4ae5a2372f7d42ce40fabecb80a40e7857817c9605e6b830b"
+    },
+    {
+      "filename": "iep_huineng.txt",
+      "size_bytes": 67926,
+      "size_chars_approx": 67926,
+      "sha256": "03fd3e745e7731a23eedf5e766db67663b9deaaffe21c40bbce38ed5ff3627c8"
+    },
+    {
+      "filename": "iep_hum-mili.txt",
+      "size_bytes": 99181,
+      "size_chars_approx": 99181,
+      "sha256": "cca6069339d51b2358bdb7bab96b794f740e6f79e4e2711af4d7dc451e9e7aa1"
+    },
+    {
+      "filename": "iep_hum-rts.txt",
+      "size_bytes": 75324,
+      "size_chars_approx": 75324,
+      "sha256": "ca92893de466f2ca5db1c7895f1964b9378cf8296d294d69a4dd38f138e63e8d"
+    },
+    {
+      "filename": "iep_human-dignity.txt",
+      "size_bytes": 68734,
+      "size_chars_approx": 68734,
+      "sha256": "392d94894933180c1ad8ffc1e9bb19766dc48778e3749d452043d7429946cecf"
+    },
+    {
+      "filename": "iep_hume-causation.txt",
+      "size_bytes": 71812,
+      "size_chars_approx": 71812,
+      "sha256": "da01e99fcf30866d835b7e16368e1d539b3730017eaf062a2c85316ea1e2f65d"
+    },
+    {
+      "filename": "iep_hume-ima.txt",
+      "size_bytes": 101093,
+      "size_chars_approx": 101093,
+      "sha256": "1ab3863f36f9af28543e873828608e5fa39fef55285a9b2e5f8e0c53303aa0ac"
+    },
+    {
+      "filename": "iep_hume-rel.txt",
+      "size_bytes": 92052,
+      "size_chars_approx": 92052,
+      "sha256": "6446984a805e6a8b142407bf09857fc02f4cef58254907b7776834599c4cf151"
+    },
+    {
+      "filename": "iep_hume.txt",
+      "size_bytes": 87974,
+      "size_chars_approx": 87974,
+      "sha256": "4fc4108d27b9d43b9c8c1032d3c2d79190370555d6b6e519779bed13095de081"
+    },
+    {
+      "filename": "iep_humeevil.txt",
+      "size_bytes": 54808,
+      "size_chars_approx": 54808,
+      "sha256": "92248817be03890fa2e64f7f423dd34b3da23b7a0d98dd3eedaa875048b5aa87"
+    },
+    {
+      "filename": "iep_humemora.txt",
+      "size_bytes": 104908,
+      "size_chars_approx": 104908,
+      "sha256": "1e5d0181bc1319df06b6d1b702ab5a1396645a384eed2fb03d37ca75ab827280"
+    },
+    {
+      "filename": "iep_humili-p.txt",
+      "size_bytes": 103424,
+      "size_chars_approx": 103424,
+      "sha256": "a564f98ea404893ef790583c8b363cf9096feb45022079ee5522208f755036c8"
+    },
+    {
+      "filename": "iep_humor.txt",
+      "size_bytes": 38706,
+      "size_chars_approx": 38706,
+      "sha256": "b8ebdb39d025f09e3ed69f82f7e05d9414fe05c8f2a87a4572cc28568601b63f"
+    },
+    {
+      "filename": "iep_hunhu-ubuntu-southern-african-thought.txt",
+      "size_bytes": 47013,
+      "size_chars_approx": 47013,
+      "sha256": "f5f2bd8cc8667fadda331bc9de2867b903de850fb1af3b57049a0ec28f56447d"
+    },
+    {
+      "filename": "iep_huss-int.txt",
+      "size_bytes": 73780,
+      "size_chars_approx": 73780,
+      "sha256": "2dbbc5ce40a53b0a617cc721c4cf2fe423f8c7595d238a96cf16016a2785df38"
+    },
+    {
+      "filename": "iep_husserl.txt",
+      "size_bytes": 65629,
+      "size_chars_approx": 65629,
+      "sha256": "958166f677efc59a7cda288421c504dc739a72f08de93d09566f21ab5699e1dc"
+    },
+    {
+      "filename": "iep_husspemb.txt",
+      "size_bytes": 60411,
+      "size_chars_approx": 60411,
+      "sha256": "1f7adcd01602ca3e017af38c9375d4d18924d815ac055f95f40fe2139409c854"
+    },
+    {
+      "filename": "iep_hutcheso.txt",
+      "size_bytes": 41717,
+      "size_chars_approx": 41717,
+      "sha256": "dc584b9cbf9d5858076ac3287b469dc79ae27b51e70ac8a24c909cf7f32d4c86"
+    },
+    {
+      "filename": "iep_ibn-rushd-averroes.txt",
+      "size_bytes": 51630,
+      "size_chars_approx": 51630,
+      "sha256": "8dc6562fca71e20ed4d7be21f7c6de67c7a40a8c846e236343063452fb7abcb4"
+    },
+    {
+      "filename": "iep_ibn-sina-avicenna-logic.txt",
+      "size_bytes": 75522,
+      "size_chars_approx": 75522,
+      "sha256": "bad5732f6523eb7ebce784d93b5d7f6786bd34bc6ec11b9994d067895a4ec5b0"
+    },
+    {
+      "filename": "iep_identity.txt",
+      "size_bytes": 30462,
+      "size_chars_approx": 30462,
+      "sha256": "f9ae77f453802ed84459f2c207400f4f0a83108b6adeab406bcb66d80ddc494c"
+    },
+    {
+      "filename": "iep_ignacio-ellacuria.txt",
+      "size_bytes": 24931,
+      "size_chars_approx": 24931,
+      "sha256": "c2cdc80296a53ea3236ebe16013fd513df25b898da24e7fdaecedd4fc67d53e2"
+    },
+    {
+      "filename": "iep_ikhwan-al-safa.txt",
+      "size_bytes": 13727,
+      "size_chars_approx": 13727,
+      "sha256": "753d6638c256960e07d109febda56f95838b773f32c9226b028a8ecaaedbd6ee"
+    },
+    {
+      "filename": "iep_imagery.txt",
+      "size_bytes": 63662,
+      "size_chars_approx": 63662,
+      "sha256": "fb3a6c1661e4b216a67dc2d4209b2617251b6d01210691c184348c5a84b54216"
+    },
+    {
+      "filename": "iep_immortal.txt",
+      "size_bytes": 76214,
+      "size_chars_approx": 76214,
+      "sha256": "5907646402fbc7e487fc73e5383c7b1f0d7a37c4d42f2fd85f7bab9cf1224714"
+    },
+    {
+      "filename": "iep_impossible-worlds.txt",
+      "size_bytes": 45385,
+      "size_chars_approx": 45385,
+      "sha256": "1a9f0199d21df005cc43660812770658017da13144ced44eaa4356c69fa1558e"
+    },
+    {
+      "filename": "iep_incarnat.txt",
+      "size_bytes": 46913,
+      "size_chars_approx": 46913,
+      "sha256": "ec18129f34598a23d6616262fc086ccf344a2cd15d96e73eba6191d40cff9236"
+    },
+    {
+      "filename": "iep_ind-chin.txt",
+      "size_bytes": 34287,
+      "size_chars_approx": 34287,
+      "sha256": "6954486cdbbe9af0eee01f8347fba93cbaf1df651a6540ad61734f247e230706"
+    },
+    {
+      "filename": "iep_indeterm.txt",
+      "size_bytes": 111341,
+      "size_chars_approx": 111341,
+      "sha256": "48aa63d31269606c6a7951052d0f22108fd0e9e5af4430f13d14302dbbcff7f4"
+    },
+    {
+      "filename": "iep_indimath.txt",
+      "size_bytes": 62414,
+      "size_chars_approx": 62414,
+      "sha256": "0986dfefc78accc8e91680f98af8a91e4f13694e50486e73cccf2a3ec07013b5"
+    },
+    {
+      "filename": "iep_indmat.txt",
+      "size_bytes": 26260,
+      "size_chars_approx": 26260,
+      "sha256": "22853e50f548a560dca1bd5412a5184b6ca8b43fb51f0b82a64a62a867f7a1b7"
+    },
+    {
+      "filename": "iep_inf-epis.txt",
+      "size_bytes": 54987,
+      "size_chars_approx": 54987,
+      "sha256": "bbd6e09346bd3a6390b120084e30192aa307425203eb8c80a970ea5e564e4929"
+    },
+    {
+      "filename": "iep_infinite.txt",
+      "size_bytes": 133285,
+      "size_chars_approx": 133285,
+      "sha256": "c73e0fc12991a3e690bf69ba505c29847eaa8128ba225c2b2207973b1dd0cdc7"
+    },
+    {
+      "filename": "iep_insti-th.txt",
+      "size_bytes": 83799,
+      "size_chars_approx": 83799,
+      "sha256": "2220550075efd5b00550d28c57c0f1d79a60cde95fa26fa297e770bd158320a3"
+    },
+    {
+      "filename": "iep_int-ex-ml.txt",
+      "size_bytes": 67969,
+      "size_chars_approx": 67969,
+      "sha256": "771c74be55890eccffd2c525306fa69156952f8a59a33bebe5ab05649692420a"
+    },
+    {
+      "filename": "iep_int-ext.txt",
+      "size_bytes": 62563,
+      "size_chars_approx": 62563,
+      "sha256": "96d790e606ef0da0f3b46ddeabc23dc124dd74e26051abc6d9edfdd26163d639"
+    },
+    {
+      "filename": "iep_int-qm.txt",
+      "size_bytes": 61316,
+      "size_chars_approx": 61316,
+      "sha256": "4a0abb9c7fd0af21fcb721c5d21c9e1a0d9ddd8e532c82eac83a28e66abc9d30"
+    },
+    {
+      "filename": "iep_integrated-information-theory-of-consciousness.txt",
+      "size_bytes": 80528,
+      "size_chars_approx": 80528,
+      "sha256": "383ce53d8d98ed7e85bf0b5faf5b18085ff9e24df83d88868605929e84d6a660"
+    },
+    {
+      "filename": "iep_intentio.txt",
+      "size_bytes": 62310,
+      "size_chars_approx": 62310,
+      "sha256": "fea867ba4a8a314ad61d21209f4a14153902b2765ce1085ebe922f212a966e48"
+    },
+    {
+      "filename": "iep_interven.txt",
+      "size_bytes": 18682,
+      "size_chars_approx": 18682,
+      "sha256": "eca4713ca56b5e1395c212ee5361dda9801ed7423948a94c9a97b8b3eb6f9325"
+    },
+    {
+      "filename": "iep_introspe.txt",
+      "size_bytes": 64618,
+      "size_chars_approx": 64618,
+      "sha256": "fc87d0757e79f9c159ccc0ca51418868f7df40775a676c030726314aad8dd72a"
+    },
+    {
+      "filename": "iep_intuitionism-math.txt",
+      "size_bytes": 136702,
+      "size_chars_approx": 136702,
+      "sha256": "0da890f3fe96b84566b1f6f144024111ab8f4cc09c8883ccc703b3360e4e5c15"
+    },
+    {
+      "filename": "iep_irigaray.txt",
+      "size_bytes": 52283,
+      "size_chars_approx": 52283,
+      "sha256": "1233d6707e70424c59cba7bd0fd92c5078776dcc3b501c43ca505bb68de92968"
+    },
+    {
+      "filename": "iep_ismaili.txt",
+      "size_bytes": 8711,
+      "size_chars_approx": 8711,
+      "sha256": "51f7182c07fa364bae48ade22231aa15020b13b0d543d55f55888f659ab1d501"
+    },
+    {
+      "filename": "iep_jacques-derrida.txt",
+      "size_bytes": 73913,
+      "size_chars_approx": 73913,
+      "sha256": "37c282a7cb5bb021ea2d40894c52325ff5dc87c948461ad2ba5b5d3963840a0e"
+    },
+    {
+      "filename": "iep_jain.txt",
+      "size_bytes": 13667,
+      "size_chars_approx": 13667,
+      "sha256": "6cbb4c4a09c9c9306ffb7461b26fb82baf1573ab83579dbff43fa2a62814462b"
+    },
+    {
+      "filename": "iep_james-beattie.txt",
+      "size_bytes": 26714,
+      "size_chars_approx": 26714,
+      "sha256": "ac7ef541df3050e275cefe564ab182a91111af4d78f5cd6570d7927332158311"
+    },
+    {
+      "filename": "iep_james-o.txt",
+      "size_bytes": 52068,
+      "size_chars_approx": 52068,
+      "sha256": "32d51a7051b7b35ee883b3609ccf3340f1f5b8a1f806001ecda90837fe10afd2"
+    },
+    {
+      "filename": "iep_jean-bodin.txt",
+      "size_bytes": 91473,
+      "size_chars_approx": 91473,
+      "sha256": "27e07f9d847bc7ed1eaf1c11f1eda3df31b396574065011d809d8d48c5195bd8"
+    },
+    {
+      "filename": "iep_jeanne-francoice-fremyot-de-chantal.txt",
+      "size_bytes": 48225,
+      "size_chars_approx": 48225,
+      "sha256": "baa4de0918ded8fb60d1b7e6821bfc1f252e52cc13fcf4bd4e15e5f65599f252"
+    },
+    {
+      "filename": "iep_jeremy-bentham.txt",
+      "size_bytes": 33344,
+      "size_chars_approx": 33344,
+      "sha256": "adca05098ac94692bd54b1012af35b32af5c531ec8e6aaa72bf9ea0cc4cf77bd"
+    },
+    {
+      "filename": "iep_joachim.txt",
+      "size_bytes": 35667,
+      "size_chars_approx": 35667,
+      "sha256": "f3343b7eccf6564172b64907d4f6f892190d6341adee038023ba3a6386acf40c"
+    },
+    {
+      "filename": "iep_john-anderson.txt",
+      "size_bytes": 64848,
+      "size_chars_approx": 64848,
+      "sha256": "4fb883d05a6bd43809a074f724d6daa09385a7cada261d8b14112305856dadfc"
+    },
+    {
+      "filename": "iep_john-austin.txt",
+      "size_bytes": 61406,
+      "size_chars_approx": 61406,
+      "sha256": "1ca7f468f44bb02957f4790b93d6568bc6edb85fc0befb100021180654740773"
+    },
+    {
+      "filename": "iep_john-calvin.txt",
+      "size_bytes": 21581,
+      "size_chars_approx": 21581,
+      "sha256": "7d327e3acdbb289bf680cd8a0174d7f5633680e39606bbf53fd2232ecc0294c1"
+    },
+    {
+      "filename": "iep_john-dewey.txt",
+      "size_bytes": 53189,
+      "size_chars_approx": 53189,
+      "sha256": "3c808399f2ea4e32d33024feb17742511a3d9ffad590942e2e4bf3a5b010b8aa"
+    },
+    {
+      "filename": "iep_john-duns-scotus.txt",
+      "size_bytes": 76676,
+      "size_chars_approx": 76676,
+      "sha256": "02b64560770215120e4827dd615f3c985d4faf1b8093c6a1c4619e0625282efb"
+    },
+    {
+      "filename": "iep_jose-ortega-y-gasset.txt",
+      "size_bytes": 67568,
+      "size_chars_approx": 67568,
+      "sha256": "2ca3a6221968ec0168b98f8169d3f94baba48c454f7d37ac02c5be54e6bdf2d7"
+    },
+    {
+      "filename": "iep_joseph-butler.txt",
+      "size_bytes": 21249,
+      "size_chars_approx": 21249,
+      "sha256": "8efcad6170a8d9c11c8f8bb6c78c4713b313dbe19b1eb48c4b33a7d03629cb71"
+    },
+    {
+      "filename": "iep_juan-donoso-cortes.txt",
+      "size_bytes": 17993,
+      "size_chars_approx": 17993,
+      "sha256": "31ee4f3a4e574b87d210e7801e134fbdadf880d724d4a3f77746f493d96e31a4"
+    },
+    {
+      "filename": "iep_jurisfem.txt",
+      "size_bytes": 42403,
+      "size_chars_approx": 42403,
+      "sha256": "9936ed49027afa1bd4381ba4d3e63c501292d692434320ec38a07e3fe251451c"
+    },
+    {
+      "filename": "iep_justwar.txt",
+      "size_bytes": 59928,
+      "size_chars_approx": 59928,
+      "sha256": "61e1c20236387050d787a47ad57570a9b48bb3bbe041e1736d64ea4571e22230"
+    },
+    {
+      "filename": "iep_justwest.txt",
+      "size_bytes": 148142,
+      "size_chars_approx": 148142,
+      "sha256": "f0dfee169bbccd6fe96cf2729a3b1a61fbef88ff879a713d9d83a3aea2da84d6"
+    },
+    {
+      "filename": "iep_k-logic.txt",
+      "size_bytes": 74261,
+      "size_chars_approx": 74261,
+      "sha256": "87fa7a61421057601441e2b6534ad7c3050c9af05c22e549245c81c3a67fc812"
+    },
+    {
+      "filename": "iep_kant-rel.txt",
+      "size_bytes": 54473,
+      "size_chars_approx": 54473,
+      "sha256": "1b9222ae784a6353575685060922dc926a3c64ece16ade936ba91a73b1d67216"
+    },
+    {
+      "filename": "iep_kant-transcendental-idealism.txt",
+      "size_bytes": 110239,
+      "size_chars_approx": 110239,
+      "sha256": "d881bf72c794ad7e6e0e33df2fe6b37a38dcc12bc9ccccf19b2273e507f5851a"
+    },
+    {
+      "filename": "iep_kantaest.txt",
+      "size_bytes": 116299,
+      "size_chars_approx": 116299,
+      "sha256": "edd0f6c8dfad8e43b29a48d46e4972204d9c933a198b0418bf965930836dc37a"
+    },
+    {
+      "filename": "iep_kantmeta.txt",
+      "size_bytes": 66952,
+      "size_chars_approx": 66952,
+      "sha256": "a144871dbb8edf2730bdfe97e09a0877c5457e4bd994aba8b19fc5f19da969d6"
+    },
+    {
+      "filename": "iep_kantmind.txt",
+      "size_bytes": 100438,
+      "size_chars_approx": 100438,
+      "sha256": "1e6199001b99aef23a4fd62d9b9a27c847247de9b68cf99a03508b92bdf1e58b"
+    },
+    {
+      "filename": "iep_kantview.txt",
+      "size_bytes": 110644,
+      "size_chars_approx": 110644,
+      "sha256": "912ab77180e4dab00aff277453fa98e1ae0d8f842b9b57b81fa8c47f27baf10a"
+    },
+    {
+      "filename": "iep_karl-popper-critical-ratiotionalism.txt",
+      "size_bytes": 76126,
+      "size_chars_approx": 76126,
+      "sha256": "5606f611ce337a2c3c3b46e2c6a1fd74df5275621505d4a5047c6a06c6cab570"
+    },
+    {
+      "filename": "iep_kashmiri.txt",
+      "size_bytes": 28436,
+      "size_chars_approx": 28436,
+      "sha256": "85583266f79df5243d9935eea2a44e9cd82d9793ffd0441fcad5d1a97237eb26"
+    },
+    {
+      "filename": "iep_khusraw.txt",
+      "size_bytes": 9187,
+      "size_chars_approx": 9187,
+      "sha256": "4b0c8c67a3da8ff237b99704448fa013ac04f3ce002340c9ab4e9a9c9d0a8fc1"
+    },
+    {
+      "filename": "iep_kierkega.txt",
+      "size_bytes": 79549,
+      "size_chars_approx": 79549,
+      "sha256": "7166191f02a93aefb9e206e4157e0cb3a1a8bce554cc12ce0fd8983ceda7df5e"
+    },
+    {
+      "filename": "iep_kirmani.txt",
+      "size_bytes": 7954,
+      "size_chars_approx": 7954,
+      "sha256": "b958c534a308e0f9b5ca29d4fea485fcf27406fa71f986c69b5401ef135b453e"
+    },
+    {
+      "filename": "iep_kk-princ.txt",
+      "size_bytes": 32454,
+      "size_chars_approx": 32454,
+      "sha256": "cb5d3accef00f44b6fd139337c6a85b029da333bc62d2582809fc09444a6a859"
+    },
+    {
+      "filename": "iep_kn-norms.txt",
+      "size_bytes": 71214,
+      "size_chars_approx": 71214,
+      "sha256": "3b302e0e7ac805453614945249044d1458e11cc4939a6377b85e862310e94709"
+    },
+    {
+      "filename": "iep_know-arg.txt",
+      "size_bytes": 49796,
+      "size_chars_approx": 49796,
+      "sha256": "11b1261f7a8cdf77299a52e915f046cb6189c25f2a6d1bbf496275acb15ac03a"
+    },
+    {
+      "filename": "iep_knowacq.txt",
+      "size_bytes": 37962,
+      "size_chars_approx": 37962,
+      "sha256": "b1a1d06bb7d73c1b3823e637de8cda15776de0a3b4d9cf9f86082559c33317cb"
+    },
+    {
+      "filename": "iep_knowlang.txt",
+      "size_bytes": 54169,
+      "size_chars_approx": 54169,
+      "sha256": "51b27b183df74dbeb843d84a832031a9936be059305ae351610092a19b9102a9"
+    },
+    {
+      "filename": "iep_knowledg.txt",
+      "size_bytes": 83084,
+      "size_chars_approx": 83084,
+      "sha256": "f53b0bd24574d9aade63451039aab9e6e1f63f515ea6039e8bd519888d741e62"
+    },
+    {
+      "filename": "iep_knowledge-first-theories-of-justification.txt",
+      "size_bytes": 79210,
+      "size_chars_approx": 79210,
+      "sha256": "1a9c02d61ccd02e765e281fabbe8af44a86cac67efede78dda662a79e28eb0af"
+    },
+    {
+      "filename": "iep_kojeve.txt",
+      "size_bytes": 29948,
+      "size_chars_approx": 29948,
+      "sha256": "c87dfc3b42082c264bedb2f983c86e7afbdc0d62dac48ac6dcc9a5f10f0f8721"
+    },
+    {
+      "filename": "iep_kraft.txt",
+      "size_bytes": 45207,
+      "size_chars_approx": 45207,
+      "sha256": "240da3b60cd9cf3c3aed31fba4b5fbfcf09ff6c1f51ec00fcb477177fad30cb2"
+    },
+    {
+      "filename": "iep_kripkes-wittgenstein.txt",
+      "size_bytes": 102193,
+      "size_chars_approx": 102193,
+      "sha256": "db6c7f1b925ddb76983634ed50011a000c13821a2735d0ababc0b60d1293205f"
+    },
+    {
+      "filename": "iep_kuhn-ts.txt",
+      "size_bytes": 105313,
+      "size_chars_approx": 105313,
+      "sha256": "c763d4b687089aab9e47fd828d7203105be8b8a185c2891f018b0b423c0431a8"
+    },
+    {
+      "filename": "iep_lacweb.txt",
+      "size_bytes": 68641,
+      "size_chars_approx": 68641,
+      "sha256": "a2cbe5363462a5768f8d8998f6d0b427bbb3b42f00e1b501b030aa3d48cc8cbc"
+    },
+    {
+      "filename": "iep_lambda-calculi.txt",
+      "size_bytes": 47085,
+      "size_chars_approx": 47085,
+      "sha256": "9020b22ae4842a354c133b98c98c5f52e5b62da88364935c3d1921730b60bc05"
+    },
+    {
+      "filename": "iep_lamberta.txt",
+      "size_bytes": 45284,
+      "size_chars_approx": 45284,
+      "sha256": "50addfc5fe61de563d6c5d2a703e4aaa13dc696aeb2e47773d052a8b8ce5c0af"
+    },
+    {
+      "filename": "iep_lang-chi.txt",
+      "size_bytes": 47425,
+      "size_chars_approx": 47425,
+      "sha256": "6ebb26e76f8ef27d080ec654bf361599700fcee191c23ef19182385093735c01"
+    },
+    {
+      "filename": "iep_lang-phi.txt",
+      "size_bytes": 74063,
+      "size_chars_approx": 74063,
+      "sha256": "c0c5968c52923e159600d990d1f8e6d54ea66a2a5e08d3ea78d8478fbfbc1990"
+    },
+    {
+      "filename": "iep_langer.txt",
+      "size_bytes": 59480,
+      "size_chars_approx": 59480,
+      "sha256": "4bf3194d2008a95a5fc3d1592573d680afd23a92f59c75d319e30cbaa4c5f2a7"
+    },
+    {
+      "filename": "iep_lao-s-k.txt",
+      "size_bytes": 53329,
+      "size_chars_approx": 53329,
+      "sha256": "405226165171b0e97bf6598ad132928314b5450248ffefc984c3741e06c29c06"
+    },
+    {
+      "filename": "iep_laozi.txt",
+      "size_bytes": 35513,
+      "size_chars_approx": 35513,
+      "sha256": "9574386c52621eada96d5bbdbdeba339e634cd83123f808eea7a0128d5cfaed6"
+    },
+    {
+      "filename": "iep_lasablie.txt",
+      "size_bytes": 32952,
+      "size_chars_approx": 32952,
+      "sha256": "dac850caa45de0e542852d81d79cf2135c01e3f8fe3dd10cf7cb0ac50abf80cd"
+    },
+    {
+      "filename": "iep_latin-am.txt",
+      "size_bytes": 67786,
+      "size_chars_approx": 67786,
+      "sha256": "c06d6d84f58de888bbcfdeb2c60103e7458470afd86144f1b9148d91875d8721"
+    },
+    {
+      "filename": "iep_lavallie.txt",
+      "size_bytes": 30844,
+      "size_chars_approx": 30844,
+      "sha256": "1cc7bc749f8712f2e4fa42e83878aaa62f1d0fc3cc6b24e31e3954dc263fc852"
+    },
+    {
+      "filename": "iep_law-and-economics.txt",
+      "size_bytes": 22481,
+      "size_chars_approx": 22481,
+      "sha256": "6b956ca2558ae4455081230dded9100c9fd5a6340cab1283dbe4509c9a8a2c03"
+    },
+    {
+      "filename": "iep_law-phil.txt",
+      "size_bytes": 55453,
+      "size_chars_approx": 55453,
+      "sha256": "de72de5bbc85fc7132b5394f818c62d70684751d527b65ec603d59c362f659e1"
+    },
+    {
+      "filename": "iep_lawofnat.txt",
+      "size_bytes": 43583,
+      "size_chars_approx": 43583,
+      "sha256": "46523d515ee323ad2bdefeea3861b043770cdcdaf7ff60cd29834458163b2c2e"
+    },
+    {
+      "filename": "iep_leg-herm.txt",
+      "size_bytes": 90052,
+      "size_chars_approx": 90052,
+      "sha256": "36f98fdef5d9e21e665a770b859275f087175786c1b76bc672af587d3f6df318"
+    },
+    {
+      "filename": "iep_legal-va.txt",
+      "size_bytes": 82294,
+      "size_chars_approx": 82294,
+      "sha256": "5c5548a5254b654845593e6e229e1c272283d7006b3d9b2cbe600d57bed6e9b0"
+    },
+    {
+      "filename": "iep_legalpos.txt",
+      "size_bytes": 52341,
+      "size_chars_approx": 52341,
+      "sha256": "8279ea8f5aa353fcbcf896382bb4981fccccabacfc8d738408a2fdb87c86cfa0"
+    },
+    {
+      "filename": "iep_leglprag.txt",
+      "size_bytes": 22350,
+      "size_chars_approx": 22350,
+      "sha256": "436210d4c5407e7dbf76fa13e046699d41e70c318756619753e5b77eb70a4a96"
+    },
+    {
+      "filename": "iep_leib-cau.txt",
+      "size_bytes": 39644,
+      "size_chars_approx": 39644,
+      "sha256": "951c4d871a7de68e2f850a341bf203075ddaaaf14370d0989fc5a6ebedd5b650"
+    },
+    {
+      "filename": "iep_leib-log.txt",
+      "size_bytes": 64841,
+      "size_chars_approx": 64841,
+      "sha256": "f7012c8470d4c6f8b159d7af65146f3f287331cebcd9d88590bdfc196f04a481"
+    },
+    {
+      "filename": "iep_leib-met.txt",
+      "size_bytes": 75928,
+      "size_chars_approx": 75928,
+      "sha256": "685626f667ba4fd80936b124703c345db10b5d52d7d23dd72eca93d33ced8621"
+    },
+    {
+      "filename": "iep_leib-ove.txt",
+      "size_bytes": 88547,
+      "size_chars_approx": 88547,
+      "sha256": "9927e472e851eac3396e93aee3cd543f503de006c181729b75604f879924b0ab"
+    },
+    {
+      "filename": "iep_leibniz-mind.txt",
+      "size_bytes": 67798,
+      "size_chars_approx": 67798,
+      "sha256": "2fbe963de4488e5359a8970009b09f6b361fffdf8987cb46512ac5ed8809163e"
+    },
+    {
+      "filename": "iep_leibniz-modal-metaphysics.txt",
+      "size_bytes": 68756,
+      "size_chars_approx": 68756,
+      "sha256": "9da1b1074fb944d2666ed899a0527766d995fb4c7e9f66bf0da415aa41a102d5"
+    },
+    {
+      "filename": "iep_lenclos.txt",
+      "size_bytes": 28718,
+      "size_chars_approx": 28718,
+      "sha256": "215872842f588da8411abe58eb00eee753b1e159e369c5e65c9de257c458dbd3"
+    },
+    {
+      "filename": "iep_lequyer.txt",
+      "size_bytes": 87022,
+      "size_chars_approx": 87022,
+      "sha256": "f54b6f1ee7a2931fa66442a28374983a11e43fc3e6e6a8a1cd4a612ca4c79dba"
+    },
+    {
+      "filename": "iep_lesniewski-logic.txt",
+      "size_bytes": 87574,
+      "size_chars_approx": 87574,
+      "sha256": "adb5ef656374483239336b0f4e5bf47df7d96430ac253b2a353ce54dc686bb64"
+    },
+    {
+      "filename": "iep_lewis-carroll-logic.txt",
+      "size_bytes": 89652,
+      "size_chars_approx": 89652,
+      "sha256": "bfe7f6d190881d1eb7cd5f36fb1da50ced6f2f4ebfefabf231ce7a27e2c18897"
+    },
+    {
+      "filename": "iep_lewisci.txt",
+      "size_bytes": 62085,
+      "size_chars_approx": 62085,
+      "sha256": "2512effa868ba9536d27379f5f1e1db2fd847b37e564d8f6f07dcebc72552f34"
+    },
+    {
+      "filename": "iep_liar-paradox.txt",
+      "size_bytes": 76533,
+      "size_chars_approx": 76533,
+      "sha256": "f9e04f43d499ad4d1a2b73828da4a5b31b545daed5ab178d67c41306e65df08d"
+    },
+    {
+      "filename": "iep_libertar.txt",
+      "size_bytes": 90925,
+      "size_chars_approx": 90925,
+      "sha256": "3ab5bf64e3c5fb4d06baa167031b911544bd2a7ed797731ed4c795c82a1eb8a5"
+    },
+    {
+      "filename": "iep_liezi.txt",
+      "size_bytes": 32162,
+      "size_chars_approx": 32162,
+      "sha256": "6afaf8f850e37d23cf13eda19aa236292d49c0746a1c53c646c8eb06a9234ade"
+    },
+    {
+      "filename": "iep_lindenba.txt",
+      "size_bytes": 47189,
+      "size_chars_approx": 47189,
+      "sha256": "bedef8fea01e218808303bdcf7b833c9ccb74645b29925b5a82b304fe82e8a8a"
+    },
+    {
+      "filename": "iep_lipsius.txt",
+      "size_bytes": 25486,
+      "size_chars_approx": 25486,
+      "sha256": "7e83f06bc21b7ace26f57405c3ce584391a71cc8e65b66993c7c3bde38aa1ca8"
+    },
+    {
+      "filename": "iep_literary.txt",
+      "size_bytes": 44559,
+      "size_chars_approx": 44559,
+      "sha256": "eaf1fa2f4462d22be14fedb1acdc413603e42e500cb57eca6b761f3896a1d8ad"
+    },
+    {
+      "filename": "iep_locke-ep.txt",
+      "size_bytes": 65435,
+      "size_chars_approx": 65435,
+      "sha256": "e331ad4513c1220d3559eb3ee913a878ff8de5a9bc21ed456c09d648dcfcb3ea"
+    },
+    {
+      "filename": "iep_locke-et.txt",
+      "size_bytes": 78396,
+      "size_chars_approx": 78396,
+      "sha256": "dafc7fb52e106d1b8390c81463ca6e696bca903e2cfffb8d3dca1d87f8311554"
+    },
+    {
+      "filename": "iep_locke-kn.txt",
+      "size_bytes": 88199,
+      "size_chars_approx": 88199,
+      "sha256": "e1668885ccd278fcd46c9eadfa544b2c54611a41d78f29f8ceb33dc8c1eced4f"
+    },
+    {
+      "filename": "iep_locke-po.txt",
+      "size_bytes": 127290,
+      "size_chars_approx": 127290,
+      "sha256": "82c97ac2bef85b2465446166f8048d815a29c2126376bd85517846f1de44e7a0"
+    },
+    {
+      "filename": "iep_locke.txt",
+      "size_bytes": 88434,
+      "size_chars_approx": 88434,
+      "sha256": "825ad465954e217666a1f48bd8f358256b71c472d3d96cec85e863f864189f99"
+    },
+    {
+      "filename": "iep_logcon-m.txt",
+      "size_bytes": 74180,
+      "size_chars_approx": 74180,
+      "sha256": "a9b64f83ed80ac9ae7d140741230aae35fa4be440c85fe48cd382a7f0fa869ac"
+    },
+    {
+      "filename": "iep_logcon.txt",
+      "size_bytes": 48610,
+      "size_chars_approx": 48610,
+      "sha256": "efb03948db0480bacb6a5c2aa822f42171fef0ba93c0a8f690c29125614f83c5"
+    },
+    {
+      "filename": "iep_lonergan.txt",
+      "size_bytes": 70439,
+      "size_chars_approx": 70439,
+      "sha256": "d22af7d00a5d0e6444b4f793eef6fe54f8e02428462101e1bb5896c3af6a3204"
+    },
+    {
+      "filename": "iep_lot-hypo.txt",
+      "size_bytes": 54756,
+      "size_chars_approx": 54756,
+      "sha256": "9c5c6abd8609d4ae0c97104d97af0e2dedbe91b4a8f37bf113d7665442bde236"
+    },
+    {
+      "filename": "iep_lotze.txt",
+      "size_bytes": 78712,
+      "size_chars_approx": 78712,
+      "sha256": "0c6b177c78b9c1638527d912a1ba54055db290fbcd85462d4f79b12e1fd3fbe9"
+    },
+    {
+      "filename": "iep_love-his.txt",
+      "size_bytes": 59358,
+      "size_chars_approx": 59358,
+      "sha256": "f2a948d9ca64a2034eaf8f7a6c6e7486bb9fa9881cdd87dd1964a3a30d75ecb3"
+    },
+    {
+      "filename": "iep_love.txt",
+      "size_bytes": 27901,
+      "size_chars_approx": 27901,
+      "sha256": "773cad0a793d72bf53571ca2fa7fda6f5ae0f3eecfbdc985efed2e4e30dec4a9"
+    },
+    {
+      "filename": "iep_lowe-ej.txt",
+      "size_bytes": 101749,
+      "size_chars_approx": 101749,
+      "sha256": "4d4cffcd966f46a32452a6047e63a137620fb442a8fc8b3f3fc16b95b7dfa768"
+    },
+    {
+      "filename": "iep_lp-argue.txt",
+      "size_bytes": 48902,
+      "size_chars_approx": 48902,
+      "sha256": "810d407aa6f484cbdf66a18bf8a477404f7b6f2d44cd23a92b9fcb267edae262"
+    },
+    {
+      "filename": "iep_lucian-blaga.txt",
+      "size_bytes": 51212,
+      "size_chars_approx": 51212,
+      "sha256": "cb81072cad3293f901004215b3a24fc692d95db4084abc6b0d8a2db101e8a4bf"
+    },
+    {
+      "filename": "iep_luck.txt",
+      "size_bytes": 81306,
+      "size_chars_approx": 81306,
+      "sha256": "f4036d6e4bb81be10e53f3f5be0701f23fdeb2527cb3bec10e4c21fff57f3992"
+    },
+    {
+      "filename": "iep_lucretiu.txt",
+      "size_bytes": 42296,
+      "size_chars_approx": 42296,
+      "sha256": "43b0a148954b2967b3f335aa3ec4b0c3b7001ce658b4fc406d28a421b03174f7"
+    },
+    {
+      "filename": "iep_luther.txt",
+      "size_bytes": 28000,
+      "size_chars_approx": 28000,
+      "sha256": "da3931c6f72155e56952864decba6a3d4504ecf3b25f27f4c9f4f090820055d2"
+    },
+    {
+      "filename": "iep_lyotard.txt",
+      "size_bytes": 100573,
+      "size_chars_approx": 100573,
+      "sha256": "be2e92b87cd3dc0a9ec8fa75d690aea691fe75f259dcc34a0d1c9ac6c22ec1a7"
+    },
+    {
+      "filename": "iep_m-cog-sc.txt",
+      "size_bytes": 85684,
+      "size_chars_approx": 85684,
+      "sha256": "976ce3400bd9e3ca156df5f23012bf6aa4f66c9f3b0a2f003610551827aec75d"
+    },
+    {
+      "filename": "iep_m-p-puni.txt",
+      "size_bytes": 82525,
+      "size_chars_approx": 82525,
+      "sha256": "dc5597d854bb551a5bc4b627048b806d314b8b6a623cde30e3b3ee4a9b960500"
+    },
+    {
+      "filename": "iep_m-quantum-gravity.txt",
+      "size_bytes": 119061,
+      "size_chars_approx": 119061,
+      "sha256": "9cc30db7ba4728c0cbe43a266e60ea4b43fd8908169472d88e237d2a1d5c6e28"
+    },
+    {
+      "filename": "iep_m-struct.txt",
+      "size_bytes": 41040,
+      "size_chars_approx": 41040,
+      "sha256": "6e3fde5d653c82ff89aab38c5942cd30f6ff9b4422b7928c06bf5631020f8813"
+    },
+    {
+      "filename": "iep_mac-over.txt",
+      "size_bytes": 151407,
+      "size_chars_approx": 151407,
+      "sha256": "2c399c0c8ca98f657dccecefa6860d79a881522107130faddab97adccab104fc"
+    },
+    {
+      "filename": "iep_machiave.txt",
+      "size_bytes": 168786,
+      "size_chars_approx": 168786,
+      "sha256": "c86a9e9a0ae489c67997408bba9b41da96046d378e5813ef9011bbca70432c1a"
+    },
+    {
+      "filename": "iep_madhva.txt",
+      "size_bytes": 9523,
+      "size_chars_approx": 9523,
+      "sha256": "01f2d726f9d5b1f4ae193b809bd2b1e8a6fa2ef9ced6545624cb742b6dee7326"
+    },
+    {
+      "filename": "iep_madhyamaka-buddhist-philosophy.txt",
+      "size_bytes": 71428,
+      "size_chars_approx": 71428,
+      "sha256": "25a6eaab9ad898e3f9e25c89ba5d6fe31ca950b61242407bfddb2ef775019b18"
+    },
+    {
+      "filename": "iep_maimon.txt",
+      "size_bytes": 55523,
+      "size_chars_approx": 55523,
+      "sha256": "d1c2005776a0c19e74d40d8309213bc5a3a12a964ea02a8cddeaa4909946bb2e"
+    },
+    {
+      "filename": "iep_maimonid.txt",
+      "size_bytes": 111106,
+      "size_chars_approx": 111106,
+      "sha256": "aa89f66b76bcfebd9c9f0233383354b47909c69f974a48c09556fe6194db4783"
+    },
+    {
+      "filename": "iep_mainteno.txt",
+      "size_bytes": 34630,
+      "size_chars_approx": 34630,
+      "sha256": "b8a46e33f0b25513ee920dc21ecf21434efba46316ca1f2499d93ed8cfb842eb"
+    },
+    {
+      "filename": "iep_malcolm.txt",
+      "size_bytes": 93561,
+      "size_chars_approx": 93561,
+      "sha256": "2f1b31bc03bbf243293974810dfb70ea425a0647bb16b4cc11001c19b5592754"
+    },
+    {
+      "filename": "iep_malebr-r.txt",
+      "size_bytes": 46685,
+      "size_chars_approx": 46685,
+      "sha256": "ba95eede06e8ba1480bbbfdd9dcbd0d46d64c952086a4a03de77b7aba3fab57a"
+    },
+    {
+      "filename": "iep_mandevil.txt",
+      "size_bytes": 46149,
+      "size_chars_approx": 46149,
+      "sha256": "321b2a4e71bcda7bac65e976429ea0012ef649ca4ae05242c093f37696514587"
+    },
+    {
+      "filename": "iep_marcel.txt",
+      "size_bytes": 35761,
+      "size_chars_approx": 35761,
+      "sha256": "2c286eb032f65a1dbae9dd27a61c53d9247f3484f8aed2f39dc244c0545ae4f2"
+    },
+    {
+      "filename": "iep_marcus-aurelius.txt",
+      "size_bytes": 21914,
+      "size_chars_approx": 21914,
+      "sha256": "046621c01e8ea6f80b492099ec3bab3d354fbd3b74c2821ef2a7f82b388cbea0"
+    },
+    {
+      "filename": "iep_margaret-cavendish.txt",
+      "size_bytes": 57942,
+      "size_chars_approx": 57942,
+      "sha256": "2742968b8e7faa4465de365e46ff074f25db9c3e06c30dcb2b1c893666b23ebb"
+    },
+    {
+      "filename": "iep_martin-buber.txt",
+      "size_bytes": 64774,
+      "size_chars_approx": 64774,
+      "sha256": "13d35aabae4384f4c29d9ab93f446a3213de0d8e6f8af84e8a4fed3cb3cd6faa"
+    },
+    {
+      "filename": "iep_mary-astell.txt",
+      "size_bytes": 41468,
+      "size_chars_approx": 41468,
+      "sha256": "4c869b93015c74ff7ca1aacc750053ae41c82bd74c59d23fd8c8a0a271d824a4"
+    },
+    {
+      "filename": "iep_mat-comp.txt",
+      "size_bytes": 94744,
+      "size_chars_approx": 94744,
+      "sha256": "f548da4d5b3bf71b4024b3182b8337d6eb93aeab48d17b28d90be8dca12b20e2"
+    },
+    {
+      "filename": "iep_math-app.txt",
+      "size_bytes": 38206,
+      "size_chars_approx": 38206,
+      "sha256": "c13d79c72983107b7455211b56aa584e003895225e7b33995346c0dcd20f592b"
+    },
+    {
+      "filename": "iep_math-inc.txt",
+      "size_bytes": 40811,
+      "size_chars_approx": 40811,
+      "sha256": "46324cb1adccefb31ecfc52a98301c8837fa08265f6db00b13d8f9140e2492a7"
+    },
+    {
+      "filename": "iep_mathematical-nominalism.txt",
+      "size_bytes": 132443,
+      "size_chars_approx": 132443,
+      "sha256": "cfd102e40e84c8dba5c6823e7465713a2e198649baf0cfea0aaa9e7dd557adbd"
+    },
+    {
+      "filename": "iep_mathfict.txt",
+      "size_bytes": 62093,
+      "size_chars_approx": 62093,
+      "sha256": "ee4e1cae44f2150f51f34987767e3cd83d94de19dafb91f87c2d237ea7f19f0d"
+    },
+    {
+      "filename": "iep_mathplat.txt",
+      "size_bytes": 89064,
+      "size_chars_approx": 89064,
+      "sha256": "7ad10343d96fc05d61240266517e69c6ee0a8cda7e0e047570ddfb3659c97de0"
+    },
+    {
+      "filename": "iep_maurice-blanchot.txt",
+      "size_bytes": 71493,
+      "size_chars_approx": 71493,
+      "sha256": "155ce189810aabdf8172325667325da346a43575c22529635f01eb44778b4bb9"
+    },
+    {
+      "filename": "iep_maurice-blondel.txt",
+      "size_bytes": 76555,
+      "size_chars_approx": 76555,
+      "sha256": "bf0db493c87c2c3a6b3907a2254b7b51b57eda438d9aae3d21d5d5c12afe9f9e"
+    },
+    {
+      "filename": "iep_mead.txt",
+      "size_bytes": 160269,
+      "size_chars_approx": 160269,
+      "sha256": "afb60b1116051aece9b2b64dd3e9b85c70eac0dbad624b018dd4298067e8fa74"
+    },
+    {
+      "filename": "iep_mean-ana.txt",
+      "size_bytes": 78129,
+      "size_chars_approx": 78129,
+      "sha256": "38933511594ec4101531b9c0fb859997844e8c6f823e8fb26dee1f12aa4613f4"
+    },
+    {
+      "filename": "iep_mean-c-s.txt",
+      "size_bytes": 97614,
+      "size_chars_approx": 97614,
+      "sha256": "94e8d6a326e997d1e4713f902566dbcf2a991fb98bded749cb3d0c6f670870ef"
+    },
+    {
+      "filename": "iep_mean-ear.txt",
+      "size_bytes": 80275,
+      "size_chars_approx": 80275,
+      "sha256": "94ebba64fe19d66fe82d17d215310c8d8dd8db816e49ca029d4c5fcf5b677a79"
+    },
+    {
+      "filename": "iep_meaning-and-communication.txt",
+      "size_bytes": 90277,
+      "size_chars_approx": 90277,
+      "sha256": "32850aab53fd03db792e8598bbefaf628ca36306293bf7b650939ed2077ef57d"
+    },
+    {
+      "filename": "iep_medicine.txt",
+      "size_bytes": 72547,
+      "size_chars_approx": 72547,
+      "sha256": "1b552a3b1650d80fa03ab5cacda7c9c7923b8d9e1233c373ad5b11f08b67c9f6"
+    },
+    {
+      "filename": "iep_medieval-theories-of-aesthetics.txt",
+      "size_bytes": 42163,
+      "size_chars_approx": 42163,
+      "sha256": "1220c6a723a07cbde271bd701ab30c19dbbf992dc9d66a71a1176af528929e90"
+    },
+    {
+      "filename": "iep_mencius.txt",
+      "size_bytes": 36311,
+      "size_chars_approx": 36311,
+      "sha256": "98394738ef91ae07e82fba570b63b1641b1c3a46775bde664cd31144b850dd86"
+    },
+    {
+      "filename": "iep_meno-2.txt",
+      "size_bytes": 57713,
+      "size_chars_approx": 57713,
+      "sha256": "c5f40058108fcf25a851abc3bb6c15fe3e8cfe17c7a1cfa8ad192dba5711ded1"
+    },
+    {
+      "filename": "iep_mental-c.txt",
+      "size_bytes": 80208,
+      "size_chars_approx": 80208,
+      "sha256": "3b0e964c2d7df750514cefd187be0ced473fb21ee92c70ecf1b2b4663c3c9b79"
+    },
+    {
+      "filename": "iep_mental-i.txt",
+      "size_bytes": 98647,
+      "size_chars_approx": 98647,
+      "sha256": "25b744a462970aad48a2658a2f1cfd50b9cf80f6f25ae08bb9c013830467040c"
+    },
+    {
+      "filename": "iep_merleau.txt",
+      "size_bytes": 94888,
+      "size_chars_approx": 94888,
+      "sha256": "bb34907f01f91c48db9b11f689059816fc6a4e29fb905d45e5e2ca6f68eec395"
+    },
+    {
+      "filename": "iep_met-phen.txt",
+      "size_bytes": 72456,
+      "size_chars_approx": 72456,
+      "sha256": "5f71d6629c5b2f269840b2e9933f085a7838a40c81978e2b91ad5b0786bc4da5"
+    },
+    {
+      "filename": "iep_met-scie.txt",
+      "size_bytes": 105145,
+      "size_chars_approx": 105145,
+      "sha256": "0243513d9b07526020459557fa0ddad211f21b2b213aa86c94558ed8b8fae7f8"
+    },
+    {
+      "filename": "iep_meta-epi.txt",
+      "size_bytes": 123060,
+      "size_chars_approx": 123060,
+      "sha256": "7acc6624f0e862115322b9b4b9b5fa0de98a33dff11d0ca045bac43d1f75ecc0"
+    },
+    {
+      "filename": "iep_metaethi.txt",
+      "size_bytes": 103180,
+      "size_chars_approx": 103180,
+      "sha256": "0eb92732a595c1f6b31c39d99be0a5e1f6f9860faedfa399f2324382ac4f1cbf"
+    },
+    {
+      "filename": "iep_metaphysics-of-nothing.txt",
+      "size_bytes": 55772,
+      "size_chars_approx": 55772,
+      "sha256": "4577bb2894b8b4ec961f1a2a2b2ff2eb233884facb3e9a7e30164e0da5f121fc"
+    },
+    {
+      "filename": "iep_meyerson.txt",
+      "size_bytes": 21542,
+      "size_chars_approx": 21542,
+      "sha256": "cdf434cc3481316dec547e4b98787a25e3800b2cc99970871afd261991f5de94"
+    },
+    {
+      "filename": "iep_michael-dummett.txt",
+      "size_bytes": 72868,
+      "size_chars_approx": 72868,
+      "sha256": "f6b26abd21aea5f8302e91b36133ed3f9d88a314bfb78ab0a629eddcea640568"
+    },
+    {
+      "filename": "iep_middlekn.txt",
+      "size_bytes": 35490,
+      "size_chars_approx": 35490,
+      "sha256": "9fc5e905c99264ae228eab20c083943e8bd073dfaa61519c09ede54a75ff2076"
+    },
+    {
+      "filename": "iep_midplato.txt",
+      "size_bytes": 64419,
+      "size_chars_approx": 64419,
+      "sha256": "f8791294efd7f5790c9ab02105f559981e7e761d9c161787f6883869d2aece5a"
+    },
+    {
+      "filename": "iep_mill-eth.txt",
+      "size_bytes": 74422,
+      "size_chars_approx": 74422,
+      "sha256": "600c333253a014849849a43e911d34449758947e25edd33cd667afc3353b921a"
+    },
+    {
+      "filename": "iep_milljs.txt",
+      "size_bytes": 83836,
+      "size_chars_approx": 83836,
+      "sha256": "522605f4dd6e693807750b2afcea3377bdd2a0785d803367a7205e0fb456d1d4"
+    },
+    {
+      "filename": "iep_mind-and-the-causal-exclusion-problem.txt",
+      "size_bytes": 93032,
+      "size_chars_approx": 93032,
+      "sha256": "3f29cd0160ae06d38fb34d2f282f6e25f584178f5a315083d74964ac8a37f6a0"
+    },
+    {
+      "filename": "iep_minucius.txt",
+      "size_bytes": 40918,
+      "size_chars_approx": 40918,
+      "sha256": "a9f45a425a07f77f37058005e941518a4384ecce03dfe034079e617a8989f571"
+    },
+    {
+      "filename": "iep_miracles.txt",
+      "size_bytes": 82760,
+      "size_chars_approx": 82760,
+      "sha256": "6edd0f196781363cdcaaf5591cbf67e58aceed8a024c9853151cb1febb95efd1"
+    },
+    {
+      "filename": "iep_mitchell.txt",
+      "size_bytes": 64855,
+      "size_chars_approx": 64855,
+      "sha256": "ad197556e7ab7d2c65e10b1428fe3d608476e5e31c41ea1a709ff3016ea575a3"
+    },
+    {
+      "filename": "iep_mod-illu.txt",
+      "size_bytes": 65122,
+      "size_chars_approx": 65122,
+      "sha256": "0f05d5df1c8db0146fc10164535c7f9a4755d14ea58a2a6c1a156b0f0f8aa10a"
+    },
+    {
+      "filename": "iep_mod-meta.txt",
+      "size_bytes": 68570,
+      "size_chars_approx": 68570,
+      "sha256": "7f5ab2ee74796f24630d1aa3edfb82e321c0bdaf9a2705815bea79ab7764b859"
+    },
+    {
+      "filename": "iep_modal-lo.txt",
+      "size_bytes": 104917,
+      "size_chars_approx": 104917,
+      "sha256": "786f5e873c7fc290b0b0df0b61e5ac415e89e7da493c379b8b30813b9b405637"
+    },
+    {
+      "filename": "iep_models.txt",
+      "size_bytes": 28326,
+      "size_chars_approx": 28326,
+      "sha256": "9b0cc7502da4f015e1c14f7b568dec9c652fd0517e3b1ebb09434b8c1d0d99ac"
+    },
+    {
+      "filename": "iep_modern-chinese-philosophy.txt",
+      "size_bytes": 56827,
+      "size_chars_approx": 56827,
+      "sha256": "b9ef3a27789b833770bade4d90cb87efd4f7ff609fbdd20a6c0069a8c16c8adc"
+    },
+    {
+      "filename": "iep_modern-morality-ancient-ethics.txt",
+      "size_bytes": 67357,
+      "size_chars_approx": 67357,
+      "sha256": "399ccfddee41ff2c3287098ec7e32a4227257207f0056840ec6d461f3b1925a5"
+    },
+    {
+      "filename": "iep_molyneux.txt",
+      "size_bytes": 43741,
+      "size_chars_approx": 43741,
+      "sha256": "34d888aa0ee52fba4f35fe39e6c8ae4b26defdae2406738cf50757ad58d57b0b"
+    },
+    {
+      "filename": "iep_montaigne.txt",
+      "size_bytes": 83317,
+      "size_chars_approx": 83317,
+      "sha256": "89c6e6cb9f934879d74d79553ca662dff808d78fec091ca78f33c9cfe500dc51"
+    },
+    {
+      "filename": "iep_moore.txt",
+      "size_bytes": 85608,
+      "size_chars_approx": 85608,
+      "sha256": "673e4e7f81bd5d7cb246dc506a27f76e00e9e1a746fafff544d6dbfab4194072"
+    },
+    {
+      "filename": "iep_mor-epis.txt",
+      "size_bytes": 52282,
+      "size_chars_approx": 52282,
+      "sha256": "63c12eae974edb0841cb840e3fa5ab23183766acd779e7c2e8fc6ce3978c4fd8"
+    },
+    {
+      "filename": "iep_moral-ch.txt",
+      "size_bytes": 43664,
+      "size_chars_approx": 43664,
+      "sha256": "e87214b1085f97c2f54a1b68d46c8f4e0369120a7e4152aefeb523a9fe109e1d"
+    },
+    {
+      "filename": "iep_moral-egalitarianism.txt",
+      "size_bytes": 50153,
+      "size_chars_approx": 50153,
+      "sha256": "7fbb7fb77f850749366e77ca9c57cf52ca57ff6b837b4689bd28c2eebc75b5f9"
+    },
+    {
+      "filename": "iep_moral-perception.txt",
+      "size_bytes": 67663,
+      "size_chars_approx": 67663,
+      "sha256": "9a6be3a925b2b57a7771a287a9916426c8fc975412d199f68ef52e0050b9a66c"
+    },
+    {
+      "filename": "iep_moral-re.txt",
+      "size_bytes": 82125,
+      "size_chars_approx": 82125,
+      "sha256": "c73fadbc9ff6cd50fdd383624770018331c331952ef8df5199e9fd7178663335"
+    },
+    {
+      "filename": "iep_moraldev.txt",
+      "size_bytes": 77547,
+      "size_chars_approx": 77547,
+      "sha256": "12aa75c8a8b99eae49c0973f12b40e348c7c7f6a5781444611ebf65f8f629488"
+    },
+    {
+      "filename": "iep_moralluc.txt",
+      "size_bytes": 48813,
+      "size_chars_approx": 48813,
+      "sha256": "9977ffd93165873f0870fb1e33a0edae096aa82dec9aa6c0980d9c75d4761e9e"
+    },
+    {
+      "filename": "iep_moralrea.txt",
+      "size_bytes": 78550,
+      "size_chars_approx": 78550,
+      "sha256": "9f5fc38c34372caef69edd2221c61ad1493d34aae4839740ffcd42c08149c300"
+    },
+    {
+      "filename": "iep_morlpat.txt",
+      "size_bytes": 49534,
+      "size_chars_approx": 49534,
+      "sha256": "af2363f49268efde12f90741f0b24e4e85fe00e9640fc9ed1dcf7e7802fe8e52"
+    },
+    {
+      "filename": "iep_mozi.txt",
+      "size_bytes": 51464,
+      "size_chars_approx": 51464,
+      "sha256": "4581ce956858ec7b84d04bec45ec91b863fbe7c66feaf24d720969aa58712a10"
+    },
+    {
+      "filename": "iep_mult-rea.txt",
+      "size_bytes": 107247,
+      "size_chars_approx": 107247,
+      "sha256": "91a08ea20e648c96c387a1fd11aa385aed4daa163c634a09ee0839dd670b1686"
+    },
+    {
+      "filename": "iep_multicul.txt",
+      "size_bytes": 105814,
+      "size_chars_approx": 105814,
+      "sha256": "f3d95a7bd3e117cfaae6f1029220c6d2387473e303ba2f2509598b734022eed6"
+    },
+    {
+      "filename": "iep_music-an.txt",
+      "size_bytes": 84674,
+      "size_chars_approx": 84674,
+      "sha256": "2f7d39de69932422b726edadeb851a9daa9f4441c6f418b6f4e77c3309685749"
+    },
+    {
+      "filename": "iep_music-sj.txt",
+      "size_bytes": 40257,
+      "size_chars_approx": 40257,
+      "sha256": "1690e5b293fb97a7584f22047be24a74efee22db7b08c2da92c63108f5307a2d"
+    },
+    {
+      "filename": "iep_musonius.txt",
+      "size_bytes": 28075,
+      "size_chars_approx": 28075,
+      "sha256": "0b42ed113377693c6977cb5117ac996ad724ed30d576312f03db1d5952020fca"
+    },
+    {
+      "filename": "iep_n-atheis.txt",
+      "size_bytes": 30365,
+      "size_chars_approx": 30365,
+      "sha256": "2a01c0fd7ce75059da84ce11f0260201f0e94d165daa64830e8e30fafeae4f13"
+    },
+    {
+      "filename": "iep_nagarjun.txt",
+      "size_bytes": 75773,
+      "size_chars_approx": 75773,
+      "sha256": "6ec86728c6df1399c87913aa95cf56003c454fcd8d152eba9d615e21ca861dd9"
+    },
+    {
+      "filename": "iep_nancy.txt",
+      "size_bytes": 42059,
+      "size_chars_approx": 42059,
+      "sha256": "1467209370c55107b2485bce4c39c7ad3ee32ef386be3ea279696a04ddbedae8"
+    },
+    {
+      "filename": "iep_nat-epis.txt",
+      "size_bytes": 35706,
+      "size_chars_approx": 35706,
+      "sha256": "fdf8ac6102689b9c36f459b020adb25cc96d418dace3a1486590694ff7a3abe1"
+    },
+    {
+      "filename": "iep_nat-kind.txt",
+      "size_bytes": 99974,
+      "size_chars_approx": 99974,
+      "sha256": "e7cde2a1ac54361fcedfce5626ebc13ffdf183023b154e64430115fb38213c87"
+    },
+    {
+      "filename": "iep_natlaw.txt",
+      "size_bytes": 44157,
+      "size_chars_approx": 44157,
+      "sha256": "f00ec955a12bceb38b794c40c7d7d871af32189864b64f3da5aeacfd4c07677d"
+    },
+    {
+      "filename": "iep_natural-deduction.txt",
+      "size_bytes": 53413,
+      "size_chars_approx": 53413,
+      "sha256": "b291e248291c20f5080c354a5382661d04cecc3346603f8c9e52de66c3c6038b"
+    },
+    {
+      "filename": "iep_naturali.txt",
+      "size_bytes": 55738,
+      "size_chars_approx": 55738,
+      "sha256": "52066a1c4d606904d199d13ef68028c62366fb30fb5ad5ee5a199033b9779352"
+    },
+    {
+      "filename": "iep_neo-confucian-philosophy.txt",
+      "size_bytes": 70313,
+      "size_chars_approx": 70313,
+      "sha256": "1d3cc798690424562b23396149ecd3f01f8f03ba1126b0c2bc6f55e69275f814"
+    },
+    {
+      "filename": "iep_neo-kant.txt",
+      "size_bytes": 69751,
+      "size_chars_approx": 69751,
+      "sha256": "0676243dbaca563411c91a8da1daba590411d6ae5bf893c4c825887482051f35"
+    },
+    {
+      "filename": "iep_neocolon.txt",
+      "size_bytes": 69449,
+      "size_chars_approx": 69449,
+      "sha256": "49cbfed3ecdc7ca974211917bac0595ca71dc20a7a5c32b03e26b06e246c4ba2"
+    },
+    {
+      "filename": "iep_neoplato.txt",
+      "size_bytes": 55480,
+      "size_chars_approx": 55480,
+      "sha256": "122d225810e037d1a5349f563b95302deff1f92d05691f82020737bb2c37f53e"
+    },
+    {
+      "filename": "iep_neostoic.txt",
+      "size_bytes": 23144,
+      "size_chars_approx": 23144,
+      "sha256": "cf3b10507c6ae130a7f6bb90e91943684607243f4847cee87dd7a2d228eb5d8e"
+    },
+    {
+      "filename": "iep_new-atheism.txt",
+      "size_bytes": 29842,
+      "size_chars_approx": 29842,
+      "sha256": "e90d3bc0fcdf4cd22815039c36fe1bf935aaa7032bf36d68e1ee59d4c7e037d3"
+    },
+    {
+      "filename": "iep_nicholas.txt",
+      "size_bytes": 60357,
+      "size_chars_approx": 60357,
+      "sha256": "1c82bd431467405eff7f652e0b03c4f919a9901a56bf2956f963973c3d1c6756"
+    },
+    {
+      "filename": "iep_niet-his.txt",
+      "size_bytes": 59407,
+      "size_chars_approx": 59407,
+      "sha256": "ead085d4258954f4fb1beed2b7e337dc759d70c01d553b30b35fd2b6f205fa79"
+    },
+    {
+      "filename": "iep_nietzsch.txt",
+      "size_bytes": 142032,
+      "size_chars_approx": 142032,
+      "sha256": "6f2811b9ff0a94cd9f5628b75fe0ef6d406b3cb14c78dbd91de72fc718944b55"
+    },
+    {
+      "filename": "iep_nietzsches-ethics.txt",
+      "size_bytes": 73089,
+      "size_chars_approx": 73089,
+      "sha256": "40dd2f6ffd23b627e17f9e1c0e5c2e3f8b0083ca5f36048749fb7ef6c789b8a6"
+    },
+    {
+      "filename": "iep_nihilism.txt",
+      "size_bytes": 20084,
+      "size_chars_approx": 20084,
+      "sha256": "6e59258157feb7fc8cfcfa5b749e5d7f446f3679e328586f847baccc2dd0ee99"
+    },
+    {
+      "filename": "iep_non-cogn.txt",
+      "size_bytes": 49349,
+      "size_chars_approx": 49349,
+      "sha256": "4be6c28e3045a2352d01f07f98e8069fac12f3e3c5c1adde6dca1b2780f802b0"
+    },
+    {
+      "filename": "iep_normative-autonomy.txt",
+      "size_bytes": 75345,
+      "size_chars_approx": 75345,
+      "sha256": "8751c8550f0172208647ccf32caf21e2504ad28bf3d03ab41e887407604e6faf"
+    },
+    {
+      "filename": "iep_novalis.txt",
+      "size_bytes": 57973,
+      "size_chars_approx": 57973,
+      "sha256": "891b6d040deb536268e6b650f2c65852eb67d4f3da3e02673fd499c261803d4d"
+    },
+    {
+      "filename": "iep_noz-poli.txt",
+      "size_bytes": 60739,
+      "size_chars_approx": 60739,
+      "sha256": "2b2c01f6251dac9acd4fb33047e31e7cd9e25e4ad9dc6a117030f3f9f5a9059c"
+    },
+    {
+      "filename": "iep_nozick.txt",
+      "size_bytes": 38992,
+      "size_chars_approx": 38992,
+      "sha256": "09f53f468ee47d5452df37898a9452a8e4779c74213cd166f0096b081b0fe6cf"
+    },
+    {
+      "filename": "iep_nyaya.txt",
+      "size_bytes": 57014,
+      "size_chars_approx": 57014,
+      "sha256": "1a2dcd19606c627fb4871bd2f4cd4be007de95c97a7205869c5debd1370f8550"
+    },
+    {
+      "filename": "iep_o-theism.txt",
+      "size_bytes": 50360,
+      "size_chars_approx": 50360,
+      "sha256": "956813069eb4d786cf8f255706156dffb492f94ef5de431504b35b051d7528f9"
+    },
+    {
+      "filename": "iep_objectiv.txt",
+      "size_bytes": 33398,
+      "size_chars_approx": 33398,
+      "sha256": "120f74112f662f30c7b473459d1eaeb117da855d86016202d21d2e211e072592"
+    },
+    {
+      "filename": "iep_occasion.txt",
+      "size_bytes": 72158,
+      "size_chars_approx": 72158,
+      "sha256": "c46b8e90702729bd17b1c7681e3c0450883c00471c5eef4d257551db91e4247a"
+    },
+    {
+      "filename": "iep_ockham.txt",
+      "size_bytes": 75106,
+      "size_chars_approx": 75106,
+      "sha256": "6cead8022d5b66fcd156305db505cf88812e2578cd83ae34e3bdfbfcb439d507"
+    },
+    {
+      "filename": "iep_omnipote.txt",
+      "size_bytes": 48174,
+      "size_chars_approx": 48174,
+      "sha256": "e9784339d0f1a9f69a06d0505b80ab60b2cd4868340c515474c6fe88cde1774b"
+    },
+    {
+      "filename": "iep_omnisci.txt",
+      "size_bytes": 96991,
+      "size_chars_approx": 96991,
+      "sha256": "cdd6e84935dfdb84a0c84917752b650653eecadb0c4f0a972d5bcab2073cf3c3"
+    },
+    {
+      "filename": "iep_ord-lang.txt",
+      "size_bytes": 126287,
+      "size_chars_approx": 126287,
+      "sha256": "0fcb595356ca4ee8affa7e5456daf5c299e3bf8e2e66c358ce9bc4f216da1cc4"
+    },
+    {
+      "filename": "iep_origen-of-alexandria.txt",
+      "size_bytes": 37770,
+      "size_chars_approx": 37770,
+      "sha256": "330bc8e6af63a2e8a973022bf6fd72f1cb016175e01ad125720fea4470268c9d"
+    },
+    {
+      "filename": "iep_p-macint.txt",
+      "size_bytes": 91649,
+      "size_chars_approx": 91649,
+      "sha256": "fb6e15a811757f57acb34a0f51e488a9a733fc16af3c6f3761cb16c79b821788"
+    },
+    {
+      "filename": "iep_pacifism.txt",
+      "size_bytes": 33656,
+      "size_chars_approx": 33656,
+      "sha256": "51eadf8e8eae9bb9af351efbd99e20a91b2d40367f3f40c05e5fac3ae406568b"
+    },
+    {
+      "filename": "iep_panpsych.txt",
+      "size_bytes": 82650,
+      "size_chars_approx": 82650,
+      "sha256": "0e125c2aad4fbf39a35cdeb5d1ef09702f1a47b745be3f4e31898552941e8415"
+    },
+    {
+      "filename": "iep_par-log.txt",
+      "size_bytes": 61707,
+      "size_chars_approx": 61707,
+      "sha256": "6d9f14ebb4cca4906e2e27476e481f35e38af8192cdd5e94970ac47a72ac593b"
+    },
+    {
+      "filename": "iep_par-rusm.txt",
+      "size_bytes": 23610,
+      "size_chars_approx": 23610,
+      "sha256": "2f519b1522cb56723236e2604726cd4352307dc2f5f677178835b67009057c9a"
+    },
+    {
+      "filename": "iep_par-russ.txt",
+      "size_bytes": 19103,
+      "size_chars_approx": 19103,
+      "sha256": "ad9365e9147a9203352e0e0d7372edbbb00190d8cb4a43dfbd6a68e819c1111a"
+    },
+    {
+      "filename": "iep_para-log.txt",
+      "size_bytes": 54776,
+      "size_chars_approx": 54776,
+      "sha256": "6068b37ba8322e3610214c58aab3c7abea9f544c4158f16dc1afc13d5cc80589"
+    },
+    {
+      "filename": "iep_paracase.txt",
+      "size_bytes": 58079,
+      "size_chars_approx": 58079,
+      "sha256": "f484b995a218f11411799ba9608f4d8983b7705a75726ec471a06c0a06f80dbf"
+    },
+    {
+      "filename": "iep_paradox-of-hedonism.txt",
+      "size_bytes": 44096,
+      "size_chars_approx": 44096,
+      "sha256": "c0abe3ffc1275a5798eb232446fe16eb79a7b604b2d549db01bac75e7771f049"
+    },
+    {
+      "filename": "iep_parentri.txt",
+      "size_bytes": 68675,
+      "size_chars_approx": 68675,
+      "sha256": "2dbc315e8ca24922eabab8120915c87fd64021930ab5cce4b1946d2270c75955"
+    },
+    {
+      "filename": "iep_parmenid.txt",
+      "size_bytes": 131155,
+      "size_chars_approx": 131155,
+      "sha256": "6aa9b50f8615f3f5f714501fe025125e1cfd44529013a3bea25265bed8686d5c"
+    },
+    {
+      "filename": "iep_pasc-wag.txt",
+      "size_bytes": 22217,
+      "size_chars_approx": 22217,
+      "sha256": "36d0ba40ac054fc90a2229f7767e1a6534fd3cd722378ec93e39ecabfc78c7f9"
+    },
+    {
+      "filename": "iep_pascal-b.txt",
+      "size_bytes": 150089,
+      "size_chars_approx": 150089,
+      "sha256": "fa80a4ad07bd595a160f8bf09978d5086477e4e140525a6a850ae6be8450acdf"
+    },
+    {
+      "filename": "iep_pascal-j.txt",
+      "size_bytes": 51196,
+      "size_chars_approx": 51196,
+      "sha256": "d3f235d80219ef662dbd3c5242dc987edd25538349b07a6b78abafc92e15f576"
+    },
+    {
+      "filename": "iep_peace.txt",
+      "size_bytes": 65260,
+      "size_chars_approx": 65260,
+      "sha256": "8980877790128bfe5e7189f77965f827ef2a9e1c6d6bece0cf1b67541ff918d2"
+    },
+    {
+      "filename": "iep_peir-log.txt",
+      "size_bytes": 102167,
+      "size_chars_approx": 102167,
+      "sha256": "8f93009a1ffa990d0d4405d809edb57a8be6d1c4212c8449200b6d37fc11a60d"
+    },
+    {
+      "filename": "iep_peirce-charles-sanders.txt",
+      "size_bytes": 29342,
+      "size_chars_approx": 29342,
+      "sha256": "8a876638de9cce111ad0aa865bb44696c5fa96c3e327f0e9b16998c552002ce0"
+    },
+    {
+      "filename": "iep_peircear.txt",
+      "size_bytes": 37271,
+      "size_chars_approx": 37271,
+      "sha256": "d9e5e41330c552e70d3d97eb1e135c6bbad63db7eca6bf76495c35db59460b82"
+    },
+    {
+      "filename": "iep_peircepr.txt",
+      "size_bytes": 40379,
+      "size_chars_approx": 40379,
+      "sha256": "ae14c637d9fa6ac007395abd4c2a39394ca2f0ec932a2de3ffd94e0039f2eb54"
+    },
+    {
+      "filename": "iep_pejorati.txt",
+      "size_bytes": 63501,
+      "size_chars_approx": 63501,
+      "sha256": "093b1e309432abf34525c19e54487f363c41285535028cb3cf16f17a64f5a6c8"
+    },
+    {
+      "filename": "iep_per-time.txt",
+      "size_bytes": 132864,
+      "size_chars_approx": 132864,
+      "sha256": "22225578a1c53fcdb873634f99a28ec2949ad9027e68b5fe08b402a4fb8c1d31"
+    },
+    {
+      "filename": "iep_perc-obj.txt",
+      "size_bytes": 51811,
+      "size_chars_approx": 51811,
+      "sha256": "09fa916c920f33946904c9662a402aff01e2e2925a1adf8373f3dd4538c978e9"
+    },
+    {
+      "filename": "iep_person-i.txt",
+      "size_bytes": 69553,
+      "size_chars_approx": 69553,
+      "sha256": "a6344046d7eef0bb423478e6689b3e6fc4f83ba9da2341675b510c2b15f0bc47"
+    },
+    {
+      "filename": "iep_personal.txt",
+      "size_bytes": 68222,
+      "size_chars_approx": 68222,
+      "sha256": "9ebc7f0fbe41135e87eec1152da1acb82c9f4aee95ec6272289d8610f51b0b25"
+    },
+    {
+      "filename": "iep_persp-sc.txt",
+      "size_bytes": 82700,
+      "size_chars_approx": 82700,
+      "sha256": "536468f38df443d290334ea086eb3d80357c69f709da5b5dec30a0d79cebfa42"
+    },
+    {
+      "filename": "iep_phaedo.txt",
+      "size_bytes": 48346,
+      "size_chars_approx": 48346,
+      "sha256": "af4cb15760eb8c93839351f9e84476492d12bae3d1296cad1a82fe91a78f39cd"
+    },
+    {
+      "filename": "iep_phe-time.txt",
+      "size_bytes": 84552,
+      "size_chars_approx": 84552,
+      "sha256": "52cc45e6b6e3df13378f76554c19bb78056b7994c13d2fc8a2413957fd1a27d4"
+    },
+    {
+      "filename": "iep_phen-con.txt",
+      "size_bytes": 47946,
+      "size_chars_approx": 47946,
+      "sha256": "a0d0a6b5b76deefd73035b6ab8f0ab33178b7b51ac0972f9c2e35febf87b3860"
+    },
+    {
+      "filename": "iep_phen-psy.txt",
+      "size_bytes": 61375,
+      "size_chars_approx": 61375,
+      "sha256": "8756e03cf1028be56d6a368a331ae2e347c2f9be9c639509ee3b91edc620d3c8"
+    },
+    {
+      "filename": "iep_phen-red.txt",
+      "size_bytes": 93554,
+      "size_chars_approx": 93554,
+      "sha256": "138d871995853fefd8465d2072deb8b269085dd41ae8c2e8dae11b3ff14ead83"
+    },
+    {
+      "filename": "iep_phenom.txt",
+      "size_bytes": 68242,
+      "size_chars_approx": 68242,
+      "sha256": "c2a19fd6c5f41ca33559fe8b0fe132513c73d22b76b28798bb58e9a1088549d0"
+    },
+    {
+      "filename": "iep_phenomsc.txt",
+      "size_bytes": 46134,
+      "size_chars_approx": 46134,
+      "sha256": "abc82fc68f84864fbe585b01868c466a73603ae867baffe1df8046a9e797ca72"
+    },
+    {
+      "filename": "iep_phi-film.txt",
+      "size_bytes": 37209,
+      "size_chars_approx": 37209,
+      "sha256": "c2269db559ff59d7d1e55aff412c0cec47908f6cdd8c39a6e36c90af0ea9cdc1"
+    },
+    {
+      "filename": "iep_philo.txt",
+      "size_bytes": 74526,
+      "size_chars_approx": 74526,
+      "sha256": "96dc4f74f09ceff6cf6f4d0db13cae0cffef8f953bd29884189e7addc3810968"
+    },
+    {
+      "filename": "iep_philodem.txt",
+      "size_bytes": 85072,
+      "size_chars_approx": 85072,
+      "sha256": "53cfbbdc69d9473192f90aa660bb565de2f1f98d575612c83e0b8847301356bd"
+    },
+    {
+      "filename": "iep_philosophy-of-anthropology.txt",
+      "size_bytes": 78386,
+      "size_chars_approx": 78386,
+      "sha256": "9fae3f7563eb333f8811c69276542f94b25c747f8b5910316432d3b269d371e6"
+    },
+    {
+      "filename": "iep_philosophy-of-architecture.txt",
+      "size_bytes": 103545,
+      "size_chars_approx": 103545,
+      "sha256": "8a24579ac79aabee5d8be65a62860eb7a9f8cf11cda0c3e8d3393290ee1f34eb"
+    },
+    {
+      "filename": "iep_philosophy-of-biology.txt",
+      "size_bytes": 167028,
+      "size_chars_approx": 167028,
+      "sha256": "94b57e08da50147c4943f2d74f705b3af6ce8c962957f6427fdc7727a03ef66f"
+    },
+    {
+      "filename": "iep_philosophy-of-climate-science.txt",
+      "size_bytes": 100919,
+      "size_chars_approx": 100919,
+      "sha256": "29efedca97c79bbb5e8d473ebf76025ba41a76b9b1afc08c72a2e6faa4b8900d"
+    },
+    {
+      "filename": "iep_pierre-bayle.txt",
+      "size_bytes": 54398,
+      "size_chars_approx": 54398,
+      "sha256": "f1bc3c6ebc62f551e2ffb0e85976e7df01b0f3fb613a9d11a253317fc3be4d66"
+    },
+    {
+      "filename": "iep_pla-laws.txt",
+      "size_bytes": 80807,
+      "size_chars_approx": 80807,
+      "sha256": "46161ce8347da174c396da7b6eb19ce670f9b4955acde0cce633aca374cbc478"
+    },
+    {
+      "filename": "iep_pla-thei.txt",
+      "size_bytes": 48459,
+      "size_chars_approx": 48459,
+      "sha256": "ecf3484cf896cfcad55511bfa1da393931e899de3bed3bcf7cd7f81b50e72d7e"
+    },
+    {
+      "filename": "iep_plato-academy.txt",
+      "size_bytes": 40784,
+      "size_chars_approx": 40784,
+      "sha256": "b7615b2cd77e58841e4ce019b5279d03b8cdf00ec0c988d8167597f30841d607"
+    },
+    {
+      "filename": "iep_plato.txt",
+      "size_bytes": 62522,
+      "size_chars_approx": 62522,
+      "sha256": "2eb4b8d0404c9818b85f2df8d0d72758525c2111e3ef802055f83e7129c4d63e"
+    },
+    {
+      "filename": "iep_platoorg.txt",
+      "size_bytes": 54757,
+      "size_chars_approx": 54757,
+      "sha256": "a27394a653738b4af5d0bfbc7c435c33a53799c0abdfc0fdd464aa7080eac3bd"
+    },
+    {
+      "filename": "iep_platopol.txt",
+      "size_bytes": 50518,
+      "size_chars_approx": 50518,
+      "sha256": "b334b22d5c4313c16fb68f7277b8b321be1e208c27217cc503ce35256c241dc5"
+    },
+    {
+      "filename": "iep_plot-v-e.txt",
+      "size_bytes": 54497,
+      "size_chars_approx": 54497,
+      "sha256": "5a6099d52842aca3fc986b94d3cb6a4b3d722751486dc98175fbc32dbf95d229"
+    },
+    {
+      "filename": "iep_plotinus.txt",
+      "size_bytes": 71746,
+      "size_chars_approx": 71746,
+      "sha256": "a241df5c3cfcecabfc9f74ec390184cc69382ca325b77e410665568d38d325ba"
+    },
+    {
+      "filename": "iep_plur-tru.txt",
+      "size_bytes": 63798,
+      "size_chars_approx": 63798,
+      "sha256": "4b1b94435d0d2482473a049bd39a93c905409070a56ca0adb3353a75617cb52f"
+    },
+    {
+      "filename": "iep_poi-math.txt",
+      "size_bytes": 48114,
+      "size_chars_approx": 48114,
+      "sha256": "31d9f6119a7919ed08b1923b312bc67f6c32128f6c08bb50f9b555f3c895f019"
+    },
+    {
+      "filename": "iep_poincare.txt",
+      "size_bytes": 27726,
+      "size_chars_approx": 27726,
+      "sha256": "829b70db65f7c30e2c7641920181db41d054cd583c6a934eef7ebe91460866a3"
+    },
+    {
+      "filename": "iep_pol-rev.txt",
+      "size_bytes": 86581,
+      "size_chars_approx": 86581,
+      "sha256": "0fa71066b352f22915355847427303b6949baf20931cc75f3a9379aa7d7055f9"
+    },
+    {
+      "filename": "iep_poli-obl.txt",
+      "size_bytes": 48060,
+      "size_chars_approx": 48060,
+      "sha256": "d3f3593f38be09ac0185501618c0eb9540bc1ebeefd49c1063cf6ed4e6e001aa"
+    },
+    {
+      "filename": "iep_political-constructivism.txt",
+      "size_bytes": 65027,
+      "size_chars_approx": 65027,
+      "sha256": "5688ebf2e628548106d1c8af9eb7d8df547de0b3a4e04e9929f3cceb7d6b7e10"
+    },
+    {
+      "filename": "iep_polphil.txt",
+      "size_bytes": 59264,
+      "size_chars_approx": 59264,
+      "sha256": "d103909a6acc9497b654b2e8d5836029dca31b254cefcbc3f67a41bcca15834b"
+    },
+    {
+      "filename": "iep_polreal.txt",
+      "size_bytes": 13184,
+      "size_chars_approx": 13184,
+      "sha256": "c2c0b11db0470267d09a4b05428e1273179d23cca2cf782e9badfbb7d11ddfbf"
+    },
+    {
+      "filename": "iep_pop-sci.txt",
+      "size_bytes": 71134,
+      "size_chars_approx": 71134,
+      "sha256": "a6edc318dc51ab9ebb2d0cc9fa8588bb31547b7a09a119b499dfcb0c19ef696f"
+    },
+    {
+      "filename": "iep_popp-pol.txt",
+      "size_bytes": 62045,
+      "size_chars_approx": 62045,
+      "sha256": "e68c199c901fab2f5035d7de132502c57422feb8ea5a619e19bd60619a73ee46"
+    },
+    {
+      "filename": "iep_portroyl.txt",
+      "size_bytes": 94817,
+      "size_chars_approx": 94817,
+      "sha256": "4aaf0b4e0bd41d61ea86d1808470be0cc07d696a55bdcbbe9abbe8d26b14196c"
+    },
+    {
+      "filename": "iep_postmodernism.txt",
+      "size_bytes": 76545,
+      "size_chars_approx": 76545,
+      "sha256": "8065812e25a7b48a2cbebb10aa2b3c71c4d9221af35a8f35fb07a70dfed27c6f"
+    },
+    {
+      "filename": "iep_prac-med.txt",
+      "size_bytes": 79382,
+      "size_chars_approx": 79382,
+      "sha256": "f61f92f0aa182c686f0217abe3e51d12dd875591bc0776e3e8e5c039033add16"
+    },
+    {
+      "filename": "iep_pragmati.txt",
+      "size_bytes": 34168,
+      "size_chars_approx": 34168,
+      "sha256": "0bd6b4541cfd572d33886258b01f58f3bf1f3a806e33dbcb6fd7ec4668546389"
+    },
+    {
+      "filename": "iep_pre-caut.txt",
+      "size_bytes": 105888,
+      "size_chars_approx": 105888,
+      "sha256": "509a42284a4536515f7895f5e4a588bb9cf0038923ebf4976a3fc6f41926c21f"
+    },
+    {
+      "filename": "iep_predicative-and-impredicative-definitions.txt",
+      "size_bytes": 18437,
+      "size_chars_approx": 18437,
+      "sha256": "8a5f04fe6e2e680691088b7e40407c3e8e1f9a03ac19e2046e6f1bcc267c6210"
+    },
+    {
+      "filename": "iep_presocra.txt",
+      "size_bytes": 95780,
+      "size_chars_approx": 95780,
+      "sha256": "b9a973a33cd9ae4b3ab198ab756a3f3034b17f96015b3d39b5ddc1fd2934bee9"
+    },
+    {
+      "filename": "iep_priestly.txt",
+      "size_bytes": 83189,
+      "size_chars_approx": 83189,
+      "sha256": "ecafa55f603630e11c83efc09fafca4e09fc8de995baaccd245f311b7d944fcf"
+    },
+    {
+      "filename": "iep_primary-wright.txt",
+      "size_bytes": 83938,
+      "size_chars_approx": 83938,
+      "sha256": "2a97192a43ef17f06d73df2c63f9c1b0790d1e4d0b4d7ef878c81d903cdef04a"
+    },
+    {
+      "filename": "iep_prior-an.txt",
+      "size_bytes": 75230,
+      "size_chars_approx": 75230,
+      "sha256": "9cb0ef256722569032a2ae600055d7a97cf1a006d83a9f77f909a57ad54747a2"
+    },
+    {
+      "filename": "iep_probability-and-induction.txt",
+      "size_bytes": 169702,
+      "size_chars_approx": 169702,
+      "sha256": "e5d73f701c60f91611bcb80c1f58d357f7f74ec453c4fbae52bd5851b2592ae8"
+    },
+    {
+      "filename": "iep_problem-of-induction.txt",
+      "size_bytes": 171536,
+      "size_chars_approx": 171536,
+      "sha256": "acd388e8b656de2bff5a9ffb805c7763e759f993e188ffb8204705d6566c8024"
+    },
+    {
+      "filename": "iep_problem-of-the-criterion.txt",
+      "size_bytes": 65418,
+      "size_chars_approx": 65418,
+      "sha256": "176ad4ed30b2dbd46c48000e16e9948f0cbb5c1dce733cf025151be172e83733"
+    },
+    {
+      "filename": "iep_processp.txt",
+      "size_bytes": 44937,
+      "size_chars_approx": 44937,
+      "sha256": "8f57d1886e4096c158c5face1675deca409aa7fafaad901cd74e0c98b5361b00"
+    },
+    {
+      "filename": "iep_prop-ati.txt",
+      "size_bytes": 123391,
+      "size_chars_approx": 123391,
+      "sha256": "f3fdd66caaf74015662d8caff7b3df6f11d8e23fd52764f2c1b884326c5db820"
+    },
+    {
+      "filename": "iep_prop-con.txt",
+      "size_bytes": 76768,
+      "size_chars_approx": 76768,
+      "sha256": "2e515c2eaf9815641c1a080b36b8c00115b0205a20681129337c508558ce1a8c"
+    },
+    {
+      "filename": "iep_prop-fun.txt",
+      "size_bytes": 62816,
+      "size_chars_approx": 62816,
+      "sha256": "54ed2a9346ead15b51dea8084432dca912bbbcc2df92fb7a3f060a09451b8ca1"
+    },
+    {
+      "filename": "iep_properties.txt",
+      "size_bytes": 156657,
+      "size_chars_approx": 156657,
+      "sha256": "0e30285df32902ad314f0b335375ff9d0ebbe722caa2ae01e8281e176e65d5c2"
+    },
+    {
+      "filename": "iep_propositional-logic-sentential-logic.txt",
+      "size_bytes": 157083,
+      "size_chars_approx": 157083,
+      "sha256": "fe637e0d0c291c5198f21bcdfb8a363311790dbff53d8e3d299ffb054600f93e"
+    },
+    {
+      "filename": "iep_pseudodi.txt",
+      "size_bytes": 29352,
+      "size_chars_approx": 29352,
+      "sha256": "e0f743b66c09071f24ec7368b65cecaf056c6562bb0165c3cd6b5f1de25b1bed"
+    },
+    {
+      "filename": "iep_pseudoscience-demarcation.txt",
+      "size_bytes": 86782,
+      "size_chars_approx": 86782,
+      "sha256": "44be393611d8e9aa6a98e507b4cdd7feb4a6005c69e4526e5d58c514c39cf0a6"
+    },
+    {
+      "filename": "iep_psychological-egoism.txt",
+      "size_bytes": 65376,
+      "size_chars_approx": 65376,
+      "sha256": "b95207e17624985ee7b13ba6c6b7d34b1f524310ceef90a010daf22eaed6e76e"
+    },
+    {
+      "filename": "iep_pudgalavada-buddhist-philosophy.txt",
+      "size_bytes": 43401,
+      "size_chars_approx": 43401,
+      "sha256": "b822a0b46e5f2ba0cc804e449b548c9b04b870945b121c3955534e0266827f63"
+    },
+    {
+      "filename": "iep_punishme.txt",
+      "size_bytes": 32022,
+      "size_chars_approx": 32022,
+      "sha256": "e2856a0dd6bfda1a83278025b3c87a6920683efad467015d7d7162ad5847ec4f"
+    },
+    {
+      "filename": "iep_qu-logic.txt",
+      "size_bytes": 120281,
+      "size_chars_approx": 120281,
+      "sha256": "c942d08cba49deb6ecd25caec6dd621c27169e9b2946ab67c5fb1dcd6a01799b"
+    },
+    {
+      "filename": "iep_qualia.txt",
+      "size_bytes": 56983,
+      "size_chars_approx": 56983,
+      "sha256": "44ed6d778995a145b4453a84b9f0b9530e5d9025288ee0eea35cc882057e38c5"
+    },
+    {
+      "filename": "iep_quine-an.txt",
+      "size_bytes": 31675,
+      "size_chars_approx": 31675,
+      "sha256": "1185a65652c80276355586ee20bc3cb62e0d04a54faf3a1388bda4ba623620cb"
+    },
+    {
+      "filename": "iep_quine-sc.txt",
+      "size_bytes": 88302,
+      "size_chars_approx": 88302,
+      "sha256": "1dd01e0a482ec8e5836a139c15805715d4aba7ab26aad3c51d766f4f99e809c4"
+    },
+    {
+      "filename": "iep_qutb.txt",
+      "size_bytes": 56874,
+      "size_chars_approx": 56874,
+      "sha256": "cbde7f08e3f00b21aedc5030971dd8d10117e3699d1db0b97ffd13b41fe8f445"
+    },
+    {
+      "filename": "iep_r-models.txt",
+      "size_bytes": 38228,
+      "size_chars_approx": 38228,
+      "sha256": "9f6162935c3e5e98e27cf44838ebde7cb3d1d7a37c4e29d24ff5a0363683da59"
+    },
+    {
+      "filename": "iep_rad-evil.txt",
+      "size_bytes": 38114,
+      "size_chars_approx": 38114,
+      "sha256": "b6a0f3af49c964a98b9a5a978002369b576d55e203776104334505e10cab97c2"
+    },
+    {
+      "filename": "iep_radhakri.txt",
+      "size_bytes": 94599,
+      "size_chars_approx": 94599,
+      "sha256": "f74ecc0347cbfa9470ed17b5dfddbd49c714206309b7d3e49f4331a7b29041ed"
+    },
+    {
+      "filename": "iep_rahner.txt",
+      "size_bytes": 30443,
+      "size_chars_approx": 30443,
+      "sha256": "2f24732eb2198510d585582ab3cc9c3c75d747d183577c5ec43879b9b63d0466"
+    },
+    {
+      "filename": "iep_ralph-cudworth.txt",
+      "size_bytes": 39499,
+      "size_chars_approx": 39499,
+      "sha256": "d28b3a2f9b54e4fa6559870e05a05e1b237a66e9db44c499bdc7f21bae4c98c9"
+    },
+    {
+      "filename": "iep_ralph-waldo-emerson.txt",
+      "size_bytes": 36435,
+      "size_chars_approx": 36435,
+      "sha256": "8f66521cb048c6998728b2f6f3882ff2473e38f0e948052644895a5e6ce189c2"
+    },
+    {
+      "filename": "iep_ramanuja.txt",
+      "size_bytes": 60441,
+      "size_chars_approx": 60441,
+      "sha256": "7cd143716adf46ec19daa18a33bedc96ac7c565c9c21e451853f509e4db2f28e"
+    },
+    {
+      "filename": "iep_rand.txt",
+      "size_bytes": 33545,
+      "size_chars_approx": 33545,
+      "sha256": "0475a25e62326be3f6be1a4d74a754c3e8b778d057ca368880962de5cef828af"
+    },
+    {
+      "filename": "iep_rawls.txt",
+      "size_bytes": 72921,
+      "size_chars_approx": 72921,
+      "sha256": "5f4a8963ba8e279011e3973e535091a20b56ec5f2183d14a65346f77ad37c649"
+    },
+    {
+      "filename": "iep_re-bo-ag.txt",
+      "size_bytes": 75180,
+      "size_chars_approx": 75180,
+      "sha256": "6000cd5ad2825043a20cdb6cf7030423a8554a7b1f40b2d51fdfdb2921be6354"
+    },
+    {
+      "filename": "iep_recog_sp.txt",
+      "size_bytes": 80371,
+      "size_chars_approx": 80371,
+      "sha256": "175d10b7bde14533ed01fa7b46d7e07de450681bdbc54af15c0dc5a32234573d"
+    },
+    {
+      "filename": "iep_red-ism.txt",
+      "size_bytes": 68550,
+      "size_chars_approx": 68550,
+      "sha256": "b7143b1d3b328d79655507c888fbc18d77e692a0c463b4f1fcebbdea2f550aa4"
+    },
+    {
+      "filename": "iep_reductio.txt",
+      "size_bytes": 18673,
+      "size_chars_approx": 18673,
+      "sha256": "7f5cba59ef14f644190bd79651d81160dcfdc8d0dd53b41ac478f45511adb088"
+    },
+    {
+      "filename": "iep_reduction-and-emergence-in-chemistry.txt",
+      "size_bytes": 93083,
+      "size_chars_approx": 93083,
+      "sha256": "8022697e056bd02f198f0603683e35b9af28f9b0629751da50dc9b4eb181da4d"
+    },
+    {
+      "filename": "iep_ref-epis.txt",
+      "size_bytes": 89068,
+      "size_chars_approx": 89068,
+      "sha256": "a5eec6009b5f3646168ed52deec96e48374a14a12631b5e18e007aa95ae6c5ad"
+    },
+    {
+      "filename": "iep_referential-opacity.txt",
+      "size_bytes": 150396,
+      "size_chars_approx": 150396,
+      "sha256": "19b41c0fd39da0c2320597d5d46ed3e607d5908f577732ce23c4869f795890b3"
+    },
+    {
+      "filename": "iep_reichenb.txt",
+      "size_bytes": 61061,
+      "size_chars_approx": 61061,
+      "sha256": "7724d20fa4e0c74a7e6bb48666d7ff5e11a6941d086eb539aa2308e8e79412a3"
+    },
+    {
+      "filename": "iep_reid-act.txt",
+      "size_bytes": 93545,
+      "size_chars_approx": 93545,
+      "sha256": "af125fbc2093b7c240215b406bb978c388f65f4921899469f737aaefcd79e3a7"
+    },
+    {
+      "filename": "iep_reidmind.txt",
+      "size_bytes": 81273,
+      "size_chars_approx": 81273,
+      "sha256": "98c01ddb805fbbe365977e91355203ecf2faa27b76b8fc918fa12b0c8616e048"
+    },
+    {
+      "filename": "iep_rel-disa.txt",
+      "size_bytes": 98971,
+      "size_chars_approx": 98971,
+      "sha256": "420dd99d95ca336fbcc49e4693cb85e3932ef1c4842bb0da0ee6d1ea76ad3a8e"
+    },
+    {
+      "filename": "iep_rel-lang.txt",
+      "size_bytes": 46428,
+      "size_chars_approx": 46428,
+      "sha256": "0820f5b7b1997782f0d621dc6b3e79919044d2f4ac565a98e0d77b4158fbec8f"
+    },
+    {
+      "filename": "iep_rel-plur.txt",
+      "size_bytes": 109369,
+      "size_chars_approx": 109369,
+      "sha256": "534d562a2a95e8008af33dcebb1b4df29b88492fca4c7398011d9b66e25e822c"
+    },
+    {
+      "filename": "iep_rel-poli.txt",
+      "size_bytes": 41767,
+      "size_chars_approx": 41767,
+      "sha256": "72914b2d1931a33db826b7fed3edcbc50bb23a97b749464f621a64ab4510cae7"
+    },
+    {
+      "filename": "iep_relativi.txt",
+      "size_bytes": 2623,
+      "size_chars_approx": 2623,
+      "sha256": "318363f235ed9bcd2aa2bbff30b3ec4436c740c013a263691be6c15d57fcbe4c"
+    },
+    {
+      "filename": "iep_reli-div.txt",
+      "size_bytes": 81538,
+      "size_chars_approx": 81538,
+      "sha256": "5d383f3b271d313d2b917aed708178b348ff3fc56b123ce3aef0c1c7f53a1f63"
+    },
+    {
+      "filename": "iep_reliabilism.txt",
+      "size_bytes": 102040,
+      "size_chars_approx": 102040,
+      "sha256": "c0c0edf0697762c19afd5b0eed4adcdc82f76a04bd5710468c7b36f8f34f8c67"
+    },
+    {
+      "filename": "iep_relig-ep.txt",
+      "size_bytes": 49082,
+      "size_chars_approx": 49082,
+      "sha256": "1819712fbdb20da7062ea4456257353aa73ae86006124ad39d6f97208e8129f0"
+    },
+    {
+      "filename": "iep_religion.txt",
+      "size_bytes": 92183,
+      "size_chars_approx": 92183,
+      "sha256": "44952a9670479b0d23086e5f0536a77db92784993373e846529e7d0893c4dd55"
+    },
+    {
+      "filename": "iep_renaissa.txt",
+      "size_bytes": 47299,
+      "size_chars_approx": 47299,
+      "sha256": "278d9717f027dbf8a08e7672163d339ede46ddb9dd1d00f38f59dc602241216b"
+    },
+    {
+      "filename": "iep_renaissance-skepticism.txt",
+      "size_bytes": 89066,
+      "size_chars_approx": 89066,
+      "sha256": "149e66c355393e78809f48a86db641673e07d597786a9c0ac9c24bf7773ff65b"
+    },
+    {
+      "filename": "iep_rene-descartes-ethics.txt",
+      "size_bytes": 96722,
+      "size_chars_approx": 96722,
+      "sha256": "b82557e8a2293d669a1769a6be05af9f93cc5bd3d5baf55f1743411e78bdc45b"
+    },
+    {
+      "filename": "iep_rene-descartes.txt",
+      "size_bytes": 89283,
+      "size_chars_approx": 89283,
+      "sha256": "f5e22eadb6bbaeca4d0350d5bb3175a4676270a299639331b215ac08366bb281"
+    },
+    {
+      "filename": "iep_republic.txt",
+      "size_bytes": 59740,
+      "size_chars_approx": 59740,
+      "sha256": "aee3817736fc1a446919c8dd06df52c3a6f3700e3970f8504852ed1800ed0616"
+    },
+    {
+      "filename": "iep_rescher.txt",
+      "size_bytes": 54422,
+      "size_chars_approx": 54422,
+      "sha256": "bc1ebb28c25c844b6d201df911740546aa5d283a36bd86e4b8e06a543884b5ed"
+    },
+    {
+      "filename": "iep_responsi.txt",
+      "size_bytes": 65885,
+      "size_chars_approx": 65885,
+      "sha256": "a9f9aa5fc5237e87a17cfecb6f3e4b9e579afc4bc5a109cd607b327c766f5c0c"
+    },
+    {
+      "filename": "iep_resurrec.txt",
+      "size_bytes": 53257,
+      "size_chars_approx": 53257,
+      "sha256": "d7c52883dd785b93f627293bc39536a840e82c566373b378dc36e4f1ab1a2628"
+    },
+    {
+      "filename": "iep_ricoeur.txt",
+      "size_bytes": 38074,
+      "size_chars_approx": 38074,
+      "sha256": "002d270fc1615eb866ea0d76b4ba83cfca9b6f50e505a566db8f110fbc143cac"
+    },
+    {
+      "filename": "iep_robert-boyle.txt",
+      "size_bytes": 96336,
+      "size_chars_approx": 96336,
+      "sha256": "26f3b121082f0f0958c0d2ee9847dd7454ccc2682793c22c88f1d5bd422ef12f"
+    },
+    {
+      "filename": "iep_roderick-chisholm-epistemology.txt",
+      "size_bytes": 122711,
+      "size_chars_approx": 122711,
+      "sha256": "5567e95552df09385da2341b8c37654da47fc908132df50aac370e2082e7e360"
+    },
+    {
+      "filename": "iep_roger-bacon-language.txt",
+      "size_bytes": 74082,
+      "size_chars_approx": 74082,
+      "sha256": "60853acf4273aa787d96d6477d0760a850ca865e1361f156d7f41b0f7576bec1"
+    },
+    {
+      "filename": "iep_roger-bacon.txt",
+      "size_bytes": 130727,
+      "size_chars_approx": 130727,
+      "sha256": "e366ec23eb4776325e37220194ff4cefbdce7a3995aae69026e2f439d816f0b2"
+    },
+    {
+      "filename": "iep_rorty.txt",
+      "size_bytes": 92718,
+      "size_chars_approx": 92718,
+      "sha256": "3e028555f357b68e363eb1f15e730bf8c69dbb1f51f1c1d6d9749735a629ed52"
+    },
+    {
+      "filename": "iep_ross-wd.txt",
+      "size_bytes": 72177,
+      "size_chars_approx": 72177,
+      "sha256": "06212a932bc02dd7670c956b00729436d5a723ff44cf3e8a5920a91de99ea437"
+    },
+    {
+      "filename": "iep_rousseau.txt",
+      "size_bytes": 54963,
+      "size_chars_approx": 54963,
+      "sha256": "21f6b67c27a91e2f9b3c24443dc763052683e848bde6acf1b4efb644075208d3"
+    },
+    {
+      "filename": "iep_roy_mn.txt",
+      "size_bytes": 50081,
+      "size_chars_approx": 50081,
+      "sha256": "7d4ce97bad47b0fa98893df60e17d4239722e1b4a54eb4f04c38a41cf5ecce4f"
+    },
+    {
+      "filename": "iep_roycejos.txt",
+      "size_bytes": 54778,
+      "size_chars_approx": 54778,
+      "sha256": "5f33e9313f528c65656575d6adb8f41e992d929cf16e7b3d9e2c7d2478df3898"
+    },
+    {
+      "filename": "iep_rudolf-carnap-modal-logic.txt",
+      "size_bytes": 34953,
+      "size_chars_approx": 34953,
+      "sha256": "62a7e3625e8323ea48c47aba7b65f6144ba3cbabc421708136635450196d4ab9"
+    },
+    {
+      "filename": "iep_rudolf-carnap.txt",
+      "size_bytes": 42571,
+      "size_chars_approx": 42571,
+      "sha256": "540cce84fcf1756e9d232b2227c9d0fb6c8705d70de8a41efcb96dd3d9917635"
+    },
+    {
+      "filename": "iep_russ-eth.txt",
+      "size_bytes": 33199,
+      "size_chars_approx": 33199,
+      "sha256": "aac60213f1ea6088703a9f4e95985ad2ec01c7fe5fee1154093de51c10aa5246"
+    },
+    {
+      "filename": "iep_russ-log.txt",
+      "size_bytes": 27959,
+      "size_chars_approx": 27959,
+      "sha256": "cd90765c4e12818727b8f99f62d4cb4e1aa6db79bf4bc1ff2610008b2281c759"
+    },
+    {
+      "filename": "iep_russ-met.txt",
+      "size_bytes": 83837,
+      "size_chars_approx": 83837,
+      "sha256": "06b4e8496385f371ce13aebc32b8f10ab4b9572b7338c0e6c90441351eed03e5"
+    },
+    {
+      "filename": "iep_russian.txt",
+      "size_bytes": 76048,
+      "size_chars_approx": 76048,
+      "sha256": "3160c82bfa8b0707996db06d69b673b097450e21ce15125863f23a367f66ed5e"
+    },
+    {
+      "filename": "iep_s-truth.txt",
+      "size_bytes": 55668,
+      "size_chars_approx": 55668,
+      "sha256": "62a2cb99decbc36e9972fd73b69a43f27863c4eadf53511a8a82969a09811cd7"
+    },
+    {
+      "filename": "iep_sable.txt",
+      "size_bytes": 29396,
+      "size_chars_approx": 29396,
+      "sha256": "a8fdfaaa9358e2e70b389c4573eb7dd018428c1cbdcd5100a50dd6e61c183149"
+    },
+    {
+      "filename": "iep_sadra.txt",
+      "size_bytes": 54148,
+      "size_chars_approx": 54148,
+      "sha256": "a8673305426017513516db8fa7039c94d971421f3a7d0502d953d9462c4dcea5"
+    },
+    {
+      "filename": "iep_safety-c.txt",
+      "size_bytes": 93520,
+      "size_chars_approx": 93520,
+      "sha256": "c5f3833b3e5ff1e59cb372ad03ce715fe641efd7a9fa0fcea6c6b4c920d3c509"
+    },
+    {
+      "filename": "iep_samuel-alexander.txt",
+      "size_bytes": 39730,
+      "size_chars_approx": 39730,
+      "sha256": "52e4f73bce9a3eadb8f45a2a806bcafea71915165437742f0b68234a149a302a"
+    },
+    {
+      "filename": "iep_sankhya.txt",
+      "size_bytes": 48809,
+      "size_chars_approx": 48809,
+      "sha256": "ca6072f059eb7a79e654c12c31073f6ddc99df7744b9205b9778510c23403d47"
+    },
+    {
+      "filename": "iep_santayan.txt",
+      "size_bytes": 36290,
+      "size_chars_approx": 36290,
+      "sha256": "ea78024a37a23b4d3843e187e1990c107ccc8f0566aca48429ece8b7e8520472"
+    },
+    {
+      "filename": "iep_santideva.txt",
+      "size_bytes": 94109,
+      "size_chars_approx": 94109,
+      "sha256": "50bbfff8ea42e3fd07d9b83b02b52a50b47863a99b5c0481c5aea8e70992144a"
+    },
+    {
+      "filename": "iep_sartre-ex.txt",
+      "size_bytes": 51455,
+      "size_chars_approx": 51455,
+      "sha256": "0c6609dd015e7bab25d8484a92718c57b1abbf23137ecbcba5e539194f6d0285"
+    },
+    {
+      "filename": "iep_sartre-p.txt",
+      "size_bytes": 52184,
+      "size_chars_approx": 52184,
+      "sha256": "1a0cd01da67bdf2181dba4d38108ca755fb13247cd215ba8220f60170d0e8ecd"
+    },
+    {
+      "filename": "iep_sarvastivada-buddhism.txt",
+      "size_bytes": 90859,
+      "size_chars_approx": 90859,
+      "sha256": "3d4ba031605ed916740b3ffa7cc39846676940f6fe704027d39b44f8798764fd"
+    },
+    {
+      "filename": "iep_schellin.txt",
+      "size_bytes": 71873,
+      "size_chars_approx": 71873,
+      "sha256": "ed14b106c717c2d3c47f0dd36acf826af36d9f945abb99fcdd51b0e99cf57e53"
+    },
+    {
+      "filename": "iep_schopenh.txt",
+      "size_bytes": 42438,
+      "size_chars_approx": 42438,
+      "sha256": "df4baa7d6566ad16f6558e62e148dbcc92ed10a3d460d91d4f304d7aebd8d857"
+    },
+    {
+      "filename": "iep_schopenhauer-logic-and-dialectic.txt",
+      "size_bytes": 98605,
+      "size_chars_approx": 98605,
+      "sha256": "f1c939f49634a6ad5d84595a4d2a3dcd1342e6b36d4ecaa6b81bb9336c190362"
+    },
+    {
+      "filename": "iep_schutz.txt",
+      "size_bytes": 24809,
+      "size_chars_approx": 24809,
+      "sha256": "8397d08b3c52931f495679272069958e69abd0efe813eac3a1b4a31d376b9560"
+    },
+    {
+      "filename": "iep_sci-ideo.txt",
+      "size_bytes": 70557,
+      "size_chars_approx": 70557,
+      "sha256": "84bc3ff1bef7554e8c5007ce5adcbda09f6861f5681af1b3630bdba497283b40"
+    },
+    {
+      "filename": "iep_sci-repr.txt",
+      "size_bytes": 100680,
+      "size_chars_approx": 100680,
+      "sha256": "f1f3ab434f001455edb826f3ba3a2cc0baf71f9fa2a89c4da5cc0231f20b4540"
+    },
+    {
+      "filename": "iep_scientific-change.txt",
+      "size_bytes": 63600,
+      "size_chars_approx": 63600,
+      "sha256": "75b89f2d2b34f2d8183d56b8cf207c8e102d7de5f181f4e42753d3a641477420"
+    },
+    {
+      "filename": "iep_scientific-realism-antirealism.txt",
+      "size_bytes": 135384,
+      "size_chars_approx": 135384,
+      "sha256": "837a61adb476684521ebfaf1b90733ef55ba4097d91899d81b9c4367a357f9dc"
+    },
+    {
+      "filename": "iep_scientism.txt",
+      "size_bytes": 67408,
+      "size_chars_approx": 67408,
+      "sha256": "5c3e74fe244db5cdfcf78b7a99c66c9ec3cdf2fcf4772781a9d74017ca47e8fa"
+    },
+    {
+      "filename": "iep_scotuskg.txt",
+      "size_bytes": 75905,
+      "size_chars_approx": 75905,
+      "sha256": "d5383bc34d678fecf8cdc940abd8e073641162cb14d1bf7d61a3433a0712786f"
+    },
+    {
+      "filename": "iep_self-con.txt",
+      "size_bytes": 73821,
+      "size_chars_approx": 73821,
+      "sha256": "56c47dfb27e228bd1de6ab56541dc52595cf86436dda47ba295ef854a478f08a"
+    },
+    {
+      "filename": "iep_sella-rw.txt",
+      "size_bytes": 77131,
+      "size_chars_approx": 77131,
+      "sha256": "833a9e4a506d1b55c0baae992697482ec1a95f86d3a582418d620259935e309d"
+    },
+    {
+      "filename": "iep_sellars.txt",
+      "size_bytes": 46732,
+      "size_chars_approx": 46732,
+      "sha256": "dbd63f220586126c85a80049ecdc5fd45443634bd2eb1c61e7fbe8b5fcd0b22e"
+    },
+    {
+      "filename": "iep_sen-cap.txt",
+      "size_bytes": 65333,
+      "size_chars_approx": 65333,
+      "sha256": "9ecdb074a8910ed59537f7306c4b6f1f6d136a888f97001a1da062af6bb879ba"
+    },
+    {
+      "filename": "iep_seneca.txt",
+      "size_bytes": 62334,
+      "size_chars_approx": 62334,
+      "sha256": "8696bb4256776275e89f702970c1142e5ee0d6d804db43c60f96b05ab3a38243"
+    },
+    {
+      "filename": "iep_sengzhao.txt",
+      "size_bytes": 42748,
+      "size_chars_approx": 42748,
+      "sha256": "2be210eed2e2f10b8f4d4ccaac84ca1f9982eb177f7f7b460c5abcd550ba165f"
+    },
+    {
+      "filename": "iep_sense-da.txt",
+      "size_bytes": 74019,
+      "size_chars_approx": 74019,
+      "sha256": "80aa373eee3518a62a905461a07cb80e4c686fb7bc283bb48e0244279dee5edf"
+    },
+    {
+      "filename": "iep_set-theo.txt",
+      "size_bytes": 85654,
+      "size_chars_approx": 85654,
+      "sha256": "a6edba2b90b20c4d2231f69807d4a26a5f48310086b03c2658d18f615bd3f3a6"
+    },
+    {
+      "filename": "iep_sevigne-marquise-de-marie-de-rabutin-chantal.txt",
+      "size_bytes": 42425,
+      "size_chars_approx": 42425,
+      "sha256": "de3cc722942f103669bd6fdb22929f3f479fb1016ef4bffcb84702f50345b20b"
+    },
+    {
+      "filename": "iep_sexualit.txt",
+      "size_bytes": 65337,
+      "size_chars_approx": 65337,
+      "sha256": "03826f75ac251c9f94e81f296975795fc9a36f2a511d25dd1ff828b9a7f0cc34"
+    },
+    {
+      "filename": "iep_shaftes.txt",
+      "size_bytes": 55994,
+      "size_chars_approx": 55994,
+      "sha256": "a290b9adf22def04ec2f94418ff1aac6cbb3bd8df57a1dfd1ac122f44bbfbbb7"
+    },
+    {
+      "filename": "iep_shahras.txt",
+      "size_bytes": 14164,
+      "size_chars_approx": 14164,
+      "sha256": "933d00a70f4078e94159a0923debd8a7af1c851ec0c592c5b3afb7e6f7c57350"
+    },
+    {
+      "filename": "iep_sheffers.txt",
+      "size_bytes": 101628,
+      "size_chars_approx": 101628,
+      "sha256": "4a43cac711c63e4bfbc3fbbe77ae2af1ac4cb3847e54efc6a633d2e5421f7bf0"
+    },
+    {
+      "filename": "iep_shpet.txt",
+      "size_bytes": 17591,
+      "size_chars_approx": 17591,
+      "sha256": "feec4cc101b2761be34cfdccb51a817df2b6bf36ba7bd057137908c958cb8196"
+    },
+    {
+      "filename": "iep_sijistan.txt",
+      "size_bytes": 8330,
+      "size_chars_approx": 8330,
+      "sha256": "7a369f7b5292004615e46e752890e475516c0263e2415a1ea9a59b96ec285fe8"
+    },
+    {
+      "filename": "iep_simone-de-beauvoir.txt",
+      "size_bytes": 69735,
+      "size_chars_approx": 69735,
+      "sha256": "443a40cac306acc71d25d5f4333895319a39b92d1e5d5ce2a77ad450c5517f37"
+    },
+    {
+      "filename": "iep_simplici.txt",
+      "size_bytes": 150761,
+      "size_chars_approx": 150761,
+      "sha256": "fc0412743b6999a983eccfc9797cb569df26e564c85e4b2aadfd33dd6f8af6c3"
+    },
+    {
+      "filename": "iep_skepcont.txt",
+      "size_bytes": 114400,
+      "size_chars_approx": 114400,
+      "sha256": "e16966fa8f108ca07bc2e272325c3eb71beb34838bab4b4886deeef74c552d43"
+    },
+    {
+      "filename": "iep_skept-th.txt",
+      "size_bytes": 30458,
+      "size_chars_approx": 30458,
+      "sha256": "972585ec50f6b2bb03f9010371138078149328d4220f4e6a4792d2b58a99d20b"
+    },
+    {
+      "filename": "iep_smith.txt",
+      "size_bytes": 95892,
+      "size_chars_approx": 95892,
+      "sha256": "ae9a771f62da8815963136ecc34b42326b42d6d53187ce603dde3601450682e9"
+    },
+    {
+      "filename": "iep_soc-cont.txt",
+      "size_bytes": 66463,
+      "size_chars_approx": 66463,
+      "sha256": "7c60f5674a757795ef55fb2076f78eecfc260c75f603e7d2cabcc0d6a32c337b"
+    },
+    {
+      "filename": "iep_soc-sci.txt",
+      "size_bytes": 98562,
+      "size_chars_approx": 98562,
+      "sha256": "31052c8b4a3eee09a0b4402b1ae09abc13f7ef1fa8532cbd2cd31614a9fce0d9"
+    },
+    {
+      "filename": "iep_socialis.txt",
+      "size_bytes": 126765,
+      "size_chars_approx": 126765,
+      "sha256": "3fdad89185c0ebe5c1c284aaa49ebbed4cfe80a9dfb983cb3fb44036fbde48ba"
+    },
+    {
+      "filename": "iep_socrates.txt",
+      "size_bytes": 91104,
+      "size_chars_approx": 91104,
+      "sha256": "bbc404c1ffbc190df78d8d4d0da0d4536ceeeace1907f877e7b005292b798ed8"
+    },
+    {
+      "filename": "iep_solipsis.txt",
+      "size_bytes": 35638,
+      "size_chars_approx": 35638,
+      "sha256": "ae751e74e2fb5acca4def2094bf2f833dec661d9c4a19709180345bc1d84078f"
+    },
+    {
+      "filename": "iep_solovyov.txt",
+      "size_bytes": 49579,
+      "size_chars_approx": 49579,
+      "sha256": "d54aa8243769898fc7644d708af9fa556c6dd94626e79f66d22f7033ba4e9ccd"
+    },
+    {
+      "filename": "iep_sophists.txt",
+      "size_bytes": 60433,
+      "size_chars_approx": 60433,
+      "sha256": "8384bc159b84fcc77e47c862d124394cda66ac959f29a71c14a28d7deeeef323"
+    },
+    {
+      "filename": "iep_spencer.txt",
+      "size_bytes": 28547,
+      "size_chars_approx": 28547,
+      "sha256": "ca51c5f79437fd6a65099cb1a81417eb526344d33562e59d509aaeb64bcfb53b"
+    },
+    {
+      "filename": "iep_spin-mor.txt",
+      "size_bytes": 60579,
+      "size_chars_approx": 60579,
+      "sha256": "01542071691bc4a6814bd0a08e42be22f0bbc36579ff9e638b76313efca59a8a"
+    },
+    {
+      "filename": "iep_spin-pol.txt",
+      "size_bytes": 38436,
+      "size_chars_approx": 38436,
+      "sha256": "c14c5e7c29f598e8b87683bc1fa66ba3fbb7ede7228d0fbe04aa82eab63d7afe"
+    },
+    {
+      "filename": "iep_spino-ep.txt",
+      "size_bytes": 51916,
+      "size_chars_approx": 51916,
+      "sha256": "d6abcb3086dfeae7adbd8019e5442468b6d7f49b08a260383ee828d0d576f331"
+    },
+    {
+      "filename": "iep_spinoz-m.txt",
+      "size_bytes": 57727,
+      "size_chars_approx": 57727,
+      "sha256": "5805c80111e7f018059d0df0433e3a713891f8f543fe567516a32b0f79a897ef"
+    },
+    {
+      "filename": "iep_spinoza-free-will-determinism.txt",
+      "size_bytes": 106793,
+      "size_chars_approx": 106793,
+      "sha256": "19e5ec8b73740a4f4c260202a062faafd7cff8a5b15c67c02ebba0ee08ce73e6"
+    },
+    {
+      "filename": "iep_spinoza-religion.txt",
+      "size_bytes": 59511,
+      "size_chars_approx": 59511,
+      "sha256": "36f6ba5838e0fb0e4712fe5015b7da56874524ac1261243d4b7d2a22d6217b13"
+    },
+    {
+      "filename": "iep_spinoza.txt",
+      "size_bytes": 72316,
+      "size_chars_approx": 72316,
+      "sha256": "fb9b9e461a3d0b7cf4295279386bf9dc474e4e6c0531cb79e0786ef3f931105e"
+    },
+    {
+      "filename": "iep_sqr-opp.txt",
+      "size_bytes": 5417,
+      "size_chars_approx": 5417,
+      "sha256": "26d62fc2bdc6d3175b79963a669addc6a8f60844a5e91f65da34060977527c50"
+    },
+    {
+      "filename": "iep_stanton.txt",
+      "size_bytes": 45388,
+      "size_chars_approx": 45388,
+      "sha256": "fa3935df616ebcb37143c6e599a39fc60d73ffb3e82e076ab5d9cef1f5537c43"
+    },
+    {
+      "filename": "iep_stebbing.txt",
+      "size_bytes": 73101,
+      "size_chars_approx": 73101,
+      "sha256": "b376eef3c54518a5325f8d93012b70307530ea66959de82fd237ff3bf5e9eb67"
+    },
+    {
+      "filename": "iep_stoiceth.txt",
+      "size_bytes": 20021,
+      "size_chars_approx": 20021,
+      "sha256": "008a0ab855843d549be3f4f0f8aa7a92b23945b82eb7d83bf8db2714b3f6d02c"
+    },
+    {
+      "filename": "iep_stoicism.txt",
+      "size_bytes": 84454,
+      "size_chars_approx": 84454,
+      "sha256": "2b8627ed886e47f58795c2a5336651a6a2b55c2288615cacb1312fb9b397a3eb"
+    },
+    {
+      "filename": "iep_stoicmind.txt",
+      "size_bytes": 50734,
+      "size_chars_approx": 50734,
+      "sha256": "bc8c6e85b8f3699c39db44e3673e3059c6b60455ed5b94917181d99ec7d315bc"
+    },
+    {
+      "filename": "iep_suarez.txt",
+      "size_bytes": 90655,
+      "size_chars_approx": 90655,
+      "sha256": "43641479c4ff9de41f7b381eb8c8facdbe14f6a2d3f5df2ba5e74bf9b065a594"
+    },
+    {
+      "filename": "iep_substanc.txt",
+      "size_bytes": 58262,
+      "size_chars_approx": 58262,
+      "sha256": "6f49cf63a6b7a380af53ac5e0e9df1ebeed37680adace1c922cfecbf1bdb329b"
+    },
+    {
+      "filename": "iep_substance.txt",
+      "size_bytes": 116840,
+      "size_chars_approx": 116840,
+      "sha256": "8c12dd4a84ab0efd36b3a0bf4a70144db5f3e3e2d87905351059c31c07994f03"
+    },
+    {
+      "filename": "iep_supermin.txt",
+      "size_bytes": 55136,
+      "size_chars_approx": 55136,
+      "sha256": "6942921a6ea466741c9e8c78947bbdbac34f372046fcff99b9904db632e6fdff"
+    },
+    {
+      "filename": "iep_superven.txt",
+      "size_bytes": 49598,
+      "size_chars_approx": 49598,
+      "sha256": "5c0c538cb67afc39a54a2d98d20d95ee3a179ebc77c7322d3af512387015163a"
+    },
+    {
+      "filename": "iep_surr-par.txt",
+      "size_bytes": 32206,
+      "size_chars_approx": 32206,
+      "sha256": "48b4c7a9efbd0c93e53abaeaf824f79e689ea74557b703257f19e903bf2404ee"
+    },
+    {
+      "filename": "iep_surv-eth.txt",
+      "size_bytes": 43789,
+      "size_chars_approx": 43789,
+      "sha256": "d2f75057f6ff2a203d54096699b946a125055f2d98e18ffb24dd1317ce7c1bae"
+    },
+    {
+      "filename": "iep_synesthe.txt",
+      "size_bytes": 87323,
+      "size_chars_approx": 87323,
+      "sha256": "47617c29c8f0abf88dc8d05f82cff3e133d048b2e3ef18897d0305605822d7f3"
+    },
+    {
+      "filename": "iep_technolo.txt",
+      "size_bytes": 90345,
+      "size_chars_approx": 90345,
+      "sha256": "e7ce0b26759bb8ff97a7f89dd42bd477762042717c85e707d5298f6b6ca69a2e"
+    },
+    {
+      "filename": "iep_telesio.txt",
+      "size_bytes": 60060,
+      "size_chars_approx": 60060,
+      "sha256": "078c20a61aaf525bbe947ce73665687e571b6f57c7d8b8e1294333c8dbfffafa"
+    },
+    {
+      "filename": "iep_thales.txt",
+      "size_bytes": 68728,
+      "size_chars_approx": 68728,
+      "sha256": "91378083f5361135d1d34bebe03675ca6f50d252c7a07f7c650f2fc179fd8ce6"
+    },
+    {
+      "filename": "iep_theatetu.txt",
+      "size_bytes": 39215,
+      "size_chars_approx": 39215,
+      "sha256": "8d8bd211a1d9f8106864a7e36d026b88661c459e1eee5c3b57b1d8840daec98d"
+    },
+    {
+      "filename": "iep_theo-nat.txt",
+      "size_bytes": 52557,
+      "size_chars_approx": 52557,
+      "sha256": "0656fdefc986d616b75ad1e5b1c6b7460e30cce58239b2c9ce5b6c4ee63a5621"
+    },
+    {
+      "filename": "iep_theological-determinism.txt",
+      "size_bytes": 60144,
+      "size_chars_approx": 60144,
+      "sha256": "a35bf01c2ca7521944e0257e06ed1fcec3ce25c3d3905f43ca997c5567928ff6"
+    },
+    {
+      "filename": "iep_theomind.txt",
+      "size_bytes": 84441,
+      "size_chars_approx": 84441,
+      "sha256": "5c971d9e5d507f05908edeeb74b2dc8a5d8a86c6fd26325e41399207c981265d"
+    },
+    {
+      "filename": "iep_theories-of-emotion.txt",
+      "size_bytes": 77614,
+      "size_chars_approx": 77614,
+      "sha256": "d25c4e06741aba16949f9f2bc70a06b48a1303562bcc1c960e7fefb1ba741f9a"
+    },
+    {
+      "filename": "iep_theory-theory-of-concepts.txt",
+      "size_bytes": 61097,
+      "size_chars_approx": 61097,
+      "sha256": "4834aec11bfe7b1af39496e84338f46ef1f636ee73d6a75f3200f3a1640eb9b1"
+    },
+    {
+      "filename": "iep_thick-co.txt",
+      "size_bytes": 117026,
+      "size_chars_approx": 117026,
+      "sha256": "688b0f458abfd01425e08216ccd6b0d6da32f0744273dd2ab1d1431374b85b46"
+    },
+    {
+      "filename": "iep_thomas-aquinas-metaphysics.txt",
+      "size_bytes": 44456,
+      "size_chars_approx": 44456,
+      "sha256": "625bdcd670b6d17b6954c0c7624b5af9716944baad8b19231f23ae343f47e17e"
+    },
+    {
+      "filename": "iep_thomas-aquinas-political-philosophy.txt",
+      "size_bytes": 66875,
+      "size_chars_approx": 66875,
+      "sha256": "37ca0f37504085cfe9176570f9aeb1807a438eb96857d2ffeb11418410c2727a"
+    },
+    {
+      "filename": "iep_thomas-aquinas-political-theology.txt",
+      "size_bytes": 69238,
+      "size_chars_approx": 69238,
+      "sha256": "efffbf02ce272d033f307cf816abfe20ef06dbe991df006dc160e273ac93631c"
+    },
+    {
+      "filename": "iep_thomas-aquinas.txt",
+      "size_bytes": 258627,
+      "size_chars_approx": 258627,
+      "sha256": "1fd00e60b6598a13816989a332b8eecd6a6d825016a469bceb2b1976e14685d7"
+    },
+    {
+      "filename": "iep_thomasaquinas-moral-philosophy.txt",
+      "size_bytes": 64969,
+      "size_chars_approx": 64969,
+      "sha256": "661c4dc7ae3b321d8bf21f3a555c2261dbb7896fb55d6e6a12fbe47ade0ff920"
+    },
+    {
+      "filename": "iep_thoreau.txt",
+      "size_bytes": 82216,
+      "size_chars_approx": 82216,
+      "sha256": "abce4454eb63719a969957b62d89f7196c7088dfa84c618a19e05cf9b8091015"
+    },
+    {
+      "filename": "iep_thrasymachus.txt",
+      "size_bytes": 11203,
+      "size_chars_approx": 11203,
+      "sha256": "c3e39f15840eaee4e6ba92708fca996c909407c175e009af07134a274a53695d"
+    },
+    {
+      "filename": "iep_tibetan.txt",
+      "size_bytes": 34277,
+      "size_chars_approx": 34277,
+      "sha256": "1bf5cb52aa0655a4a935236cd83a28141642e470335a8a68ac10d57a8319dc5f"
+    },
+    {
+      "filename": "iep_timaeus.txt",
+      "size_bytes": 81295,
+      "size_chars_approx": 81295,
+      "sha256": "38be0decbd38ba2eff857bd000091cf95499cf542c7d0535922c86aed25d52b5"
+    },
+    {
+      "filename": "iep_time.txt",
+      "size_bytes": 369777,
+      "size_chars_approx": 369777,
+      "sha256": "805d5503214cfaf27b5570ae0d3178e6c8e25653e0fde6baf14cc1c58853ad59"
+    },
+    {
+      "filename": "iep_timetrav.txt",
+      "size_bytes": 53832,
+      "size_chars_approx": 53832,
+      "sha256": "ee59f6aca8d274c7d35d8763b21fceab9d484407cfb4837021cc8bb857f82f7e"
+    },
+    {
+      "filename": "iep_tolerati.txt",
+      "size_bytes": 56840,
+      "size_chars_approx": 56840,
+      "sha256": "9d25f8c25e5b669ae6933f5524ace663e599542ac41cb29f295f9e632898ba3c"
+    },
+    {
+      "filename": "iep_totalita.txt",
+      "size_bytes": 54549,
+      "size_chars_approx": 54549,
+      "sha256": "c82cae6b67c29bb8e26ed724b3724fca94b86477fa98aa6d765f17af04dc1aea"
+    },
+    {
+      "filename": "iep_trans-ar.txt",
+      "size_bytes": 34861,
+      "size_chars_approx": 34861,
+      "sha256": "602f02abeec2f1942469a2182502cbf47034055c47e5b7a9797b60f7fa632e52"
+    },
+    {
+      "filename": "iep_transmis.txt",
+      "size_bytes": 64185,
+      "size_chars_approx": 64185,
+      "sha256": "4f16cd5b05a0c428d4bd8fed30d9759b6c3e80ae6a69a24769f712c3149ebd8f"
+    },
+    {
+      "filename": "iep_trinity.txt",
+      "size_bytes": 62983,
+      "size_chars_approx": 62983,
+      "sha256": "544b4d59a0875cd465857ab3c770b3ab0657c90df7139e52138aff9d390e7cb2"
+    },
+    {
+      "filename": "iep_trust.txt",
+      "size_bytes": 77303,
+      "size_chars_approx": 77303,
+      "sha256": "73d153e602f15a282b8be5f7d1f2f6bdb42d19d8bd8f3a53109eb880dc676aff"
+    },
+    {
+      "filename": "iep_truth-ma.txt",
+      "size_bytes": 77566,
+      "size_chars_approx": 77566,
+      "sha256": "ada6ab03908b9a29b03d69d8cffdefa055bc9e4d1c83860504876ccaf2785711"
+    },
+    {
+      "filename": "iep_truth.txt",
+      "size_bytes": 65827,
+      "size_chars_approx": 65827,
+      "sha256": "41c60408481df9686459303e7c074385e2f027116a98d078f32895196a41e9d5"
+    },
+    {
+      "filename": "iep_truthpro.txt",
+      "size_bytes": 49976,
+      "size_chars_approx": 49976,
+      "sha256": "63d33a5f964fd9a7d9d11341560aaa322632f2c30d29ad9f09c7c9f8444de722"
+    },
+    {
+      "filename": "iep_tu-weimi.txt",
+      "size_bytes": 52690,
+      "size_chars_approx": 52690,
+      "sha256": "4cf6451e94e87482feca91cc9ff36f55407be8b5100c9eec217a2c7c8f37fe95"
+    },
+    {
+      "filename": "iep_tusi.txt",
+      "size_bytes": 7815,
+      "size_chars_approx": 7815,
+      "sha256": "6695ed5a98a8102b11624050633d5acbcc20fdaf2b56cb4de8bb83247bcdb882"
+    },
+    {
+      "filename": "iep_tyler-burge.txt",
+      "size_bytes": 88888,
+      "size_chars_approx": 88888,
+      "sha256": "51ebad3e62234a536f1dcbb784106fd35f125ff06b322febd6332b23ebc88222"
+    },
+    {
+      "filename": "iep_understa.txt",
+      "size_bytes": 112877,
+      "size_chars_approx": 112877,
+      "sha256": "6f21f1ff983f790fd4ac84f7141e2f730d15a858a24cb4bf5c2feb72d03d709f"
+    },
+    {
+      "filename": "iep_universa.txt",
+      "size_bytes": 43673,
+      "size_chars_approx": 43673,
+      "sha256": "4910937caee67576d4b9486982641422cd5506b4e0189257bc88bb73811b3013"
+    },
+    {
+      "filename": "iep_upanisad.txt",
+      "size_bytes": 56365,
+      "size_chars_approx": 56365,
+      "sha256": "7999b4bb83d9bb6216cc14ca8855b9d50450bb5dcce680de0e4b7ed8b07f0048"
+    },
+    {
+      "filename": "iep_util-a-r.txt",
+      "size_bytes": 66579,
+      "size_chars_approx": 66579,
+      "sha256": "a9ab0eb1fbea45906963746e4f03f417f877e837e86d161e964cbe3f6631287e"
+    },
+    {
+      "filename": "iep_val-snd.txt",
+      "size_bytes": 11023,
+      "size_chars_approx": 11023,
+      "sha256": "a1809c44a71e8b4369b29e40d52563afe03bba1d4f35736af6d89061b4a58751"
+    },
+    {
+      "filename": "iep_value-of-art.txt",
+      "size_bytes": 96361,
+      "size_chars_approx": 96361,
+      "sha256": "eb4e4865f2572427907511093f9b9a6e663458015795948e24da2b9ccd2523da"
+    },
+    {
+      "filename": "iep_vasubandhu.txt",
+      "size_bytes": 29537,
+      "size_chars_approx": 29537,
+      "sha256": "7826937fb810a3807214fd70859e5208131ffafa68a74b4f093719ab582847db"
+    },
+    {
+      "filename": "iep_vattimo.txt",
+      "size_bytes": 54218,
+      "size_chars_approx": 54218,
+      "sha256": "3c2e01364050c0f117b31dd281567f78beef80ebd4de0eadbb2d46482e9e890d"
+    },
+    {
+      "filename": "iep_venkatan.txt",
+      "size_bytes": 61860,
+      "size_chars_approx": 61860,
+      "sha256": "6cc47a98b597262ecb485ced53ac5eb360a3fd6211ff064125900b17e36affb6"
+    },
+    {
+      "filename": "iep_vico.txt",
+      "size_bytes": 51455,
+      "size_chars_approx": 51455,
+      "sha256": "2361e60ea0efae455ccfef5d73f5225a2fe99b2f66c1d0dd47ffaecf652bc5b2"
+    },
+    {
+      "filename": "iep_viennacr.txt",
+      "size_bytes": 5017,
+      "size_chars_approx": 5017,
+      "sha256": "7a0d7b3866a49dafb574a9d6b85a4019beec1825bcff71aaa8b2566b943c0fc3"
+    },
+    {
+      "filename": "iep_virtue-epistemology.txt",
+      "size_bytes": 51700,
+      "size_chars_approx": 51700,
+      "sha256": "2e3a5c265d11b81ce27789e7dc1ddd8612c281b2c045f3c025653ce86f653c53"
+    },
+    {
+      "filename": "iep_virtue.txt",
+      "size_bytes": 45825,
+      "size_chars_approx": 45825,
+      "sha256": "6164aefeb1cdb15f55d0495b42d6b7a433eaefae24acd169403fb4a11d68109f"
+    },
+    {
+      "filename": "iep_wangbi.txt",
+      "size_bytes": 21314,
+      "size_chars_approx": 21314,
+      "sha256": "97f8a916d9e580035cc7a7588e76c9ae98d8233fb0a46c9c7ce44d746c3a2644"
+    },
+    {
+      "filename": "iep_wangchon.txt",
+      "size_bytes": 44801,
+      "size_chars_approx": 44801,
+      "sha256": "6aa6441587c7d46b841a6c471a353c9cce97d3da503f393bbf15b9fd32139418"
+    },
+    {
+      "filename": "iep_wangyang.txt",
+      "size_bytes": 34135,
+      "size_chars_approx": 34135,
+      "sha256": "b20ae15ed832a0234fc3040d5f77412ff40ba7bc39a810f7351edc78f9f71874"
+    },
+    {
+      "filename": "iep_war.txt",
+      "size_bytes": 31576,
+      "size_chars_approx": 31576,
+      "sha256": "55267c1f6dcdd07f5a2d0e673d41d5c49ec476d4e1948e5b04308fdf0165d9ba"
+    },
+    {
+      "filename": "iep_wasa.txt",
+      "size_bytes": 49665,
+      "size_chars_approx": 49665,
+      "sha256": "4ba47ec42fe092fbf2e8de34ef40d37694755f85416eea853ab8bef81913d45e"
+    },
+    {
+      "filename": "iep_web-dubois.txt",
+      "size_bytes": 37120,
+      "size_chars_approx": 37120,
+      "sha256": "58f16866bc7a6952cf01725ecee71c9ee3ac8165a73e70a35b37609416e38894"
+    },
+    {
+      "filename": "iep_weil.txt",
+      "size_bytes": 49380,
+      "size_chars_approx": 49380,
+      "sha256": "17144f107cf2691873399df354582576e9ac89eb30f9a18e1274cbde8056fa63"
+    },
+    {
+      "filename": "iep_whitehead.txt",
+      "size_bytes": 57857,
+      "size_chars_approx": 57857,
+      "sha256": "0080ba2676bede2a54aa211ff25c6ed8a87de4e38f3aad2c9a90c7511c85be11"
+    },
+    {
+      "filename": "iep_wiredu.txt",
+      "size_bytes": 64797,
+      "size_chars_approx": 64797,
+      "sha256": "3f36a2187cb4c6d59f0199b53f28b9a264d447fb4cf29601b7f4d99e4c0e3151"
+    },
+    {
+      "filename": "iep_wisdom.txt",
+      "size_bytes": 49281,
+      "size_chars_approx": 49281,
+      "sha256": "4e2635dcac58947fd77df975bfe7b68ec9d5018c45154eb882872f8b5452d9bb"
+    },
+    {
+      "filename": "iep_witt-epi.txt",
+      "size_bytes": 58844,
+      "size_chars_approx": 58844,
+      "sha256": "4dfe7730d71205747ad4192cb60369f1e358b964bb0a4c5c0b86d9e5a5d9bc9f"
+    },
+    {
+      "filename": "iep_wittgens.txt",
+      "size_bytes": 49769,
+      "size_chars_approx": 49769,
+      "sha256": "a04ebd8b753d7da0ea653aec5f071e298e511892e947890ba70f2ef49092cc69"
+    },
+    {
+      "filename": "iep_wittmath.txt",
+      "size_bytes": 61080,
+      "size_chars_approx": 61080,
+      "sha256": "c2cda8ec3037188ba60ed654b119a117297bd0ea3b9c738c34e0aeb91751d561"
+    },
+    {
+      "filename": "iep_wright.txt",
+      "size_bytes": 73140,
+      "size_chars_approx": 73140,
+      "sha256": "e66d920c787c80001c9dd1a78dab9129625adac0f42e112f85f9b12f88eb030f"
+    },
+    {
+      "filename": "iep_wuxing.txt",
+      "size_bytes": 25165,
+      "size_chars_approx": 25165,
+      "sha256": "feba48d730809f94dc980d0c6a3bb40b3757755903592bfba28060a4451bec1b"
+    },
+    {
+      "filename": "iep_xenoph.txt",
+      "size_bytes": 32627,
+      "size_chars_approx": 32627,
+      "sha256": "48d7dd9d07fcd1b83746a5712850937702da3896e4ff9100b130c6d39e3751ae"
+    },
+    {
+      "filename": "iep_xenophon.txt",
+      "size_bytes": 37458,
+      "size_chars_approx": 37458,
+      "sha256": "5fde4702caa8074b4fe3bb9cbc48b5e4ba5a8404fec2f7bb9b9618d1d2137209"
+    },
+    {
+      "filename": "iep_xuanzang.txt",
+      "size_bytes": 33985,
+      "size_chars_approx": 33985,
+      "sha256": "3d199d06a708f77c48858c721b8dae34cc9b64241f7fdc7b1a033c472c6a7e4c"
+    },
+    {
+      "filename": "iep_xunzi.txt",
+      "size_bytes": 38189,
+      "size_chars_approx": 38189,
+      "sha256": "09ff4ae7b973cd1e2abe33d9f1b5e00089bc13f42941c7099848798c39b516e2"
+    },
+    {
+      "filename": "iep_yablo-pa.txt",
+      "size_bytes": 53831,
+      "size_chars_approx": 53831,
+      "sha256": "e294d10a118e0e17fc7e1cb0a98018523a161200389760307a22bb809cdb7bb8"
+    },
+    {
+      "filename": "iep_yangxion.txt",
+      "size_bytes": 37681,
+      "size_chars_approx": 37681,
+      "sha256": "f26b4876423838c3944787aba8740c683f36a33a25773d9fe17276d159a29446"
+    },
+    {
+      "filename": "iep_yinyang.txt",
+      "size_bytes": 25204,
+      "size_chars_approx": 25204,
+      "sha256": "de99fee0224c2870dd2ffe9c0a097e4b5d274e7efa5011dae3c014ac54415c93"
+    },
+    {
+      "filename": "iep_yoga.txt",
+      "size_bytes": 86542,
+      "size_chars_approx": 86542,
+      "sha256": "eef7222990960cd4fd6be4e6802ff1d74c9fd7438f68948151e51fe9bdac72d8"
+    },
+    {
+      "filename": "iep_zenos-paradoxes.txt",
+      "size_bytes": 122677,
+      "size_chars_approx": 122677,
+      "sha256": "3e990a5717659621664c7a484c6ef09cb6dbb3d5ab19985369b742fbfe292ee4"
+    },
+    {
+      "filename": "iep_zhang-ju.txt",
+      "size_bytes": 41704,
+      "size_chars_approx": 41704,
+      "sha256": "564cb10d4bdb6afdb2b9c78015295862b9defdcc664d751d0917d146d5b57ba4"
+    },
+    {
+      "filename": "iep_zhang-zai-chang-tsai.txt",
+      "size_bytes": 20709,
+      "size_chars_approx": 20709,
+      "sha256": "7f044713983009f35e1854e05e98f2bf716c7f95553aa34da6e31e5fcae533ac"
+    },
+    {
+      "filename": "iep_zhong-hui-chung-hui-chinese-philosopher.txt",
+      "size_bytes": 41567,
+      "size_chars_approx": 41567,
+      "sha256": "17fb74715e0818ca32d2f35fe38ec210bf89b7cf35dac5b894ba90e97c0e68a2"
+    },
+    {
+      "filename": "iep_zhou-dun.txt",
+      "size_bytes": 70151,
+      "size_chars_approx": 70151,
+      "sha256": "847c4469122076a43c73b35788fa0c65393484aeae5658148aecbd1e391867ab"
+    },
+    {
+      "filename": "iep_zhu-xi-chu-hsi-chinese-philosopher.txt",
+      "size_bytes": 32105,
+      "size_chars_approx": 32105,
+      "sha256": "688577b3c46ef8e604e2910a2d9cb325726c21e2fcdc1809d7e398810f608ed3"
+    },
+    {
+      "filename": "iep_zhuangzi-chuang-tzu-chinese-philosopher.txt",
+      "size_bytes": 55715,
+      "size_chars_approx": 55715,
+      "sha256": "1a8df426d19d4aaf899ea5e128c16f6ee5712d12f58e1496d1011c3d3e46b5f7"
+    },
+    {
+      "filename": "iep_zizek.txt",
+      "size_bytes": 81372,
+      "size_chars_approx": 81372,
+      "sha256": "78f6155caa5857858fe1bf496043e14cf69cbf1b08fcb44cbd23c02ad6c25079"
+    },
+    {
+      "filename": "iep_zongsan.txt",
+      "size_bytes": 32867,
+      "size_chars_approx": 32867,
+      "sha256": "15f0aa8323f60ffca64361a94e96b28348fed716ef33e47e1c1254b10eb46c0d"
+    }
+  ]
+}
