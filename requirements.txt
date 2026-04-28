@@ -1,0 +1,13 @@
+# Phase 0 — minimal requirements
+# More to be added as we enter each phase
+
+# Web fetching for corpus acquisition (Phase 1)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Text processing
+regex>=2024.0.0
+
+# Note: torch, transformers, unsloth, chromadb, etc.
+# will be added in their respective phases

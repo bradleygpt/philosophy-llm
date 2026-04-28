@@ -1,0 +1,36 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Project artifacts (large files, don't commit)
+corpus/raw/
+corpus/processed/
+retrieval/index/
+training/data/
+*.pt
+*.gguf
+*.bin
+*.safetensors
+
+# Eval results (timestamped, regeneratable)
+eval/results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+*.key
+
+# Jupyter
+.ipynb_checkpoints/
