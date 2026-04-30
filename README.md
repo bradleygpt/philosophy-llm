@@ -73,6 +73,9 @@ Acquisition scripts in [scripts/](scripts/), source manifests in [corpus/manifes
 - [ ] **Phase 6** — Constitutional AI training + zero-cost RLAIF
 - [ ] **Phase 7** — DPO refinement
 
+  
+  **Known issue (Gutenberg front-matter):** A small percentage of Gutenberg chunks (typically chunk 0 of each book) contain Project Gutenberg producer credits, transcriber notes, or table-of-contents content. This is roughly 37 chunks out of ~200,000 (~0.02% of corpus). The cleaner strips the most common boilerplate but cannot reliably distinguish substantive translator prefaces from filler. Will revisit in Phase 2.7 if retrieval testing surfaces real impact.
+
 ## Reproducing the corpus
 
 ```bash

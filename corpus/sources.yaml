@@ -24,7 +24,7 @@ sources:
       Marcus Aurelius, Epictetus, Bacon, James, Russell.
       Direct file downloads from gutenberg.org.
 
-  arxiv_philosophy:
+  arxiv:
     name: "arXiv Philosophy Papers"
     type: papers
     license: cc-or-similar

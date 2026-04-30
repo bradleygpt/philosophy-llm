@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-04-30T18:41:32.746714+00:00",
+  "chunk_parameters": {
+    "target_tokens": 500,
+    "overlap_tokens": 50,
+    "chars_per_token_estimate": 4
+  },
+  "totals": {
+    "sources": 4,
+    "documents": 3022,
+    "chunks": 145392,
+    "total_chars": 298937180,
+    "total_tokens_estimate": 74679463
+  },
+  "variant_chunk_counts": {
+    "personal": 145392,
+    "publishable": 48017
+  },
+  "sources": [
+    {
+      "source": "arxiv",
+      "license": "cc-or-similar",
+      "variants": [
+        "personal",
+        "publishable"
+      ],
+      "documents": 239,
+      "chunks": 7453,
+      "avg_chunks_per_doc": 31.2,
+      "total_chars": 15129503,
+      "total_tokens_estimate": 3779588,
+      "avg_chars_per_chunk": 2030.0,
+      "median_chars_per_chunk": 2083,
+      "jsonl_path": "corpus\\processed\\arxiv.jsonl",
+      "jsonl_size_mb": 18.35
+    },
+    {
+      "source": "gutenberg",
+      "license": "public-domain",
+      "variants": [
+        "personal",
+        "publishable"
+      ],
+      "documents": 37,
+      "chunks": 9488,
+      "avg_chunks_per_doc": 256.4,
+      "total_chars": 20483834,
+      "total_tokens_estimate": 5117380,
+      "avg_chars_per_chunk": 2158.9,
+      "median_chars_per_chunk": 2164.0,
+      "jsonl_path": "corpus\\processed\\gutenberg.jsonl",
+      "jsonl_size_mb": 23.65
+    },
+    {
+      "source": "iep",
+      "license": "open-access-attribution",
+      "variants": [
+        "personal",
+        "publishable"
+      ],
+      "documents": 889,
+      "chunks": 31076,
+      "avg_chunks_per_doc": 35.0,
+      "total_chars": 63919691,
+      "total_tokens_estimate": 15968122,
+      "avg_chars_per_chunk": 2056.9,
+      "median_chars_per_chunk": 2105.0,
+      "jsonl_path": "corpus\\processed\\iep.jsonl",
+      "jsonl_size_mb": 73.42
+    },
+    {
+      "source": "sep",
+      "license": "stanford-restricted",
+      "variants": [
+        "personal"
+      ],
+      "documents": 1857,
+      "chunks": 97375,
+      "avg_chunks_per_doc": 52.4,
+      "total_chars": 199404152,
+      "total_tokens_estimate": 49814373,
+      "avg_chars_per_chunk": 2047.8,
+      "median_chars_per_chunk": 2087,
+      "jsonl_path": "corpus\\processed\\sep.jsonl",
+      "jsonl_size_mb": 237.88
+    }
+  ]
+}
