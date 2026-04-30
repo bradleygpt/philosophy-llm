@@ -11,5 +11,11 @@ regex>=2024.0.0
 arxiv>=3.0.0
 pypdf>=6.0.0
 
-# Note: torch, transformers, unsloth, chromadb, etc.
-# will be added in their respective phases
+# Phase 2 — RAG infrastructure
+chromadb>=1.5.0
+sentence-transformers>=5.0.0
+rank-bm25>=0.2.0
+tqdm>=4.65.0
+
+# Note: torch, transformers, unsloth, etc.
+# will be added/pinned in their respective phases 
