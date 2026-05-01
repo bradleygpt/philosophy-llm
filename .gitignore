@@ -15,6 +15,10 @@ training/data/
 *.bin
 *.safetensors
 
+# Phase 2 — RAG indices (rebuildable from chunks via embed_corpus.py and build_bm25.py)
+retrieval/index_*/
+retrieval/bm25_*.pkl
+
 # Eval results (timestamped, regeneratable)
 eval/results/
 
